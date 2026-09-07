@@ -1,0 +1,33 @@
+name: Update Winamax odds
+
+on:
+  schedule:
+    - cron: "13 */2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-odds:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install dependencies
+        run: pip install requests
+      - name: Fetch one Winamax sport
+        env:
+          PULSESCORE_API_KEY: ${{ secrets.PULSESCORE_API_KEY }}
+        run: python fetch_winamax.py
+      - name: Commit updated odds
+        run: |
+          git config user.name "winamax-odds-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/winamax_odds.json
+          git diff --cached --quiet || git commit -m "Update Winamax odds"
+          git push
