@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-09T00:14:04.901495+00:00",
+  "generatedAt": "2026-09-09T07:22:42.730225+00:00",
   "source": "PulseScore / Winamax",
   "refreshStrategy": "weighted rotation every 2 hours; 32-slot/64-hour cycle; priority to soccer, tennis and basketball",
-  "currentSportRefreshed": "soccer",
-  "eventCount": 141,
+  "currentSportRefreshed": "baseball",
+  "eventCount": 156,
   "sportsRequested": [
     "soccer",
     "tennis",
@@ -63,7 +63,8 @@
     "snooker": "2026-09-07T21:30:31.049734+00:00",
     "soccer": "2026-09-09T00:14:04.901495+00:00",
     "basketball": "2026-09-08T12:52:11.683099+00:00",
-    "rugby-union": "2026-09-08T21:09:02.575296+00:00"
+    "rugby-union": "2026-09-08T21:09:02.575296+00:00",
+    "baseball": "2026-09-09T07:22:42.730225+00:00"
   },
   "errors": [],
   "events": [
@@ -4131,6 +4132,50 @@
       "_last_updated": "2026-09-07T10:54:33.362239+00:00"
     },
     {
+      "eventId": "63301765",
+      "away": "Minnesota Twins",
+      "country": "États-Unis",
+      "home": "Detroit Tigers",
+      "league": "MLB",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Vainqueur",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Detroit Tigers",
+              "odds": 1.74,
+              "isActive": true,
+              "selectionId": "2154660893"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Minnesota Twins",
+              "odds": 2.05,
+              "isActive": true,
+              "selectionId": "2154660894"
+            }
+          ],
+          "marketId": "251|"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/63301765",
+        "tournamentId": 25,
+        "srTournamentId": "sr:tournament:109"
+      },
+      "slug": "/paris-sportifs/match/63301765",
+      "sport": "baseball",
+      "startTime": "2026-09-09T17:10:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "baseball",
+      "_last_updated": "2026-09-09T07:22:42.730225+00:00"
+    },
+    {
       "eventId": "73164560",
       "away": "Wisla Plock",
       "country": "Europe",
@@ -8088,6 +8133,578 @@
       "_source": "Winamax",
       "_pulscore_sport": "basketball",
       "_last_updated": "2026-09-08T12:52:11.683099+00:00"
+    },
+    {
+      "eventId": "63301247",
+      "away": "Toronto Blue Jays",
+      "country": "États-Unis",
+      "home": "Athletics",
+      "league": "MLB",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Vainqueur",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Athletics",
+              "odds": 2.4,
+              "isActive": true,
+              "selectionId": "2155392499"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Toronto Blue Jays",
+              "odds": 1.49,
+              "isActive": true,
+              "selectionId": "2155392500"
+            }
+          ],
+          "marketId": "251|"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/63301247",
+        "tournamentId": 25,
+        "srTournamentId": "sr:tournament:109"
+      },
+      "slug": "/paris-sportifs/match/63301247",
+      "sport": "baseball",
+      "startTime": "2026-09-09T19:05:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "baseball",
+      "_last_updated": "2026-09-09T07:22:42.730225+00:00"
+    },
+    {
+      "eventId": "63299279",
+      "away": "St. Louis Cardinals",
+      "country": "États-Unis",
+      "home": "San Francisco Giants",
+      "league": "MLB",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Vainqueur",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "San Francisco Giants",
+              "odds": 1.96,
+              "isActive": true,
+              "selectionId": "2155159780"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "St. Louis Cardinals",
+              "odds": 1.74,
+              "isActive": true,
+              "selectionId": "2155159781"
+            }
+          ],
+          "marketId": "251|"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/63299279",
+        "tournamentId": 25,
+        "srTournamentId": "sr:tournament:109"
+      },
+      "slug": "/paris-sportifs/match/63299279",
+      "sport": "baseball",
+      "startTime": "2026-09-09T19:45:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "baseball",
+      "_last_updated": "2026-09-09T07:22:42.730225+00:00"
+    },
+    {
+      "eventId": "63302061",
+      "away": "Washington Nationals",
+      "country": "États-Unis",
+      "home": "San Diego Padres",
+      "league": "MLB",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Vainqueur",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "San Diego Padres",
+              "odds": 1.48,
+              "isActive": true,
+              "selectionId": "2154670257"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Washington Nationals",
+              "odds": 2.45,
+              "isActive": true,
+              "selectionId": "2154670258"
+            }
+          ],
+          "marketId": "251|"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/63302061",
+        "tournamentId": 25,
+        "srTournamentId": "sr:tournament:109"
+      },
+      "slug": "/paris-sportifs/match/63302061",
+      "sport": "baseball",
+      "startTime": "2026-09-09T20:10:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "baseball",
+      "_last_updated": "2026-09-09T07:22:42.730225+00:00"
+    },
+    {
+      "eventId": "63301063",
+      "away": "Texas Rangers",
+      "country": "États-Unis",
+      "home": "Seattle Mariners",
+      "league": "MLB",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Vainqueur",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Seattle Mariners",
+              "odds": 1.58,
+              "isActive": true,
+              "selectionId": "2154868804"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Texas Rangers",
+              "odds": 2.2,
+              "isActive": true,
+              "selectionId": "2154868805"
+            }
+          ],
+          "marketId": "251|"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/63301063",
+        "tournamentId": 25,
+        "srTournamentId": "sr:tournament:109"
+      },
+      "slug": "/paris-sportifs/match/63301063",
+      "sport": "baseball",
+      "startTime": "2026-09-09T20:10:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "baseball",
+      "_last_updated": "2026-09-09T07:22:42.730225+00:00"
+    },
+    {
+      "eventId": "63301829",
+      "away": "Cleveland Guardians",
+      "country": "États-Unis",
+      "home": "Baltimore Orioles",
+      "league": "MLB",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Vainqueur",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Baltimore Orioles",
+              "odds": 1.86,
+              "isActive": true,
+              "selectionId": "2154678153"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Cleveland Guardians",
+              "odds": 1.82,
+              "isActive": true,
+              "selectionId": "2154678154"
+            }
+          ],
+          "marketId": "251|"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/63301829",
+        "tournamentId": 25,
+        "srTournamentId": "sr:tournament:109"
+      },
+      "slug": "/paris-sportifs/match/63301829",
+      "sport": "baseball",
+      "startTime": "2026-09-09T22:35:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "baseball",
+      "_last_updated": "2026-09-09T07:22:42.730225+00:00"
+    },
+    {
+      "eventId": "63301637",
+      "away": "New York Mets",
+      "country": "États-Unis",
+      "home": "Miami Marlins",
+      "league": "MLB",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Vainqueur",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Miami Marlins",
+              "odds": 1.74,
+              "isActive": true,
+              "selectionId": "2154681045"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "New York Mets",
+              "odds": 1.96,
+              "isActive": true,
+              "selectionId": "2154681046"
+            }
+          ],
+          "marketId": "251|"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/63301637",
+        "tournamentId": 25,
+        "srTournamentId": "sr:tournament:109"
+      },
+      "slug": "/paris-sportifs/match/63301637",
+      "sport": "baseball",
+      "startTime": "2026-09-09T22:40:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "baseball",
+      "_last_updated": "2026-09-09T07:22:42.730225+00:00"
+    },
+    {
+      "eventId": "63303729",
+      "away": "Houston Astros",
+      "country": "États-Unis",
+      "home": "Philadelphia Phillies",
+      "league": "MLB",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Vainqueur",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Philadelphia Phillies",
+              "odds": 1.56,
+              "isActive": true,
+              "selectionId": "2154681088"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Houston Astros",
+              "odds": 2.2,
+              "isActive": true,
+              "selectionId": "2154681089"
+            }
+          ],
+          "marketId": "251|"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/63303729",
+        "tournamentId": 25,
+        "srTournamentId": "sr:tournament:109"
+      },
+      "slug": "/paris-sportifs/match/63303729",
+      "sport": "baseball",
+      "startTime": "2026-09-09T22:40:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "baseball",
+      "_last_updated": "2026-09-09T07:22:42.730225+00:00"
+    },
+    {
+      "eventId": "63302065",
+      "away": "Los Angeles Angels",
+      "country": "États-Unis",
+      "home": "Boston Red Sox",
+      "league": "MLB",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Vainqueur",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Boston Red Sox",
+              "odds": 1.44,
+              "isActive": true,
+              "selectionId": "2154689548"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Los Angeles Angels",
+              "odds": 2.55,
+              "isActive": true,
+              "selectionId": "2154689549"
+            }
+          ],
+          "marketId": "251|"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/63302065",
+        "tournamentId": 25,
+        "srTournamentId": "sr:tournament:109"
+      },
+      "slug": "/paris-sportifs/match/63302065",
+      "sport": "baseball",
+      "startTime": "2026-09-09T22:45:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "baseball",
+      "_last_updated": "2026-09-09T07:22:42.730225+00:00"
+    },
+    {
+      "eventId": "63301645",
+      "away": "Colorado Rockies",
+      "country": "États-Unis",
+      "home": "New York Yankees",
+      "league": "MLB",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Vainqueur",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "New York Yankees",
+              "odds": 1.39,
+              "isActive": true,
+              "selectionId": "2154700120"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Colorado Rockies",
+              "odds": 2.75,
+              "isActive": true,
+              "selectionId": "2154700121"
+            }
+          ],
+          "marketId": "251|"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/63301645",
+        "tournamentId": 25,
+        "srTournamentId": "sr:tournament:109"
+      },
+      "slug": "/paris-sportifs/match/63301645",
+      "sport": "baseball",
+      "startTime": "2026-09-09T23:05:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "baseball",
+      "_last_updated": "2026-09-09T07:22:42.730225+00:00"
+    },
+    {
+      "eventId": "63302083",
+      "away": "Tampa Bay Rays",
+      "country": "États-Unis",
+      "home": "Atlanta Braves",
+      "league": "MLB",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Vainqueur",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Atlanta Braves",
+              "odds": 1.76,
+              "isActive": true,
+              "selectionId": "2154698125"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Tampa Bay Rays",
+              "odds": 1.94,
+              "isActive": true,
+              "selectionId": "2154698126"
+            }
+          ],
+          "marketId": "251|"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/63302083",
+        "tournamentId": 25,
+        "srTournamentId": "sr:tournament:109"
+      },
+      "slug": "/paris-sportifs/match/63302083",
+      "sport": "baseball",
+      "startTime": "2026-09-09T23:15:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "baseball",
+      "_last_updated": "2026-09-09T07:22:42.730225+00:00"
+    },
+    {
+      "eventId": "63303183",
+      "away": "Chicago Cubs",
+      "country": "États-Unis",
+      "home": "Milwaukee Brewers",
+      "league": "MLB",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Vainqueur",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Milwaukee Brewers",
+              "odds": 1.7,
+              "isActive": true,
+              "selectionId": "2154702707"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Chicago Cubs",
+              "odds": 2,
+              "isActive": true,
+              "selectionId": "2154702708"
+            }
+          ],
+          "marketId": "251|"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/63303183",
+        "tournamentId": 25,
+        "srTournamentId": "sr:tournament:109"
+      },
+      "slug": "/paris-sportifs/match/63303183",
+      "sport": "baseball",
+      "startTime": "2026-09-09T23:40:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "baseball",
+      "_last_updated": "2026-09-09T07:22:42.730225+00:00"
+    },
+    {
+      "eventId": "63302501",
+      "away": "Pittsburgh Pirates",
+      "country": "États-Unis",
+      "home": "Chicago White Sox",
+      "league": "MLB",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Vainqueur",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Chicago White Sox",
+              "odds": 1.6,
+              "isActive": true,
+              "selectionId": "2154945969"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Pittsburgh Pirates",
+              "odds": 2.15,
+              "isActive": true,
+              "selectionId": "2154945970"
+            }
+          ],
+          "marketId": "251|"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/63302501",
+        "tournamentId": 25,
+        "srTournamentId": "sr:tournament:109"
+      },
+      "slug": "/paris-sportifs/match/63302501",
+      "sport": "baseball",
+      "startTime": "2026-09-09T23:40:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "baseball",
+      "_last_updated": "2026-09-09T07:22:42.730225+00:00"
+    },
+    {
+      "eventId": "63299427",
+      "away": "Arizona Diamondbacks",
+      "country": "États-Unis",
+      "home": "Kansas City Royals",
+      "league": "MLB",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Vainqueur",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Kansas City Royals",
+              "odds": 1.88,
+              "isActive": true,
+              "selectionId": "2155304878"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Arizona Diamondbacks",
+              "odds": 1.8,
+              "isActive": true,
+              "selectionId": "2155304879"
+            }
+          ],
+          "marketId": "251|"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/63299427",
+        "tournamentId": 25,
+        "srTournamentId": "sr:tournament:109"
+      },
+      "slug": "/paris-sportifs/match/63299427",
+      "sport": "baseball",
+      "startTime": "2026-09-09T23:40:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "baseball",
+      "_last_updated": "2026-09-09T07:22:42.730225+00:00"
     },
     {
       "eventId": "71515752",
@@ -13603,6 +14220,50 @@
       "startTime": "2026-09-10T00:20:00.000Z",
       "_source": "Winamax",
       "_pulscore_sport": "american-football"
+    },
+    {
+      "eventId": "63302679",
+      "away": "Cincinnati Reds",
+      "country": "États-Unis",
+      "home": "Los Angeles Dodgers",
+      "league": "MLB",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Vainqueur",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Los Angeles Dodgers",
+              "odds": 1.32,
+              "isActive": true,
+              "selectionId": "2154709730"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Cincinnati Reds",
+              "odds": 2.85,
+              "isActive": true,
+              "selectionId": "2154709731"
+            }
+          ],
+          "marketId": "251|"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/63302679",
+        "tournamentId": 25,
+        "srTournamentId": "sr:tournament:109"
+      },
+      "slug": "/paris-sportifs/match/63302679",
+      "sport": "baseball",
+      "startTime": "2026-09-10T02:10:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "baseball",
+      "_last_updated": "2026-09-09T07:22:42.730225+00:00"
     },
     {
       "eventId": "73164536",
