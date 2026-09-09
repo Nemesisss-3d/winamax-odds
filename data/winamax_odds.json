@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-09T07:22:42.730225+00:00",
+  "generatedAt": "2026-09-09T12:57:57.122137+00:00",
   "source": "PulseScore / Winamax",
   "refreshStrategy": "weighted rotation every 2 hours; 32-slot/64-hour cycle; priority to soccer, tennis and basketball",
-  "currentSportRefreshed": "baseball",
-  "eventCount": 156,
+  "currentSportRefreshed": "ice-hockey",
+  "eventCount": 160,
   "sportsRequested": [
     "soccer",
     "tennis",
@@ -64,7 +64,8 @@
     "soccer": "2026-09-09T00:14:04.901495+00:00",
     "basketball": "2026-09-08T12:52:11.683099+00:00",
     "rugby-union": "2026-09-08T21:09:02.575296+00:00",
-    "baseball": "2026-09-09T07:22:42.730225+00:00"
+    "baseball": "2026-09-09T07:22:42.730225+00:00",
+    "ice-hockey": "2026-09-09T12:57:57.122137+00:00"
   },
   "errors": [],
   "events": [
@@ -24463,6 +24464,57 @@
       "_last_updated": "2026-09-07T11:00:34.315868+00:00"
     },
     {
+      "eventId": "72166114",
+      "away": "Amur Khabarovsk",
+      "country": "Russie",
+      "home": "Barys Astana",
+      "league": "KHL",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Barys",
+              "odds": 2,
+              "isActive": true,
+              "selectionId": "2155536891"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 3.75,
+              "isActive": true,
+              "selectionId": "2155536892"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Khabarovsk",
+              "odds": 2.3,
+              "isActive": true,
+              "selectionId": "2155536893"
+            }
+          ],
+          "marketId": "1|type=prematch"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/72166114",
+        "tournamentId": 673,
+        "srTournamentId": "sr:tournament:268"
+      },
+      "slug": "/paris-sportifs/match/72166114",
+      "sport": "ice_hockey",
+      "startTime": "2026-09-12T11:30:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "ice-hockey",
+      "_last_updated": "2026-09-09T12:57:57.122137+00:00"
+    },
+    {
       "eventId": "66349624",
       "away": "Castleford Tigers",
       "country": "Europe",
@@ -24917,6 +24969,159 @@
       "_source": "Winamax",
       "_pulscore_sport": "rugby-league",
       "_last_updated": "2026-09-07T11:00:34.315868+00:00"
+    },
+    {
+      "eventId": "72166112",
+      "away": "Dinamo Minsk",
+      "country": "Russie",
+      "home": "Dynamo Moscou",
+      "league": "KHL",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Dynamo Moscou",
+              "odds": 1.92,
+              "isActive": true,
+              "selectionId": "2155546483"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 3.85,
+              "isActive": true,
+              "selectionId": "2155546484"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Dinamo Minsk",
+              "odds": 2.4,
+              "isActive": true,
+              "selectionId": "2155546485"
+            }
+          ],
+          "marketId": "1|type=prematch"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/72166112",
+        "tournamentId": 673,
+        "srTournamentId": "sr:tournament:268"
+      },
+      "slug": "/paris-sportifs/match/72166112",
+      "sport": "ice_hockey",
+      "startTime": "2026-09-12T14:00:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "ice-hockey",
+      "_last_updated": "2026-09-09T12:57:57.122137+00:00"
+    },
+    {
+      "eventId": "72166116",
+      "away": "SKA St-Pétersbourg",
+      "country": "Russie",
+      "home": "Sochi",
+      "league": "KHL",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Sochi",
+              "odds": 3.9,
+              "isActive": true,
+              "selectionId": "2155553800"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 4.1,
+              "isActive": true,
+              "selectionId": "2155553801"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "SKA St-Pétersbourg",
+              "odds": 1.43,
+              "isActive": true,
+              "selectionId": "2155553802"
+            }
+          ],
+          "marketId": "1|type=prematch"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/72166116",
+        "tournamentId": 673,
+        "srTournamentId": "sr:tournament:268"
+      },
+      "slug": "/paris-sportifs/match/72166116",
+      "sport": "ice_hockey",
+      "startTime": "2026-09-12T14:00:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "ice-hockey",
+      "_last_updated": "2026-09-09T12:57:57.122137+00:00"
+    },
+    {
+      "eventId": "72166118",
+      "away": "Severstal Cherepovets",
+      "country": "Russie",
+      "home": "Spartak Moscou",
+      "league": "KHL",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Spartak Moscou",
+              "odds": 1.66,
+              "isActive": true,
+              "selectionId": "2155563264"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 3.9,
+              "isActive": true,
+              "selectionId": "2155563265"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Severstal Cherepovets",
+              "odds": 2.95,
+              "isActive": true,
+              "selectionId": "2155563266"
+            }
+          ],
+          "marketId": "1|type=prematch"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/72166118",
+        "tournamentId": 673,
+        "srTournamentId": "sr:tournament:268"
+      },
+      "slug": "/paris-sportifs/match/72166118",
+      "sport": "ice_hockey",
+      "startTime": "2026-09-12T14:00:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "ice-hockey",
+      "_last_updated": "2026-09-09T12:57:57.122137+00:00"
     },
     {
       "eventId": "72982510",
