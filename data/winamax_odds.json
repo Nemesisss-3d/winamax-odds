@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-08T21:09:02.575296+00:00",
+  "generatedAt": "2026-09-09T00:14:04.901495+00:00",
   "source": "PulseScore / Winamax",
   "refreshStrategy": "weighted rotation every 2 hours; 32-slot/64-hour cycle; priority to soccer, tennis and basketball",
-  "currentSportRefreshed": "rugby-union",
-  "eventCount": 129,
+  "currentSportRefreshed": "soccer",
+  "eventCount": 141,
   "sportsRequested": [
     "soccer",
     "tennis",
@@ -61,7 +61,7 @@
     "rugby-league": "2026-09-07T11:00:34.315868+00:00",
     "mma": "2026-09-07T17:44:56.783395+00:00",
     "snooker": "2026-09-07T21:30:31.049734+00:00",
-    "soccer": "2026-09-08T17:55:07.027920+00:00",
+    "soccer": "2026-09-09T00:14:04.901495+00:00",
     "basketball": "2026-09-08T12:52:11.683099+00:00",
     "rugby-union": "2026-09-08T21:09:02.575296+00:00"
   },
@@ -13917,6 +13917,58 @@
       "_last_updated": "2026-09-07T10:54:33.362239+00:00"
     },
     {
+      "eventId": "74136258",
+      "away": "US Biskra",
+      "country": "Algérie",
+      "home": "ES Ben Aknoun",
+      "league": "Ligue 1",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "ES Ben Aknoun",
+              "odds": 1.74,
+              "isActive": true,
+              "selectionId": "2154725098"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 3.5,
+              "isActive": true,
+              "selectionId": "2154725099"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "US Biskra",
+              "odds": 3.75,
+              "isActive": true,
+              "selectionId": "2154725100"
+            }
+          ],
+          "marketId": "1|type=prematch"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/74136258",
+        "tournamentId": 3657,
+        "srTournamentId": "sr:tournament:841",
+        "round": "J2"
+      },
+      "slug": "/paris-sportifs/match/74136258",
+      "sport": "soccer",
+      "startTime": "2026-09-10T18:00:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "soccer",
+      "_last_updated": "2026-09-09T00:14:04.901495+00:00"
+    },
+    {
       "eventId": "73164562",
       "away": "Vardar Skopje",
       "country": "Europe",
@@ -14526,6 +14578,58 @@
       "_source": "Winamax",
       "_pulscore_sport": "rugby-league",
       "_last_updated": "2026-09-07T11:00:34.315868+00:00"
+    },
+    {
+      "eventId": "74136372",
+      "away": "JS El Biar",
+      "country": "Algérie",
+      "home": "USM Alger",
+      "league": "Ligue 1",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "USM Alger",
+              "odds": 1.41,
+              "isActive": true,
+              "selectionId": "2154768760"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 3.85,
+              "isActive": true,
+              "selectionId": "2154768761"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "JS El Biar",
+              "odds": 6.25,
+              "isActive": true,
+              "selectionId": "2154768762"
+            }
+          ],
+          "marketId": "1|type=prematch"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/74136372",
+        "tournamentId": 3657,
+        "srTournamentId": "sr:tournament:841",
+        "round": "J2"
+      },
+      "slug": "/paris-sportifs/match/74136372",
+      "sport": "soccer",
+      "startTime": "2026-09-10T20:00:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "soccer",
+      "_last_updated": "2026-09-09T00:14:04.901495+00:00"
     },
     {
       "eventId": "71387370",
@@ -20374,6 +20478,110 @@
       "_pulscore_sport": "australian-rules"
     },
     {
+      "eventId": "73215736",
+      "away": "Al-Ettifaq",
+      "country": "Arabie Saoudite",
+      "home": "Al-Qadsiah",
+      "league": "Saudi Pro League",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Al-Qadsiah",
+              "odds": 1.21,
+              "isActive": true,
+              "selectionId": "2154685107"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 5.7,
+              "isActive": true,
+              "selectionId": "2154685108"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Al-Ettifaq",
+              "odds": 6.75,
+              "isActive": true,
+              "selectionId": "2154685109"
+            }
+          ],
+          "marketId": "1|type=prematch"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/73215736",
+        "tournamentId": 3708,
+        "srTournamentId": "sr:tournament:955",
+        "round": "J7"
+      },
+      "slug": "/paris-sportifs/match/73215736",
+      "sport": "soccer",
+      "startTime": "2026-09-11T15:25:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "soccer",
+      "_last_updated": "2026-09-09T00:14:04.901495+00:00"
+    },
+    {
+      "eventId": "73215734",
+      "away": "Al-Ittihad FC",
+      "country": "Arabie Saoudite",
+      "home": "Al-Faisaly",
+      "league": "Saudi Pro League",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Al-Faisaly",
+              "odds": 3.55,
+              "isActive": true,
+              "selectionId": "2154688978"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 3.7,
+              "isActive": true,
+              "selectionId": "2154688979"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Al-Ittihad FC",
+              "odds": 1.68,
+              "isActive": true,
+              "selectionId": "2154688980"
+            }
+          ],
+          "marketId": "1|type=prematch"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/73215734",
+        "tournamentId": 3708,
+        "srTournamentId": "sr:tournament:955",
+        "round": "J7"
+      },
+      "slug": "/paris-sportifs/match/73215734",
+      "sport": "soccer",
+      "startTime": "2026-09-11T15:45:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "soccer",
+      "_last_updated": "2026-09-09T00:14:04.901495+00:00"
+    },
+    {
       "eventId": "72982502",
       "away": "Frigoríficos del Morrazo",
       "country": "Espagne",
@@ -20580,6 +20788,58 @@
       "_source": "Winamax",
       "_pulscore_sport": "handball",
       "_last_updated": "2026-09-07T10:54:33.362239+00:00"
+    },
+    {
+      "eventId": "73215730",
+      "away": "Al Hazem",
+      "country": "Arabie Saoudite",
+      "home": "Al Ahli SC",
+      "league": "Saudi Pro League",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Al Ahli SC",
+              "odds": 1.25,
+              "isActive": true,
+              "selectionId": "2154685206"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 5.1,
+              "isActive": true,
+              "selectionId": "2154685207"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Al Hazem",
+              "odds": 6.75,
+              "isActive": true,
+              "selectionId": "2154685208"
+            }
+          ],
+          "marketId": "1|type=prematch"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/73215730",
+        "tournamentId": 3708,
+        "srTournamentId": "sr:tournament:955",
+        "round": "J7"
+      },
+      "slug": "/paris-sportifs/match/73215730",
+      "sport": "soccer",
+      "startTime": "2026-09-11T18:00:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "soccer",
+      "_last_updated": "2026-09-09T00:14:04.901495+00:00"
     },
     {
       "eventId": "66349626",
@@ -24118,21 +24378,21 @@
             {
               "canonicalOutcome": "HOME",
               "rawName": "Al-Taawon",
-              "odds": 7,
+              "odds": 6.25,
               "isActive": true,
               "selectionId": "2154485166"
             },
             {
               "canonicalOutcome": "DRAW",
               "rawName": "Match nul",
-              "odds": 5.5,
+              "odds": 4.9,
               "isActive": true,
               "selectionId": "2154485167"
             },
             {
               "canonicalOutcome": "AWAY",
               "rawName": "Al-Hilal",
-              "odds": 1.18,
+              "odds": 1.24,
               "isActive": true,
               "selectionId": "2154485168"
             }
@@ -24151,7 +24411,7 @@
       "startTime": "2026-09-12T15:50:00.000Z",
       "_source": "Winamax",
       "_pulscore_sport": "soccer",
-      "_last_updated": "2026-09-08T17:55:07.027920+00:00"
+      "_last_updated": "2026-09-09T00:14:04.901495+00:00"
     },
     {
       "eventId": "72982504",
@@ -24360,6 +24620,110 @@
       "_source": "Winamax",
       "_pulscore_sport": "handball",
       "_last_updated": "2026-09-07T10:54:33.362239+00:00"
+    },
+    {
+      "eventId": "73215732",
+      "away": "Al-Nassr",
+      "country": "Arabie Saoudite",
+      "home": "Al Khaleej",
+      "league": "Saudi Pro League",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Al Khaleej",
+              "odds": 6.5,
+              "isActive": true,
+              "selectionId": "2154878088"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 4.8,
+              "isActive": true,
+              "selectionId": "2154878089"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Al-Nassr",
+              "odds": 1.24,
+              "isActive": true,
+              "selectionId": "2154878090"
+            }
+          ],
+          "marketId": "1|type=prematch"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/73215732",
+        "tournamentId": 3708,
+        "srTournamentId": "sr:tournament:955",
+        "round": "J7"
+      },
+      "slug": "/paris-sportifs/match/73215732",
+      "sport": "soccer",
+      "startTime": "2026-09-12T18:00:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "soccer",
+      "_last_updated": "2026-09-09T00:14:04.901495+00:00"
+    },
+    {
+      "eventId": "73215740",
+      "away": "Al Feiha",
+      "country": "Arabie Saoudite",
+      "home": "Al Shabab",
+      "league": "Saudi Pro League",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Al Shabab",
+              "odds": 1.56,
+              "isActive": true,
+              "selectionId": "2154875994"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 3.65,
+              "isActive": true,
+              "selectionId": "2154875995"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Al Feiha",
+              "odds": 4,
+              "isActive": true,
+              "selectionId": "2154875996"
+            }
+          ],
+          "marketId": "1|type=prematch"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/73215740",
+        "tournamentId": 3708,
+        "srTournamentId": "sr:tournament:955",
+        "round": "J7"
+      },
+      "slug": "/paris-sportifs/match/73215740",
+      "sport": "soccer",
+      "startTime": "2026-09-12T18:00:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "soccer",
+      "_last_updated": "2026-09-09T00:14:04.901495+00:00"
     },
     {
       "eventId": "72982506",
@@ -25799,7 +26163,7 @@
       "startTime": "2026-09-13T15:45:00.000Z",
       "_source": "Winamax",
       "_pulscore_sport": "soccer",
-      "_last_updated": "2026-09-08T17:55:07.027920+00:00"
+      "_last_updated": "2026-09-09T00:14:04.901495+00:00"
     },
     {
       "eventId": "67912810",
@@ -25851,7 +26215,59 @@
       "startTime": "2026-09-13T16:00:00.000Z",
       "_source": "Winamax",
       "_pulscore_sport": "soccer",
-      "_last_updated": "2026-09-08T17:55:07.027920+00:00"
+      "_last_updated": "2026-09-09T00:14:04.901495+00:00"
+    },
+    {
+      "eventId": "74214694",
+      "away": "Al Fateh",
+      "country": "Arabie Saoudite",
+      "home": "Neom",
+      "league": "Saudi Pro League",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Neom",
+              "odds": 1.6,
+              "isActive": true,
+              "selectionId": "2154875970"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 3.5,
+              "isActive": true,
+              "selectionId": "2154875971"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Al Fateh",
+              "odds": 3.85,
+              "isActive": true,
+              "selectionId": "2154875972"
+            }
+          ],
+          "marketId": "1|type=prematch"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/74214694",
+        "tournamentId": 3708,
+        "srTournamentId": "sr:tournament:955",
+        "round": "J7"
+      },
+      "slug": "/paris-sportifs/match/74214694",
+      "sport": "soccer",
+      "startTime": "2026-09-13T16:20:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "soccer",
+      "_last_updated": "2026-09-09T00:14:04.901495+00:00"
     },
     {
       "eventId": "72982508",
@@ -63188,6 +63604,110 @@
       "_pulscore_sport": "american-football"
     },
     {
+      "eventId": "74214604",
+      "away": "Al-Kholood",
+      "country": "Arabie Saoudite",
+      "home": "Al Riyadh",
+      "league": "Saudi Pro League",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Al Riyadh",
+              "odds": 2.45,
+              "isActive": true,
+              "selectionId": "2154875984"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 3.15,
+              "isActive": true,
+              "selectionId": "2154875985"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Al-Kholood",
+              "odds": 2.25,
+              "isActive": true,
+              "selectionId": "2154875986"
+            }
+          ],
+          "marketId": "1|type=prematch"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/74214604",
+        "tournamentId": 3708,
+        "srTournamentId": "sr:tournament:955",
+        "round": "J7"
+      },
+      "slug": "/paris-sportifs/match/74214604",
+      "sport": "soccer",
+      "startTime": "2026-09-13T18:00:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "soccer",
+      "_last_updated": "2026-09-09T00:14:04.901495+00:00"
+    },
+    {
+      "eventId": "74214684",
+      "away": "Abha",
+      "country": "Arabie Saoudite",
+      "home": "Diriyah Club",
+      "league": "Saudi Pro League",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Diriyah Club",
+              "odds": 1.46,
+              "isActive": true,
+              "selectionId": "2154876089"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 3.7,
+              "isActive": true,
+              "selectionId": "2154876090"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Abha",
+              "odds": 4.7,
+              "isActive": true,
+              "selectionId": "2154876091"
+            }
+          ],
+          "marketId": "1|type=prematch"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/74214684",
+        "tournamentId": 3708,
+        "srTournamentId": "sr:tournament:955",
+        "round": "J7"
+      },
+      "slug": "/paris-sportifs/match/74214684",
+      "sport": "soccer",
+      "startTime": "2026-09-13T18:00:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "soccer",
+      "_last_updated": "2026-09-09T00:14:04.901495+00:00"
+    },
+    {
       "eventId": "71515770",
       "away": "Arizona Cardinals",
       "country": "États-Unis",
@@ -85594,14 +86114,14 @@
             {
               "canonicalOutcome": "DRAW",
               "rawName": "Match nul",
-              "odds": 5.6,
+              "odds": 5.8,
               "isActive": true,
               "selectionId": "2154479844"
             },
             {
               "canonicalOutcome": "AWAY",
               "rawName": "Keflavik",
-              "odds": 6.5,
+              "odds": 6.25,
               "isActive": true,
               "selectionId": "2154479845"
             }
@@ -85619,7 +86139,7 @@
       "startTime": "2026-09-14T19:15:00.000Z",
       "_source": "Winamax",
       "_pulscore_sport": "soccer",
-      "_last_updated": "2026-09-08T17:55:07.027920+00:00"
+      "_last_updated": "2026-09-09T00:14:04.901495+00:00"
     },
     {
       "eventId": "71474268",
@@ -90285,7 +90805,7 @@
       "startTime": "2026-09-15T16:00:00.000Z",
       "_source": "Winamax",
       "_pulscore_sport": "soccer",
-      "_last_updated": "2026-09-08T17:55:07.027920+00:00"
+      "_last_updated": "2026-09-09T00:14:04.901495+00:00"
     },
     {
       "eventId": "72225184",
@@ -90304,7 +90824,7 @@
             {
               "canonicalOutcome": "HOME",
               "rawName": "Ironi Tiberias",
-              "odds": 2.5,
+              "odds": 2.45,
               "isActive": true,
               "selectionId": "2154586195"
             },
@@ -90318,7 +90838,7 @@
             {
               "canonicalOutcome": "AWAY",
               "rawName": "Hapoel Jerusalem",
-              "odds": 2.3,
+              "odds": 2.35,
               "isActive": true,
               "selectionId": "2154586197"
             }
@@ -90337,7 +90857,111 @@
       "startTime": "2026-09-15T16:30:00.000Z",
       "_source": "Winamax",
       "_pulscore_sport": "soccer",
-      "_last_updated": "2026-09-08T17:55:07.027920+00:00"
+      "_last_updated": "2026-09-09T00:14:04.901495+00:00"
+    },
+    {
+      "eventId": "72339796",
+      "away": "Lincoln City",
+      "country": "Angleterre",
+      "home": "Bristol City",
+      "league": "Championship",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Bristol City",
+              "odds": 1.86,
+              "isActive": true,
+              "selectionId": "2154755528"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 3.25,
+              "isActive": true,
+              "selectionId": "2154755529"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Lincoln City",
+              "odds": 2.95,
+              "isActive": true,
+              "selectionId": "2154755530"
+            }
+          ],
+          "marketId": "1|type=prematch"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/72339796",
+        "tournamentId": 2,
+        "srTournamentId": "sr:tournament:18",
+        "round": "J6"
+      },
+      "slug": "/paris-sportifs/match/72339796",
+      "sport": "soccer",
+      "startTime": "2026-09-15T18:45:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "soccer",
+      "_last_updated": "2026-09-09T00:14:04.901495+00:00"
+    },
+    {
+      "eventId": "72339800",
+      "away": "Millwall",
+      "country": "Angleterre",
+      "home": "Middlesbrough",
+      "league": "Championship",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Middlesbrough",
+              "odds": 1.72,
+              "isActive": true,
+              "selectionId": "2154755847"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 3.35,
+              "isActive": true,
+              "selectionId": "2154755848"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Millwall",
+              "odds": 3.35,
+              "isActive": true,
+              "selectionId": "2154755849"
+            }
+          ],
+          "marketId": "1|type=prematch"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/72339800",
+        "tournamentId": 2,
+        "srTournamentId": "sr:tournament:18",
+        "round": "J6"
+      },
+      "slug": "/paris-sportifs/match/72339800",
+      "sport": "soccer",
+      "startTime": "2026-09-15T18:45:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "soccer",
+      "_last_updated": "2026-09-09T00:14:04.901495+00:00"
     },
     {
       "eventId": "68096072",
