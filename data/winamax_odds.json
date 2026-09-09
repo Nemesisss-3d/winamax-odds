@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-09T12:57:57.122137+00:00",
+  "generatedAt": "2026-09-09T17:49:56.623434+00:00",
   "source": "PulseScore / Winamax",
   "refreshStrategy": "weighted rotation every 2 hours; 32-slot/64-hour cycle; priority to soccer, tennis and basketball",
-  "currentSportRefreshed": "ice-hockey",
-  "eventCount": 160,
+  "currentSportRefreshed": "rugby-union",
+  "eventCount": 180,
   "sportsRequested": [
     "soccer",
     "tennis",
@@ -63,4119 +63,12 @@
     "snooker": "2026-09-07T21:30:31.049734+00:00",
     "soccer": "2026-09-09T00:14:04.901495+00:00",
     "basketball": "2026-09-08T12:52:11.683099+00:00",
-    "rugby-union": "2026-09-08T21:09:02.575296+00:00",
+    "rugby-union": "2026-09-09T17:49:56.623434+00:00",
     "baseball": "2026-09-09T07:22:42.730225+00:00",
     "ice-hockey": "2026-09-09T12:57:57.122137+00:00"
   },
   "errors": [],
   "events": [
-    {
-      "eventId": "71036334",
-      "away": "Chine (F)",
-      "country": "International",
-      "home": "Porto-Rico (F)",
-      "league": "Coupe du Monde (F)",
-      "live": false,
-      "markets": [
-        {
-          "canonicalMarket": "MATCH_RESULT",
-          "rawName": "Vainqueur",
-          "period": "FULL_TIME",
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Porto-Rico (F)",
-              "odds": 3.3,
-              "isActive": true,
-              "selectionId": "2153257964"
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Chine (F)",
-              "odds": 1.16,
-              "isActive": true,
-              "selectionId": "2153257965"
-            }
-          ],
-          "marketId": "219|type=prematch"
-        },
-        {
-          "canonicalMarket": "ASIAN_HANDICAP",
-          "rawName": "Écart de points (handicap)",
-          "period": "FULL_TIME",
-          "line": 9.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Porto-Rico (F) +9.5",
-              "odds": 1.72,
-              "isActive": true,
-              "selectionId": "2153257966",
-              "line": 9.5
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Chine (F) -9.5",
-              "odds": 1.74,
-              "isActive": true,
-              "selectionId": "2153257967",
-              "line": 9.5
-            }
-          ],
-          "marketId": "223|hcp=9.5"
-        },
-        {
-          "canonicalMarket": "ASIAN_HANDICAP",
-          "rawName": "Écart de points (handicap)",
-          "period": "FULL_TIME",
-          "line": 22.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Porto-Rico (F) +22.5",
-              "odds": 1.08,
-              "isActive": true,
-              "selectionId": "2153257968",
-              "line": 22.5
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Chine (F) -22.5",
-              "odds": 5,
-              "isActive": true,
-              "selectionId": "2153257969",
-              "line": 22.5
-            }
-          ],
-          "marketId": "223|hcp=22.5"
-        },
-        {
-          "canonicalMarket": "ASIAN_HANDICAP",
-          "rawName": "Écart de points (handicap)",
-          "period": "FULL_TIME",
-          "line": 21.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Porto-Rico (F) +21.5",
-              "odds": 1.1,
-              "isActive": true,
-              "selectionId": "2153257970",
-              "line": 21.5
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Chine (F) -21.5",
-              "odds": 4.5,
-              "isActive": true,
-              "selectionId": "2153257971",
-              "line": 21.5
-            }
-          ],
-          "marketId": "223|hcp=21.5"
-        },
-        {
-          "canonicalMarket": "ASIAN_HANDICAP",
-          "rawName": "Écart de points (handicap)",
-          "period": "FULL_TIME",
-          "line": 20.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Porto-Rico (F) +20.5",
-              "odds": 1.12,
-              "isActive": true,
-              "selectionId": "2153257972",
-              "line": 20.5
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Chine (F) -20.5",
-              "odds": 4,
-              "isActive": true,
-              "selectionId": "2153257973",
-              "line": 20.5
-            }
-          ],
-          "marketId": "223|hcp=20.5"
-        },
-        {
-          "canonicalMarket": "ASIAN_HANDICAP",
-          "rawName": "Écart de points (handicap)",
-          "period": "FULL_TIME",
-          "line": 11.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Porto-Rico (F) +11.5",
-              "odds": 1.52,
-              "isActive": true,
-              "selectionId": "2153257976",
-              "line": 11.5
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Chine (F) -11.5",
-              "odds": 1.98,
-              "isActive": true,
-              "selectionId": "2153257977",
-              "line": 11.5
-            }
-          ],
-          "marketId": "223|hcp=11.5"
-        },
-        {
-          "canonicalMarket": "ASIAN_HANDICAP",
-          "rawName": "Écart de points (handicap)",
-          "period": "FULL_TIME",
-          "line": 10.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Porto-Rico (F) +10.5",
-              "odds": 1.6,
-              "isActive": true,
-              "selectionId": "2153257978",
-              "line": 10.5
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Chine (F) -10.5",
-              "odds": 1.86,
-              "isActive": true,
-              "selectionId": "2153257979",
-              "line": 10.5
-            }
-          ],
-          "marketId": "223|hcp=10.5"
-        },
-        {
-          "canonicalMarket": "ASIAN_HANDICAP",
-          "rawName": "Écart de points (handicap)",
-          "period": "FULL_TIME",
-          "line": 1.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Porto-Rico (F) +1.5",
-              "odds": 3.35,
-              "isActive": true,
-              "selectionId": "2153257980",
-              "line": 1.5
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Chine (F) -1.5",
-              "odds": 1.17,
-              "isActive": true,
-              "selectionId": "2153257981",
-              "line": 1.5
-            }
-          ],
-          "marketId": "223|hcp=1.5"
-        },
-        {
-          "canonicalMarket": "ASIAN_HANDICAP",
-          "rawName": "Écart de points (handicap)",
-          "period": "FULL_TIME",
-          "line": 19.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Porto-Rico (F) +19.5",
-              "odds": 1.14,
-              "isActive": true,
-              "selectionId": "2153257982",
-              "line": 19.5
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Chine (F) -19.5",
-              "odds": 3.65,
-              "isActive": true,
-              "selectionId": "2153257983",
-              "line": 19.5
-            }
-          ],
-          "marketId": "223|hcp=19.5"
-        },
-        {
-          "canonicalMarket": "ASIAN_HANDICAP",
-          "rawName": "Écart de points (handicap)",
-          "period": "FULL_TIME",
-          "line": -3.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Porto-Rico (F) -3.5",
-              "odds": 4.7,
-              "isActive": true,
-              "selectionId": "2153257984",
-              "line": -3.5
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Chine (F) +3.5",
-              "odds": 1.09,
-              "isActive": true,
-              "selectionId": "2153257985",
-              "line": -3.5
-            }
-          ],
-          "marketId": "223|hcp=-3.5"
-        },
-        {
-          "canonicalMarket": "ASIAN_HANDICAP",
-          "rawName": "Écart de points (handicap)",
-          "period": "FULL_TIME",
-          "line": 18.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Porto-Rico (F) +18.5",
-              "odds": 1.17,
-              "isActive": true,
-              "selectionId": "2153257986",
-              "line": 18.5
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Chine (F) -18.5",
-              "odds": 3.35,
-              "isActive": true,
-              "selectionId": "2153257987",
-              "line": 18.5
-            }
-          ],
-          "marketId": "223|hcp=18.5"
-        },
-        {
-          "canonicalMarket": "ASIAN_HANDICAP",
-          "rawName": "Écart de points (handicap)",
-          "period": "FULL_TIME",
-          "line": -2.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Porto-Rico (F) -2.5",
-              "odds": 4.2,
-              "isActive": true,
-              "selectionId": "2153257988",
-              "line": -2.5
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Chine (F) +2.5",
-              "odds": 1.11,
-              "isActive": true,
-              "selectionId": "2153257989",
-              "line": -2.5
-            }
-          ],
-          "marketId": "223|hcp=-2.5"
-        },
-        {
-          "canonicalMarket": "ASIAN_HANDICAP",
-          "rawName": "Écart de points (handicap)",
-          "period": "FULL_TIME",
-          "line": 2.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Porto-Rico (F) +2.5",
-              "odds": 3,
-              "isActive": true,
-              "selectionId": "2153257990",
-              "line": 2.5
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Chine (F) -2.5",
-              "odds": 1.21,
-              "isActive": true,
-              "selectionId": "2153257991",
-              "line": 2.5
-            }
-          ],
-          "marketId": "223|hcp=2.5"
-        },
-        {
-          "canonicalMarket": "ASIAN_HANDICAP",
-          "rawName": "Écart de points (handicap)",
-          "period": "FULL_TIME",
-          "line": 3.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Porto-Rico (F) +3.5",
-              "odds": 2.75,
-              "isActive": true,
-              "selectionId": "2153257992",
-              "line": 3.5
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Chine (F) -3.5",
-              "odds": 1.25,
-              "isActive": true,
-              "selectionId": "2153257993",
-              "line": 3.5
-            }
-          ],
-          "marketId": "223|hcp=3.5"
-        },
-        {
-          "canonicalMarket": "ASIAN_HANDICAP",
-          "rawName": "Écart de points (handicap)",
-          "period": "FULL_TIME",
-          "line": 17.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Porto-Rico (F) +17.5",
-              "odds": 1.21,
-              "isActive": true,
-              "selectionId": "2153257994",
-              "line": 17.5
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Chine (F) -17.5",
-              "odds": 3,
-              "isActive": true,
-              "selectionId": "2153257995",
-              "line": 17.5
-            }
-          ],
-          "marketId": "223|hcp=17.5"
-        },
-        {
-          "canonicalMarket": "ASIAN_HANDICAP",
-          "rawName": "Écart de points (handicap)",
-          "period": "FULL_TIME",
-          "line": 16.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Porto-Rico (F) +16.5",
-              "odds": 1.25,
-              "isActive": true,
-              "selectionId": "2153257996",
-              "line": 16.5
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Chine (F) -16.5",
-              "odds": 2.75,
-              "isActive": true,
-              "selectionId": "2153257997",
-              "line": 16.5
-            }
-          ],
-          "marketId": "223|hcp=16.5"
-        },
-        {
-          "canonicalMarket": "ASIAN_HANDICAP",
-          "rawName": "Écart de points (handicap)",
-          "period": "FULL_TIME",
-          "line": 4.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Porto-Rico (F) +4.5",
-              "odds": 2.5,
-              "isActive": true,
-              "selectionId": "2153257998",
-              "line": 4.5
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Chine (F) -4.5",
-              "odds": 1.31,
-              "isActive": true,
-              "selectionId": "2153257999",
-              "line": 4.5
-            }
-          ],
-          "marketId": "223|hcp=4.5"
-        },
-        {
-          "canonicalMarket": "ASIAN_HANDICAP",
-          "rawName": "Écart de points (handicap)",
-          "period": "FULL_TIME",
-          "line": 5.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Porto-Rico (F) +5.5",
-              "odds": 2.25,
-              "isActive": true,
-              "selectionId": "2153258000",
-              "line": 5.5
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Chine (F) -5.5",
-              "odds": 1.38,
-              "isActive": true,
-              "selectionId": "2153258001",
-              "line": 5.5
-            }
-          ],
-          "marketId": "223|hcp=5.5"
-        },
-        {
-          "canonicalMarket": "ASIAN_HANDICAP",
-          "rawName": "Écart de points (handicap)",
-          "period": "FULL_TIME",
-          "line": 15.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Porto-Rico (F) +15.5",
-              "odds": 1.29,
-              "isActive": true,
-              "selectionId": "2153258002",
-              "line": 15.5
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Chine (F) -15.5",
-              "odds": 2.5,
-              "isActive": true,
-              "selectionId": "2153258003",
-              "line": 15.5
-            }
-          ],
-          "marketId": "223|hcp=15.5"
-        },
-        {
-          "canonicalMarket": "ASIAN_HANDICAP",
-          "rawName": "Écart de points (handicap)",
-          "period": "FULL_TIME",
-          "line": 14.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Porto-Rico (F) +14.5",
-              "odds": 1.34,
-              "isActive": true,
-              "selectionId": "2153258004",
-              "line": 14.5
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Chine (F) -14.5",
-              "odds": 2.35,
-              "isActive": true,
-              "selectionId": "2153258005",
-              "line": 14.5
-            }
-          ],
-          "marketId": "223|hcp=14.5"
-        },
-        {
-          "canonicalMarket": "ASIAN_HANDICAP",
-          "rawName": "Écart de points (handicap)",
-          "period": "FULL_TIME",
-          "line": 6.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Porto-Rico (F) +6.5",
-              "odds": 2.1,
-              "isActive": true,
-              "selectionId": "2153258006",
-              "line": 6.5
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Chine (F) -6.5",
-              "odds": 1.45,
-              "isActive": true,
-              "selectionId": "2153258007",
-              "line": 6.5
-            }
-          ],
-          "marketId": "223|hcp=6.5"
-        },
-        {
-          "canonicalMarket": "ASIAN_HANDICAP",
-          "rawName": "Écart de points (handicap)",
-          "period": "FULL_TIME",
-          "line": 7.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Porto-Rico (F) +7.5",
-              "odds": 1.96,
-              "isActive": true,
-              "selectionId": "2153258008",
-              "line": 7.5
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Chine (F) -7.5",
-              "odds": 1.54,
-              "isActive": true,
-              "selectionId": "2153258009",
-              "line": 7.5
-            }
-          ],
-          "marketId": "223|hcp=7.5"
-        },
-        {
-          "canonicalMarket": "ASIAN_HANDICAP",
-          "rawName": "Écart de points (handicap)",
-          "period": "FULL_TIME",
-          "line": 13.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Porto-Rico (F) +13.5",
-              "odds": 1.39,
-              "isActive": true,
-              "selectionId": "2153258010",
-              "line": 13.5
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Chine (F) -13.5",
-              "odds": 2.25,
-              "isActive": true,
-              "selectionId": "2153258011",
-              "line": 13.5
-            }
-          ],
-          "marketId": "223|hcp=13.5"
-        },
-        {
-          "canonicalMarket": "ASIAN_HANDICAP",
-          "rawName": "Écart de points (handicap)",
-          "period": "FULL_TIME",
-          "line": -1.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Porto-Rico (F) -1.5",
-              "odds": 3.9,
-              "isActive": true,
-              "selectionId": "2153258012",
-              "line": -1.5
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Chine (F) +1.5",
-              "odds": 1.12,
-              "isActive": true,
-              "selectionId": "2153258013",
-              "line": -1.5
-            }
-          ],
-          "marketId": "223|hcp=-1.5"
-        },
-        {
-          "canonicalMarket": "ASIAN_HANDICAP",
-          "rawName": "Écart de points (handicap)",
-          "period": "FULL_TIME",
-          "line": 12.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Porto-Rico (F) +12.5",
-              "odds": 1.45,
-              "isActive": true,
-              "selectionId": "2153258014",
-              "line": 12.5
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Chine (F) -12.5",
-              "odds": 2.1,
-              "isActive": true,
-              "selectionId": "2153258015",
-              "line": 12.5
-            }
-          ],
-          "marketId": "223|hcp=12.5"
-        },
-        {
-          "canonicalMarket": "ASIAN_HANDICAP",
-          "rawName": "Écart de points (handicap)",
-          "period": "FULL_TIME",
-          "line": 8.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Porto-Rico (F) +8.5",
-              "odds": 1.82,
-              "isActive": true,
-              "selectionId": "2153258016",
-              "line": 8.5
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Chine (F) -8.5",
-              "odds": 1.64,
-              "isActive": true,
-              "selectionId": "2153258017",
-              "line": 8.5
-            }
-          ],
-          "marketId": "223|hcp=8.5"
-        },
-        {
-          "canonicalMarket": "OTHER",
-          "rawName": "Résultat",
-          "period": "FULL_TIME",
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "Porto-Rico (F)",
-              "odds": 3.65,
-              "isActive": true,
-              "selectionId": "2153258018"
-            },
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "Match nul",
-              "odds": 15,
-              "isActive": true,
-              "selectionId": "2153258019"
-            },
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "Chine (F)",
-              "odds": 1.19,
-              "isActive": true,
-              "selectionId": "2153258020"
-            }
-          ],
-          "marketId": "1|"
-        },
-        {
-          "canonicalMarket": "ASIAN_HANDICAP",
-          "rawName": "1er quart-temps - Écart de points (handicap)",
-          "period": "FIRST_QUARTER",
-          "line": 0.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Porto-Rico (F) +0.5",
-              "odds": 2.1,
-              "isActive": true,
-              "selectionId": "2153264303",
-              "line": 0.5
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Chine (F) -0.5",
-              "odds": 1.44,
-              "isActive": true,
-              "selectionId": "2153264304",
-              "line": 0.5
-            }
-          ],
-          "marketId": "303|quarternr=1|hcp=0.5"
-        },
-        {
-          "canonicalMarket": "ASIAN_HANDICAP",
-          "rawName": "1er quart-temps - Écart de points (handicap)",
-          "period": "FIRST_QUARTER",
-          "line": 1.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Porto-Rico (F) +1.5",
-              "odds": 1.92,
-              "isActive": true,
-              "selectionId": "2153264305",
-              "line": 1.5
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Chine (F) -1.5",
-              "odds": 1.56,
-              "isActive": true,
-              "selectionId": "2153264306",
-              "line": 1.5
-            }
-          ],
-          "marketId": "303|quarternr=1|hcp=1.5"
-        },
-        {
-          "canonicalMarket": "ASIAN_HANDICAP",
-          "rawName": "1er quart-temps - Écart de points (handicap)",
-          "period": "FIRST_QUARTER",
-          "line": 2.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Porto-Rico (F) +2.5",
-              "odds": 1.74,
-              "isActive": true,
-              "selectionId": "2153264307",
-              "line": 2.5
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Chine (F) -2.5",
-              "odds": 1.72,
-              "isActive": true,
-              "selectionId": "2153264308",
-              "line": 2.5
-            }
-          ],
-          "marketId": "303|quarternr=1|hcp=2.5"
-        },
-        {
-          "canonicalMarket": "ASIAN_HANDICAP",
-          "rawName": "1er quart-temps - Écart de points (handicap)",
-          "period": "FIRST_QUARTER",
-          "line": 3.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Porto-Rico (F) +3.5",
-              "odds": 1.58,
-              "isActive": true,
-              "selectionId": "2153264309",
-              "line": 3.5
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Chine (F) -3.5",
-              "odds": 1.86,
-              "isActive": true,
-              "selectionId": "2153264310",
-              "line": 3.5
-            }
-          ],
-          "marketId": "303|quarternr=1|hcp=3.5"
-        },
-        {
-          "canonicalMarket": "ASIAN_HANDICAP",
-          "rawName": "1er quart-temps - Écart de points (handicap)",
-          "period": "FIRST_QUARTER",
-          "line": 4.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Porto-Rico (F) +4.5",
-              "odds": 1.46,
-              "isActive": true,
-              "selectionId": "2153264311",
-              "line": 4.5
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Chine (F) -4.5",
-              "odds": 2.1,
-              "isActive": true,
-              "selectionId": "2153264312",
-              "line": 4.5
-            }
-          ],
-          "marketId": "303|quarternr=1|hcp=4.5"
-        },
-        {
-          "canonicalMarket": "WINNING_MARGIN",
-          "rawName": "Marge de victoire",
-          "period": "FULL_TIME",
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "Porto-Rico (F) gagne d'au moins 6 ",
-              "odds": 6,
-              "isActive": true,
-              "selectionId": "2153264313"
-            },
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "Autre",
-              "odds": 3.2,
-              "isActive": true,
-              "selectionId": "2153264314"
-            },
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "Chine (F) gagne d'au moins 6 ",
-              "odds": 1.38,
-              "isActive": true,
-              "selectionId": "2153264315"
-            }
-          ],
-          "marketId": "290|variant=sr:winning_margin:6+"
-        },
-        {
-          "canonicalMarket": "OTHER",
-          "rawName": "Marge de victoire",
-          "period": "FULL_TIME",
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "Porto-Rico (F) gagne d'au moins 26 ",
-              "odds": 20,
-              "isActive": true,
-              "selectionId": "2153264323"
-            },
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "Porto-Rico (F) gagne de 21 à 25 ",
-              "odds": 20,
-              "isActive": true,
-              "selectionId": "2153264322"
-            },
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "Porto-Rico (F) gagne de 16 à 20 ",
-              "odds": 20,
-              "isActive": true,
-              "selectionId": "2153264321"
-            },
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "Porto-Rico (F) gagne de 11 à 15 ",
-              "odds": 19,
-              "isActive": true,
-              "selectionId": "2153264320"
-            },
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "Porto-Rico (F) gagne de 6 à 10 ",
-              "odds": 10.5,
-              "isActive": true,
-              "selectionId": "2153264316"
-            },
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "Porto-Rico (F) gagne de 1 à 5 ",
-              "odds": 7.5,
-              "isActive": true,
-              "selectionId": "2153264317"
-            },
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "Chine (F) gagne de 1 à 5 ",
-              "odds": 5,
-              "isActive": true,
-              "selectionId": "2153264318"
-            },
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "Chine (F) gagne de 6 à 10 ",
-              "odds": 3.9,
-              "isActive": true,
-              "selectionId": "2153264319"
-            },
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "Chine (F) gagne de 11 à 15 ",
-              "odds": 4.7,
-              "isActive": true,
-              "selectionId": "2153264324"
-            },
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "Chine (F) gagne de 16 à 20 ",
-              "odds": 5.9,
-              "isActive": true,
-              "selectionId": "2153264325"
-            },
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "Chine (F) gagne de 21 à 25 ",
-              "odds": 8,
-              "isActive": true,
-              "selectionId": "2153264326"
-            },
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "Chine (F) gagne d'au moins 26",
-              "odds": 7.25,
-              "isActive": true,
-              "selectionId": "2153264327"
-            }
-          ],
-          "marketId": "290|variant=sr:winning_margin_no_draw:26+"
-        },
-        {
-          "canonicalMarket": "HOME_OVER_UNDER",
-          "rawName": "1er quart-temps - Nombre de points de Porto-Rico (F)",
-          "period": "FIRST_QUARTER",
-          "line": 18.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 18,5",
-              "odds": 2.6,
-              "isActive": true,
-              "selectionId": "2153264328",
-              "line": 18.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 18,5",
-              "odds": 1.28,
-              "isActive": true,
-              "selectionId": "2153264329",
-              "line": 18.5
-            }
-          ],
-          "marketId": "756|quarternr=1|total=18.5"
-        },
-        {
-          "canonicalMarket": "HOME_OVER_UNDER",
-          "rawName": "1er quart-temps - Nombre de points de Porto-Rico (F)",
-          "period": "FIRST_QUARTER",
-          "line": 17.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 17,5",
-              "odds": 2.1,
-              "isActive": true,
-              "selectionId": "2153264330",
-              "line": 17.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 17,5",
-              "odds": 1.44,
-              "isActive": true,
-              "selectionId": "2153264331",
-              "line": 17.5
-            }
-          ],
-          "marketId": "756|quarternr=1|total=17.5"
-        },
-        {
-          "canonicalMarket": "HOME_OVER_UNDER",
-          "rawName": "1er quart-temps - Nombre de points de Porto-Rico (F)",
-          "period": "FIRST_QUARTER",
-          "line": 16.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 16,5",
-              "odds": 1.78,
-              "isActive": true,
-              "selectionId": "2153264332",
-              "line": 16.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 16,5",
-              "odds": 1.68,
-              "isActive": true,
-              "selectionId": "2153264333",
-              "line": 16.5
-            }
-          ],
-          "marketId": "756|quarternr=1|total=16.5"
-        },
-        {
-          "canonicalMarket": "HOME_OVER_UNDER",
-          "rawName": "1er quart-temps - Nombre de points de Porto-Rico (F)",
-          "period": "FIRST_QUARTER",
-          "line": 15.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 15,5",
-              "odds": 1.5,
-              "isActive": true,
-              "selectionId": "2153264334",
-              "line": 15.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 15,5",
-              "odds": 2,
-              "isActive": true,
-              "selectionId": "2153264335",
-              "line": 15.5
-            }
-          ],
-          "marketId": "756|quarternr=1|total=15.5"
-        },
-        {
-          "canonicalMarket": "HOME_OVER_UNDER",
-          "rawName": "1er quart-temps - Nombre de points de Porto-Rico (F)",
-          "period": "FIRST_QUARTER",
-          "line": 14.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 14,5",
-              "odds": 1.32,
-              "isActive": true,
-              "selectionId": "2153264336",
-              "line": 14.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 14,5",
-              "odds": 2.45,
-              "isActive": true,
-              "selectionId": "2153264337",
-              "line": 14.5
-            }
-          ],
-          "marketId": "756|quarternr=1|total=14.5"
-        },
-        {
-          "canonicalMarket": "OTHER",
-          "rawName": "Nombre de points (intervalle)",
-          "period": "FULL_TIME",
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "0-100",
-              "odds": 100,
-              "isActive": true,
-              "selectionId": "2153264346"
-            },
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "101-110",
-              "odds": 40,
-              "isActive": true,
-              "selectionId": "2153264338"
-            },
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "111-120",
-              "odds": 11.5,
-              "isActive": true,
-              "selectionId": "2153264339"
-            },
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "121-130",
-              "odds": 4.9,
-              "isActive": true,
-              "selectionId": "2153264340"
-            },
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "131-140",
-              "odds": 3.1,
-              "isActive": true,
-              "selectionId": "2153264341"
-            },
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "141-150",
-              "odds": 3,
-              "isActive": true,
-              "selectionId": "2153264342"
-            },
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "151-160",
-              "odds": 4.2,
-              "isActive": true,
-              "selectionId": "2153264343"
-            },
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "161-170",
-              "odds": 8.5,
-              "isActive": true,
-              "selectionId": "2153264344"
-            },
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "171-180",
-              "odds": 24,
-              "isActive": true,
-              "selectionId": "2153264345"
-            },
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "181 et plus",
-              "odds": 50,
-              "isActive": true,
-              "selectionId": "2153264347"
-            }
-          ],
-          "marketId": "298|variant=sr:point_range:180.5+"
-        },
-        {
-          "canonicalMarket": "AWAY_OVER_UNDER",
-          "rawName": "1er quart-temps - Nombre de points de Chine (F)",
-          "period": "FIRST_QUARTER",
-          "line": 20.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 20,5",
-              "odds": 2.25,
-              "isActive": true,
-              "selectionId": "2153264357",
-              "line": 20.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 20,5",
-              "odds": 1.39,
-              "isActive": true,
-              "selectionId": "2153264358",
-              "line": 20.5
-            }
-          ],
-          "marketId": "757|quarternr=1|total=20.5"
-        },
-        {
-          "canonicalMarket": "AWAY_OVER_UNDER",
-          "rawName": "1er quart-temps - Nombre de points de Chine (F)",
-          "period": "FIRST_QUARTER",
-          "line": 19.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 19,5",
-              "odds": 1.9,
-              "isActive": true,
-              "selectionId": "2153264359",
-              "line": 19.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 19,5",
-              "odds": 1.58,
-              "isActive": true,
-              "selectionId": "2153264360",
-              "line": 19.5
-            }
-          ],
-          "marketId": "757|quarternr=1|total=19.5"
-        },
-        {
-          "canonicalMarket": "AWAY_OVER_UNDER",
-          "rawName": "1er quart-temps - Nombre de points de Chine (F)",
-          "period": "FIRST_QUARTER",
-          "line": 18.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 18,5",
-              "odds": 1.62,
-              "isActive": true,
-              "selectionId": "2153264361",
-              "line": 18.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 18,5",
-              "odds": 1.84,
-              "isActive": true,
-              "selectionId": "2153264362",
-              "line": 18.5
-            }
-          ],
-          "marketId": "757|quarternr=1|total=18.5"
-        },
-        {
-          "canonicalMarket": "AWAY_OVER_UNDER",
-          "rawName": "1er quart-temps - Nombre de points de Chine (F)",
-          "period": "FIRST_QUARTER",
-          "line": 17.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 17,5",
-              "odds": 1.41,
-              "isActive": true,
-              "selectionId": "2153264363",
-              "line": 17.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 17,5",
-              "odds": 2.2,
-              "isActive": true,
-              "selectionId": "2153264364",
-              "line": 17.5
-            }
-          ],
-          "marketId": "757|quarternr=1|total=17.5"
-        },
-        {
-          "canonicalMarket": "OTHER",
-          "rawName": "Prolongations",
-          "period": "FULL_TIME",
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "YES",
-              "rawName": "Oui",
-              "odds": 15,
-              "isActive": true,
-              "selectionId": "2153264370"
-            },
-            {
-              "canonicalOutcome": "NO",
-              "rawName": "Non",
-              "odds": 1.01,
-              "isActive": true,
-              "selectionId": "2153264371"
-            }
-          ],
-          "marketId": "220|"
-        },
-        {
-          "canonicalMarket": "AWAY_OVER_UNDER",
-          "rawName": "Nombre de points de Chine (F)",
-          "period": "FULL_TIME",
-          "line": 78.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 78,5",
-              "odds": 2.1,
-              "isActive": true,
-              "selectionId": "2153264374",
-              "line": 78.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 78,5",
-              "odds": 1.46,
-              "isActive": true,
-              "selectionId": "2153264375",
-              "line": 78.5
-            }
-          ],
-          "marketId": "228|total=78.5"
-        },
-        {
-          "canonicalMarket": "AWAY_OVER_UNDER",
-          "rawName": "Nombre de points de Chine (F)",
-          "period": "FULL_TIME",
-          "line": 77.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 77,5",
-              "odds": 1.92,
-              "isActive": true,
-              "selectionId": "2153264378",
-              "line": 77.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 77,5",
-              "odds": 1.56,
-              "isActive": true,
-              "selectionId": "2153264379",
-              "line": 77.5
-            }
-          ],
-          "marketId": "228|total=77.5"
-        },
-        {
-          "canonicalMarket": "AWAY_OVER_UNDER",
-          "rawName": "Nombre de points de Chine (F)",
-          "period": "FULL_TIME",
-          "line": 76.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 76,5",
-              "odds": 1.78,
-              "isActive": true,
-              "selectionId": "2153264380",
-              "line": 76.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 76,5",
-              "odds": 1.66,
-              "isActive": true,
-              "selectionId": "2153264381",
-              "line": 76.5
-            }
-          ],
-          "marketId": "228|total=76.5"
-        },
-        {
-          "canonicalMarket": "HOME_OVER_UNDER",
-          "rawName": "Nombre de points de Porto-Rico (F)",
-          "period": "FULL_TIME",
-          "line": 68.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 68,5",
-              "odds": 2,
-              "isActive": true,
-              "selectionId": "2153264382",
-              "line": 68.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 68,5",
-              "odds": 1.49,
-              "isActive": true,
-              "selectionId": "2153264383",
-              "line": 68.5
-            }
-          ],
-          "marketId": "227|total=68.5"
-        },
-        {
-          "canonicalMarket": "HOME_OVER_UNDER",
-          "rawName": "Nombre de points de Porto-Rico (F)",
-          "period": "FULL_TIME",
-          "line": 67.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 67,5",
-              "odds": 1.86,
-              "isActive": true,
-              "selectionId": "2153264384",
-              "line": 67.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 67,5",
-              "odds": 1.6,
-              "isActive": true,
-              "selectionId": "2153264385",
-              "line": 67.5
-            }
-          ],
-          "marketId": "227|total=67.5"
-        },
-        {
-          "canonicalMarket": "HOME_OVER_UNDER",
-          "rawName": "Nombre de points de Porto-Rico (F)",
-          "period": "FULL_TIME",
-          "line": 66.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 66,5",
-              "odds": 1.72,
-              "isActive": true,
-              "selectionId": "2153264390",
-              "line": 66.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 66,5",
-              "odds": 1.74,
-              "isActive": true,
-              "selectionId": "2153264391",
-              "line": 66.5
-            }
-          ],
-          "marketId": "227|total=66.5"
-        },
-        {
-          "canonicalMarket": "OTHER",
-          "rawName": "Chine (F) gagne tous les quarts temps",
-          "period": "FULL_TIME",
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "YES",
-              "rawName": "Oui",
-              "odds": 6.75,
-              "isActive": true,
-              "selectionId": "2153264392"
-            },
-            {
-              "canonicalOutcome": "NO",
-              "rawName": "Non",
-              "odds": 1.04,
-              "isActive": true,
-              "selectionId": "2153264393"
-            }
-          ],
-          "marketId": "1314|"
-        },
-        {
-          "canonicalMarket": "OTHER",
-          "rawName": "Marge de victoire",
-          "period": "FULL_TIME",
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "Porto-Rico (F) gagne d'au moins 11 ",
-              "odds": 12,
-              "isActive": true,
-              "selectionId": "2153264394"
-            },
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "Porto-Rico (F) gagne de 6 à 10 ",
-              "odds": 10.5,
-              "isActive": true,
-              "selectionId": "2153264395"
-            },
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "Porto-Rico (F) gagne de 1 à 5 ",
-              "odds": 7.5,
-              "isActive": true,
-              "selectionId": "2153264396"
-            },
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "Chine (F) gagne de 1 à 5 ",
-              "odds": 5,
-              "isActive": true,
-              "selectionId": "2153264397"
-            },
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "Chine (F) gagne de 6 à 10 ",
-              "odds": 3.9,
-              "isActive": true,
-              "selectionId": "2153264398"
-            },
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "Chine (F) gagne d'au moins 11 ",
-              "odds": 1.86,
-              "isActive": true,
-              "selectionId": "2153264399"
-            }
-          ],
-          "marketId": "290|variant=sr:winning_margin_no_draw:11+"
-        },
-        {
-          "canonicalMarket": "DRAW_NO_BET",
-          "rawName": "1er quart-temps - Vainqueur (remboursé si match nul)",
-          "period": "FIRST_QUARTER",
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Porto-Rico (F)",
-              "odds": 2.25,
-              "isActive": true,
-              "selectionId": "2153264400"
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Chine (F)",
-              "odds": 1.37,
-              "isActive": true,
-              "selectionId": "2153264401"
-            }
-          ],
-          "marketId": "302|quarternr=1"
-        },
-        {
-          "canonicalMarket": "HALF_TIME_RESULT",
-          "rawName": "Mi-temps - Résultat",
-          "period": "FIRST_HALF",
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Porto-Rico (F)",
-              "odds": 2.75,
-              "isActive": true,
-              "selectionId": "2153264410"
-            },
-            {
-              "canonicalOutcome": "DRAW",
-              "rawName": "Match nul",
-              "odds": 17,
-              "isActive": true,
-              "selectionId": "2153264411"
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Chine (F)",
-              "odds": 1.3,
-              "isActive": true,
-              "selectionId": "2153264412"
-            }
-          ],
-          "marketId": "60|"
-        },
-        {
-          "canonicalMarket": "HOME_WIN_BOTH_HALVES",
-          "rawName": "Porto-Rico (F) gagne les deux mi-temps",
-          "period": "FULL_TIME",
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "YES",
-              "rawName": "Oui",
-              "odds": 9.5,
-              "isActive": true,
-              "selectionId": "2153264415"
-            },
-            {
-              "canonicalOutcome": "NO",
-              "rawName": "Non",
-              "odds": 1.02,
-              "isActive": true,
-              "selectionId": "2153264416"
-            }
-          ],
-          "marketId": "48|"
-        },
-        {
-          "canonicalMarket": "HOME_OVER_UNDER",
-          "rawName": "Mi-temps - Nombre de points de Porto-Rico (F)",
-          "period": "FIRST_HALF",
-          "line": 33.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 33,5",
-              "odds": 1.86,
-              "isActive": true,
-              "selectionId": "2153264421",
-              "line": 33.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 33,5",
-              "odds": 1.58,
-              "isActive": true,
-              "selectionId": "2153264422",
-              "line": 33.5
-            }
-          ],
-          "marketId": "69|total=33.5"
-        },
-        {
-          "canonicalMarket": "HOME_OVER_UNDER",
-          "rawName": "Mi-temps - Nombre de points de Porto-Rico (F)",
-          "period": "FIRST_HALF",
-          "line": 32.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 32,5",
-              "odds": 1.68,
-              "isActive": true,
-              "selectionId": "2153264423",
-              "line": 32.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 32,5",
-              "odds": 1.78,
-              "isActive": true,
-              "selectionId": "2153264424",
-              "line": 32.5
-            }
-          ],
-          "marketId": "69|total=32.5"
-        },
-        {
-          "canonicalMarket": "HOME_OVER_UNDER",
-          "rawName": "Mi-temps - Nombre de points de Porto-Rico (F)",
-          "period": "FIRST_HALF",
-          "line": 31.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 31,5",
-              "odds": 1.5,
-              "isActive": true,
-              "selectionId": "2153264425",
-              "line": 31.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 31,5",
-              "odds": 2,
-              "isActive": true,
-              "selectionId": "2153264426",
-              "line": 31.5
-            }
-          ],
-          "marketId": "69|total=31.5"
-        },
-        {
-          "canonicalMarket": "HOME_OVER_UNDER",
-          "rawName": "Mi-temps - Nombre de points de Porto-Rico (F)",
-          "period": "FIRST_HALF",
-          "line": 34.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 34,5",
-              "odds": 2.1,
-              "isActive": true,
-              "selectionId": "2153264429",
-              "line": 34.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 34,5",
-              "odds": 1.43,
-              "isActive": true,
-              "selectionId": "2153264430",
-              "line": 34.5
-            }
-          ],
-          "marketId": "69|total=34.5"
-        },
-        {
-          "canonicalMarket": "AWAY_WIN_BOTH_HALVES",
-          "rawName": "Chine (F) gagne les deux mi-temps",
-          "period": "FULL_TIME",
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "YES",
-              "rawName": "Oui",
-              "odds": 1.98,
-              "isActive": true,
-              "selectionId": "2153264431"
-            },
-            {
-              "canonicalOutcome": "NO",
-              "rawName": "Non",
-              "odds": 1.52,
-              "isActive": true,
-              "selectionId": "2153264432"
-            }
-          ],
-          "marketId": "49|"
-        },
-        {
-          "canonicalMarket": "AWAY_OVER_UNDER",
-          "rawName": "Mi-temps - Nombre de points de Chine (F)",
-          "period": "FIRST_HALF",
-          "line": 37.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 37,5",
-              "odds": 1.66,
-              "isActive": true,
-              "selectionId": "2153264433",
-              "line": 37.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 37,5",
-              "odds": 1.8,
-              "isActive": true,
-              "selectionId": "2153264434",
-              "line": 37.5
-            }
-          ],
-          "marketId": "70|total=37.5"
-        },
-        {
-          "canonicalMarket": "AWAY_OVER_UNDER",
-          "rawName": "Mi-temps - Nombre de points de Chine (F)",
-          "period": "FIRST_HALF",
-          "line": 38.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 38,5",
-              "odds": 1.86,
-              "isActive": true,
-              "selectionId": "2153264435",
-              "line": 38.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 38,5",
-              "odds": 1.6,
-              "isActive": true,
-              "selectionId": "2153264436",
-              "line": 38.5
-            }
-          ],
-          "marketId": "70|total=38.5"
-        },
-        {
-          "canonicalMarket": "AWAY_OVER_UNDER",
-          "rawName": "Mi-temps - Nombre de points de Chine (F)",
-          "period": "FIRST_HALF",
-          "line": 39.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 39,5",
-              "odds": 2,
-              "isActive": true,
-              "selectionId": "2153264437",
-              "line": 39.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 39,5",
-              "odds": 1.46,
-              "isActive": true,
-              "selectionId": "2153264438",
-              "line": 39.5
-            }
-          ],
-          "marketId": "70|total=39.5"
-        },
-        {
-          "canonicalMarket": "HALF_TIME_FULL_TIME",
-          "rawName": "Mi-temps/Fin de match",
-          "period": "FULL_TIME",
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "Chine (F)/Chine (F)",
-              "odds": 1.46,
-              "isActive": true,
-              "selectionId": "2153264451"
-            },
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "Porto-Rico (F)/Chine (F)",
-              "odds": 5.4,
-              "isActive": true,
-              "selectionId": "2153264449"
-            },
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "Porto-Rico (F)/Porto-Rico (F)",
-              "odds": 5.9,
-              "isActive": true,
-              "selectionId": "2153264443"
-            },
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "Chine (F)/Porto-Rico (F)",
-              "odds": 10.5,
-              "isActive": true,
-              "selectionId": "2153264445"
-            },
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "Match nul/Chine (F)",
-              "odds": 24,
-              "isActive": true,
-              "selectionId": "2153264450"
-            },
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "Chine (F)/Match nul",
-              "odds": 28,
-              "isActive": true,
-              "selectionId": "2153264448"
-            },
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "Porto-Rico (F)/Match nul",
-              "odds": 30,
-              "isActive": true,
-              "selectionId": "2153264446"
-            },
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "Match nul/Porto-Rico (F)",
-              "odds": 46,
-              "isActive": true,
-              "selectionId": "2153264444"
-            },
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "Match nul/Match nul",
-              "odds": 90,
-              "isActive": true,
-              "selectionId": "2153264447"
-            }
-          ],
-          "marketId": "47|"
-        },
-        {
-          "canonicalMarket": "DRAW_NO_BET",
-          "rawName": "Vainqueur (remboursé si match nul)",
-          "period": "FULL_TIME",
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Porto-Rico (F)",
-              "odds": 3.75,
-              "isActive": true,
-              "selectionId": "2153264454"
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Chine (F)",
-              "odds": 1.13,
-              "isActive": true,
-              "selectionId": "2153264455"
-            }
-          ],
-          "marketId": "11|"
-        },
-        {
-          "canonicalMarket": "DRAW_NO_BET",
-          "rawName": "Mi-temps - Vainqueur (remboursé si match nul)",
-          "period": "FIRST_HALF",
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Porto-Rico (F)",
-              "odds": 2.7,
-              "isActive": true,
-              "selectionId": "2153264456"
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Chine (F)",
-              "odds": 1.26,
-              "isActive": true,
-              "selectionId": "2153264457"
-            }
-          ],
-          "marketId": "64|"
-        },
-        {
-          "canonicalMarket": "OVER_UNDER",
-          "rawName": "Nombre de points",
-          "period": "FULL_TIME",
-          "line": 135.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 135,5",
-              "odds": 1.31,
-              "isActive": true,
-              "selectionId": "2153264462",
-              "line": 135.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 135,5",
-              "odds": 2.5,
-              "isActive": true,
-              "selectionId": "2153264463",
-              "line": 135.5
-            }
-          ],
-          "marketId": "225|total=135.5"
-        },
-        {
-          "canonicalMarket": "OVER_UNDER",
-          "rawName": "Nombre de points",
-          "period": "FULL_TIME",
-          "line": 136.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 136,5",
-              "odds": 1.36,
-              "isActive": true,
-              "selectionId": "2153264466",
-              "line": 136.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 136,5",
-              "odds": 2.35,
-              "isActive": true,
-              "selectionId": "2153264467",
-              "line": 136.5
-            }
-          ],
-          "marketId": "225|total=136.5"
-        },
-        {
-          "canonicalMarket": "OVER_UNDER",
-          "rawName": "Nombre de points",
-          "period": "FULL_TIME",
-          "line": 133.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 133,5",
-              "odds": 1.24,
-              "isActive": true,
-              "selectionId": "2153264470",
-              "line": 133.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 133,5",
-              "odds": 2.85,
-              "isActive": true,
-              "selectionId": "2153264471",
-              "line": 133.5
-            }
-          ],
-          "marketId": "225|total=133.5"
-        },
-        {
-          "canonicalMarket": "OVER_UNDER",
-          "rawName": "Nombre de points",
-          "period": "FULL_TIME",
-          "line": 155.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 155,5",
-              "odds": 3.65,
-              "isActive": true,
-              "selectionId": "2153264472",
-              "line": 155.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 155,5",
-              "odds": 1.14,
-              "isActive": true,
-              "selectionId": "2153264473",
-              "line": 155.5
-            }
-          ],
-          "marketId": "225|total=155.5"
-        },
-        {
-          "canonicalMarket": "OVER_UNDER",
-          "rawName": "Nombre de points",
-          "period": "FULL_TIME",
-          "line": 134.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 134,5",
-              "odds": 1.27,
-              "isActive": true,
-              "selectionId": "2153264474",
-              "line": 134.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 134,5",
-              "odds": 2.6,
-              "isActive": true,
-              "selectionId": "2153264475",
-              "line": 134.5
-            }
-          ],
-          "marketId": "225|total=134.5"
-        },
-        {
-          "canonicalMarket": "OVER_UNDER",
-          "rawName": "Nombre de points",
-          "period": "FULL_TIME",
-          "line": 139.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 139,5",
-              "odds": 1.52,
-              "isActive": true,
-              "selectionId": "2153264476",
-              "line": 139.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 139,5",
-              "odds": 1.98,
-              "isActive": true,
-              "selectionId": "2153264477",
-              "line": 139.5
-            }
-          ],
-          "marketId": "225|total=139.5"
-        },
-        {
-          "canonicalMarket": "OVER_UNDER",
-          "rawName": "Nombre de points",
-          "period": "FULL_TIME",
-          "line": 137.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 137,5",
-              "odds": 1.41,
-              "isActive": true,
-              "selectionId": "2153264478",
-              "line": 137.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 137,5",
-              "odds": 2.2,
-              "isActive": true,
-              "selectionId": "2153264479",
-              "line": 137.5
-            }
-          ],
-          "marketId": "225|total=137.5"
-        },
-        {
-          "canonicalMarket": "OVER_UNDER",
-          "rawName": "Nombre de points",
-          "period": "FULL_TIME",
-          "line": 138.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 138,5",
-              "odds": 1.46,
-              "isActive": true,
-              "selectionId": "2153264482",
-              "line": 138.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 138,5",
-              "odds": 2.1,
-              "isActive": true,
-              "selectionId": "2153264483",
-              "line": 138.5
-            }
-          ],
-          "marketId": "225|total=138.5"
-        },
-        {
-          "canonicalMarket": "OVER_UNDER",
-          "rawName": "Nombre de points",
-          "period": "FULL_TIME",
-          "line": 150.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 150,5",
-              "odds": 2.6,
-              "isActive": true,
-              "selectionId": "2153264484",
-              "line": 150.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 150,5",
-              "odds": 1.29,
-              "isActive": true,
-              "selectionId": "2153264485",
-              "line": 150.5
-            }
-          ],
-          "marketId": "225|total=150.5"
-        },
-        {
-          "canonicalMarket": "OVER_UNDER",
-          "rawName": "Nombre de points",
-          "period": "FULL_TIME",
-          "line": 154.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 154,5",
-              "odds": 3.4,
-              "isActive": true,
-              "selectionId": "2153264486",
-              "line": 154.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 154,5",
-              "odds": 1.16,
-              "isActive": true,
-              "selectionId": "2153264487",
-              "line": 154.5
-            }
-          ],
-          "marketId": "225|total=154.5"
-        },
-        {
-          "canonicalMarket": "OVER_UNDER",
-          "rawName": "Nombre de points",
-          "period": "FULL_TIME",
-          "line": 153.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 153,5",
-              "odds": 3.1,
-              "isActive": true,
-              "selectionId": "2153264488",
-              "line": 153.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 153,5",
-              "odds": 1.2,
-              "isActive": true,
-              "selectionId": "2153264489",
-              "line": 153.5
-            }
-          ],
-          "marketId": "225|total=153.5"
-        },
-        {
-          "canonicalMarket": "OVER_UNDER",
-          "rawName": "Nombre de points",
-          "period": "FULL_TIME",
-          "line": 152.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 152,5",
-              "odds": 2.95,
-              "isActive": true,
-              "selectionId": "2153264490",
-              "line": 152.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 152,5",
-              "odds": 1.22,
-              "isActive": true,
-              "selectionId": "2153264491",
-              "line": 152.5
-            }
-          ],
-          "marketId": "225|total=152.5"
-        },
-        {
-          "canonicalMarket": "OVER_UNDER",
-          "rawName": "Nombre de points",
-          "period": "FULL_TIME",
-          "line": 151.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 151,5",
-              "odds": 2.75,
-              "isActive": true,
-              "selectionId": "2153264492",
-              "line": 151.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 151,5",
-              "odds": 1.26,
-              "isActive": true,
-              "selectionId": "2153264493",
-              "line": 151.5
-            }
-          ],
-          "marketId": "225|total=151.5"
-        },
-        {
-          "canonicalMarket": "OVER_UNDER",
-          "rawName": "Nombre de points",
-          "period": "FULL_TIME",
-          "line": 146.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 146,5",
-              "odds": 2,
-              "isActive": true,
-              "selectionId": "2153264494",
-              "line": 146.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 146,5",
-              "odds": 1.47,
-              "isActive": true,
-              "selectionId": "2153264495",
-              "line": 146.5
-            }
-          ],
-          "marketId": "225|total=146.5"
-        },
-        {
-          "canonicalMarket": "OVER_UNDER",
-          "rawName": "Nombre de points",
-          "period": "FULL_TIME",
-          "line": 147.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 147,5",
-              "odds": 2.1,
-              "isActive": true,
-              "selectionId": "2153264496",
-              "line": 147.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 147,5",
-              "odds": 1.42,
-              "isActive": true,
-              "selectionId": "2153264497",
-              "line": 147.5
-            }
-          ],
-          "marketId": "225|total=147.5"
-        },
-        {
-          "canonicalMarket": "OVER_UNDER",
-          "rawName": "Nombre de points",
-          "period": "FULL_TIME",
-          "line": 144.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 144,5",
-              "odds": 1.86,
-              "isActive": true,
-              "selectionId": "2153264498",
-              "line": 144.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 144,5",
-              "odds": 1.58,
-              "isActive": true,
-              "selectionId": "2153264499",
-              "line": 144.5
-            }
-          ],
-          "marketId": "225|total=144.5"
-        },
-        {
-          "canonicalMarket": "OVER_UNDER",
-          "rawName": "Nombre de points",
-          "period": "FULL_TIME",
-          "line": 145.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 145,5",
-              "odds": 1.98,
-              "isActive": true,
-              "selectionId": "2153264500",
-              "line": 145.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 145,5",
-              "odds": 1.52,
-              "isActive": true,
-              "selectionId": "2153264501",
-              "line": 145.5
-            }
-          ],
-          "marketId": "225|total=145.5"
-        },
-        {
-          "canonicalMarket": "OVER_UNDER",
-          "rawName": "Nombre de points",
-          "period": "FULL_TIME",
-          "line": 148.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 148,5",
-              "odds": 2.25,
-              "isActive": true,
-              "selectionId": "2153264502",
-              "line": 148.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 148,5",
-              "odds": 1.37,
-              "isActive": true,
-              "selectionId": "2153264503",
-              "line": 148.5
-            }
-          ],
-          "marketId": "225|total=148.5"
-        },
-        {
-          "canonicalMarket": "OVER_UNDER",
-          "rawName": "Nombre de points",
-          "period": "FULL_TIME",
-          "line": 149.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 149,5",
-              "odds": 2.45,
-              "isActive": true,
-              "selectionId": "2153264504",
-              "line": 149.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 149,5",
-              "odds": 1.33,
-              "isActive": true,
-              "selectionId": "2153264505",
-              "line": 149.5
-            }
-          ],
-          "marketId": "225|total=149.5"
-        },
-        {
-          "canonicalMarket": "OVER_UNDER",
-          "rawName": "Nombre de points",
-          "period": "FULL_TIME",
-          "line": 142.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 142,5",
-              "odds": 1.72,
-              "isActive": true,
-              "selectionId": "2153264506",
-              "line": 142.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 142,5",
-              "odds": 1.74,
-              "isActive": true,
-              "selectionId": "2153264507",
-              "line": 142.5
-            }
-          ],
-          "marketId": "225|total=142.5"
-        },
-        {
-          "canonicalMarket": "OVER_UNDER",
-          "rawName": "Nombre de points",
-          "period": "FULL_TIME",
-          "line": 143.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 143,5",
-              "odds": 1.8,
-              "isActive": true,
-              "selectionId": "2153264508",
-              "line": 143.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 143,5",
-              "odds": 1.66,
-              "isActive": true,
-              "selectionId": "2153264509",
-              "line": 143.5
-            }
-          ],
-          "marketId": "225|total=143.5"
-        },
-        {
-          "canonicalMarket": "OVER_UNDER",
-          "rawName": "Nombre de points",
-          "period": "FULL_TIME",
-          "line": 140.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 140,5",
-              "odds": 1.58,
-              "isActive": true,
-              "selectionId": "2153264510",
-              "line": 140.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 140,5",
-              "odds": 1.9,
-              "isActive": true,
-              "selectionId": "2153264511",
-              "line": 140.5
-            }
-          ],
-          "marketId": "225|total=140.5"
-        },
-        {
-          "canonicalMarket": "OVER_UNDER",
-          "rawName": "Nombre de points",
-          "period": "FULL_TIME",
-          "line": 141.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 141,5",
-              "odds": 1.64,
-              "isActive": true,
-              "selectionId": "2153264512",
-              "line": 141.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 141,5",
-              "odds": 1.8,
-              "isActive": true,
-              "selectionId": "2153264513",
-              "line": 141.5
-            }
-          ],
-          "marketId": "225|total=141.5"
-        },
-        {
-          "canonicalMarket": "ASIAN_HANDICAP",
-          "rawName": "Mi-temps - Écart de points (handicap)",
-          "period": "FIRST_HALF",
-          "line": 9.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Porto-Rico (F) +9.5",
-              "odds": 1.31,
-              "isActive": true,
-              "selectionId": "2153264517",
-              "line": 9.5
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Chine (F) -9.5",
-              "odds": 2.5,
-              "isActive": true,
-              "selectionId": "2153264518",
-              "line": 9.5
-            }
-          ],
-          "marketId": "66|hcp=9.5"
-        },
-        {
-          "canonicalMarket": "ASIAN_HANDICAP",
-          "rawName": "Mi-temps - Écart de points (handicap)",
-          "period": "FIRST_HALF",
-          "line": 10.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Porto-Rico (F) +10.5",
-              "odds": 1.25,
-              "isActive": true,
-              "selectionId": "2153264519",
-              "line": 10.5
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Chine (F) -10.5",
-              "odds": 2.75,
-              "isActive": true,
-              "selectionId": "2153264520",
-              "line": 10.5
-            }
-          ],
-          "marketId": "66|hcp=10.5"
-        },
-        {
-          "canonicalMarket": "ASIAN_HANDICAP",
-          "rawName": "Mi-temps - Écart de points (handicap)",
-          "period": "FIRST_HALF",
-          "line": 0.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Porto-Rico (F) +0.5",
-              "odds": 2.5,
-              "isActive": true,
-              "selectionId": "2153264521",
-              "line": 0.5
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Chine (F) -0.5",
-              "odds": 1.3,
-              "isActive": true,
-              "selectionId": "2153264522",
-              "line": 0.5
-            }
-          ],
-          "marketId": "66|hcp=0.5"
-        },
-        {
-          "canonicalMarket": "ASIAN_HANDICAP",
-          "rawName": "Mi-temps - Écart de points (handicap)",
-          "period": "FIRST_HALF",
-          "line": 1.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Porto-Rico (F) +1.5",
-              "odds": 2.25,
-              "isActive": true,
-              "selectionId": "2153264523",
-              "line": 1.5
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Chine (F) -1.5",
-              "odds": 1.37,
-              "isActive": true,
-              "selectionId": "2153264524",
-              "line": 1.5
-            }
-          ],
-          "marketId": "66|hcp=1.5"
-        },
-        {
-          "canonicalMarket": "ASIAN_HANDICAP",
-          "rawName": "Mi-temps - Écart de points (handicap)",
-          "period": "FIRST_HALF",
-          "line": 2.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Porto-Rico (F) +2.5",
-              "odds": 2.1,
-              "isActive": true,
-              "selectionId": "2153264525",
-              "line": 2.5
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Chine (F) -2.5",
-              "odds": 1.45,
-              "isActive": true,
-              "selectionId": "2153264526",
-              "line": 2.5
-            }
-          ],
-          "marketId": "66|hcp=2.5"
-        },
-        {
-          "canonicalMarket": "ASIAN_HANDICAP",
-          "rawName": "Mi-temps - Écart de points (handicap)",
-          "period": "FIRST_HALF",
-          "line": 3.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Porto-Rico (F) +3.5",
-              "odds": 1.94,
-              "isActive": true,
-              "selectionId": "2153264527",
-              "line": 3.5
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Chine (F) -3.5",
-              "odds": 1.54,
-              "isActive": true,
-              "selectionId": "2153264528",
-              "line": 3.5
-            }
-          ],
-          "marketId": "66|hcp=3.5"
-        },
-        {
-          "canonicalMarket": "ASIAN_HANDICAP",
-          "rawName": "Mi-temps - Écart de points (handicap)",
-          "period": "FIRST_HALF",
-          "line": 4.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Porto-Rico (F) +4.5",
-              "odds": 1.8,
-              "isActive": true,
-              "selectionId": "2153264529",
-              "line": 4.5
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Chine (F) -4.5",
-              "odds": 1.66,
-              "isActive": true,
-              "selectionId": "2153264530",
-              "line": 4.5
-            }
-          ],
-          "marketId": "66|hcp=4.5"
-        },
-        {
-          "canonicalMarket": "ASIAN_HANDICAP",
-          "rawName": "Mi-temps - Écart de points (handicap)",
-          "period": "FIRST_HALF",
-          "line": 5.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Porto-Rico (F) +5.5",
-              "odds": 1.68,
-              "isActive": true,
-              "selectionId": "2153264531",
-              "line": 5.5
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Chine (F) -5.5",
-              "odds": 1.78,
-              "isActive": true,
-              "selectionId": "2153264532",
-              "line": 5.5
-            }
-          ],
-          "marketId": "66|hcp=5.5"
-        },
-        {
-          "canonicalMarket": "ASIAN_HANDICAP",
-          "rawName": "Mi-temps - Écart de points (handicap)",
-          "period": "FIRST_HALF",
-          "line": 6.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Porto-Rico (F) +6.5",
-              "odds": 1.56,
-              "isActive": true,
-              "selectionId": "2153264533",
-              "line": 6.5
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Chine (F) -6.5",
-              "odds": 1.92,
-              "isActive": true,
-              "selectionId": "2153264534",
-              "line": 6.5
-            }
-          ],
-          "marketId": "66|hcp=6.5"
-        },
-        {
-          "canonicalMarket": "ASIAN_HANDICAP",
-          "rawName": "Mi-temps - Écart de points (handicap)",
-          "period": "FIRST_HALF",
-          "line": 7.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Porto-Rico (F) +7.5",
-              "odds": 1.47,
-              "isActive": true,
-              "selectionId": "2153264535",
-              "line": 7.5
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Chine (F) -7.5",
-              "odds": 2,
-              "isActive": true,
-              "selectionId": "2153264536",
-              "line": 7.5
-            }
-          ],
-          "marketId": "66|hcp=7.5"
-        },
-        {
-          "canonicalMarket": "ASIAN_HANDICAP",
-          "rawName": "Mi-temps - Écart de points (handicap)",
-          "period": "FIRST_HALF",
-          "line": 8.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Porto-Rico (F) +8.5",
-              "odds": 1.38,
-              "isActive": true,
-              "selectionId": "2153264537",
-              "line": 8.5
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Chine (F) -8.5",
-              "odds": 2.25,
-              "isActive": true,
-              "selectionId": "2153264538",
-              "line": 8.5
-            }
-          ],
-          "marketId": "66|hcp=8.5"
-        },
-        {
-          "canonicalMarket": "HALF_TIME_OVER_UNDER",
-          "rawName": "Mi-temps - Nombre de points",
-          "period": "FIRST_HALF",
-          "line": 68.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 68,5",
-              "odds": 1.49,
-              "isActive": true,
-              "selectionId": "2153264539",
-              "line": 68.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 68,5",
-              "odds": 2,
-              "isActive": true,
-              "selectionId": "2153264540",
-              "line": 68.5
-            }
-          ],
-          "marketId": "68|total=68.5"
-        },
-        {
-          "canonicalMarket": "HALF_TIME_OVER_UNDER",
-          "rawName": "Mi-temps - Nombre de points",
-          "period": "FIRST_HALF",
-          "line": 69.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 69,5",
-              "odds": 1.58,
-              "isActive": true,
-              "selectionId": "2153264543",
-              "line": 69.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 69,5",
-              "odds": 1.86,
-              "isActive": true,
-              "selectionId": "2153264544",
-              "line": 69.5
-            }
-          ],
-          "marketId": "68|total=69.5"
-        },
-        {
-          "canonicalMarket": "HALF_TIME_OVER_UNDER",
-          "rawName": "Mi-temps - Nombre de points",
-          "period": "FIRST_HALF",
-          "line": 71.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 71,5",
-              "odds": 1.82,
-              "isActive": true,
-              "selectionId": "2153264545",
-              "line": 71.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 71,5",
-              "odds": 1.64,
-              "isActive": true,
-              "selectionId": "2153264546",
-              "line": 71.5
-            }
-          ],
-          "marketId": "68|total=71.5"
-        },
-        {
-          "canonicalMarket": "HALF_TIME_OVER_UNDER",
-          "rawName": "Mi-temps - Nombre de points",
-          "period": "FIRST_HALF",
-          "line": 70.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 70,5",
-              "odds": 1.7,
-              "isActive": true,
-              "selectionId": "2153264547",
-              "line": 70.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 70,5",
-              "odds": 1.76,
-              "isActive": true,
-              "selectionId": "2153264548",
-              "line": 70.5
-            }
-          ],
-          "marketId": "68|total=70.5"
-        },
-        {
-          "canonicalMarket": "HALF_TIME_OVER_UNDER",
-          "rawName": "Mi-temps - Nombre de points",
-          "period": "FIRST_HALF",
-          "line": 73.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 73,5",
-              "odds": 2.1,
-              "isActive": true,
-              "selectionId": "2153264549",
-              "line": 73.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 73,5",
-              "odds": 1.44,
-              "isActive": true,
-              "selectionId": "2153264550",
-              "line": 73.5
-            }
-          ],
-          "marketId": "68|total=73.5"
-        },
-        {
-          "canonicalMarket": "HALF_TIME_OVER_UNDER",
-          "rawName": "Mi-temps - Nombre de points",
-          "period": "FIRST_HALF",
-          "line": 72.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 72,5",
-              "odds": 1.96,
-              "isActive": true,
-              "selectionId": "2153264551",
-              "line": 72.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 72,5",
-              "odds": 1.52,
-              "isActive": true,
-              "selectionId": "2153264552",
-              "line": 72.5
-            }
-          ],
-          "marketId": "68|total=72.5"
-        },
-        {
-          "canonicalMarket": "HALF_TIME_OVER_UNDER",
-          "rawName": "Mi-temps - Nombre de points",
-          "period": "FIRST_HALF",
-          "line": 75.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 75,5",
-              "odds": 2.5,
-              "isActive": true,
-              "selectionId": "2153264553",
-              "line": 75.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 75,5",
-              "odds": 1.3,
-              "isActive": true,
-              "selectionId": "2153264554",
-              "line": 75.5
-            }
-          ],
-          "marketId": "68|total=75.5"
-        },
-        {
-          "canonicalMarket": "HALF_TIME_OVER_UNDER",
-          "rawName": "Mi-temps - Nombre de points",
-          "period": "FIRST_HALF",
-          "line": 74.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 74,5",
-              "odds": 2.25,
-              "isActive": true,
-              "selectionId": "2153264555",
-              "line": 74.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 74,5",
-              "odds": 1.37,
-              "isActive": true,
-              "selectionId": "2153264556",
-              "line": 74.5
-            }
-          ],
-          "marketId": "68|total=74.5"
-        },
-        {
-          "canonicalMarket": "MATCH_RESULT",
-          "rawName": "1er quart-temps - Résultat",
-          "period": "FIRST_QUARTER",
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Porto-Rico (F)",
-              "odds": 2.35,
-              "isActive": true,
-              "selectionId": "2153264561"
-            },
-            {
-              "canonicalOutcome": "DRAW",
-              "rawName": "Match nul",
-              "odds": 12,
-              "isActive": true,
-              "selectionId": "2153264562"
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Chine (F)",
-              "odds": 1.44,
-              "isActive": true,
-              "selectionId": "2153264563"
-            }
-          ],
-          "marketId": "235|quarternr=1"
-        },
-        {
-          "canonicalMarket": "OVER_UNDER",
-          "rawName": "1er quart-temps - Nombre de points",
-          "period": "FIRST_QUARTER",
-          "line": 37.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 37,5",
-              "odds": 2.2,
-              "isActive": true,
-              "selectionId": "2153264564",
-              "line": 37.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 37,5",
-              "odds": 1.41,
-              "isActive": true,
-              "selectionId": "2153264565",
-              "line": 37.5
-            }
-          ],
-          "marketId": "236|quarternr=1|total=37.5"
-        },
-        {
-          "canonicalMarket": "OVER_UNDER",
-          "rawName": "1er quart-temps - Nombre de points",
-          "period": "FIRST_QUARTER",
-          "line": 36.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 36,5",
-              "odds": 1.96,
-              "isActive": true,
-              "selectionId": "2153264568",
-              "line": 36.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 36,5",
-              "odds": 1.54,
-              "isActive": true,
-              "selectionId": "2153264569",
-              "line": 36.5
-            }
-          ],
-          "marketId": "236|quarternr=1|total=36.5"
-        },
-        {
-          "canonicalMarket": "OVER_UNDER",
-          "rawName": "1er quart-temps - Nombre de points",
-          "period": "FIRST_QUARTER",
-          "line": 35.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 35,5",
-              "odds": 1.76,
-              "isActive": true,
-              "selectionId": "2153264570",
-              "line": 35.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 35,5",
-              "odds": 1.7,
-              "isActive": true,
-              "selectionId": "2153264571",
-              "line": 35.5
-            }
-          ],
-          "marketId": "236|quarternr=1|total=35.5"
-        },
-        {
-          "canonicalMarket": "OVER_UNDER",
-          "rawName": "1er quart-temps - Nombre de points",
-          "period": "FIRST_QUARTER",
-          "line": 34.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 34,5",
-              "odds": 1.58,
-              "isActive": true,
-              "selectionId": "2153264572",
-              "line": 34.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 34,5",
-              "odds": 1.86,
-              "isActive": true,
-              "selectionId": "2153264573",
-              "line": 34.5
-            }
-          ],
-          "marketId": "236|quarternr=1|total=34.5"
-        },
-        {
-          "canonicalMarket": "HOME_OVER_UNDER",
-          "rawName": "Nombre de points de Porto-Rico (F)",
-          "period": "FULL_TIME",
-          "line": 65.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 65,5",
-              "odds": 1.58,
-              "isActive": true,
-              "selectionId": "2153267918",
-              "line": 65.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 65,5",
-              "odds": 1.86,
-              "isActive": true,
-              "selectionId": "2153267919",
-              "line": 65.5
-            }
-          ],
-          "marketId": "227|total=65.5"
-        },
-        {
-          "canonicalMarket": "AWAY_OVER_UNDER",
-          "rawName": "Nombre de points de Chine (F)",
-          "period": "FULL_TIME",
-          "line": 75.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 75,5",
-              "odds": 1.66,
-              "isActive": true,
-              "selectionId": "2153591357",
-              "line": 75.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 75,5",
-              "odds": 1.8,
-              "isActive": true,
-              "selectionId": "2153591358",
-              "line": 75.5
-            }
-          ],
-          "marketId": "228|total=75.5"
-        },
-        {
-          "canonicalMarket": "ASIAN_HANDICAP",
-          "rawName": "Écart de points (handicap)",
-          "period": "FULL_TIME",
-          "line": -4.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Porto-Rico (F) -4.5",
-              "odds": 5.5,
-              "isActive": true,
-              "selectionId": "2153591366",
-              "line": -4.5
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Chine (F) +4.5",
-              "odds": 1.06,
-              "isActive": true,
-              "selectionId": "2153591367",
-              "line": -4.5
-            }
-          ],
-          "marketId": "223|hcp=-4.5"
-        },
-        {
-          "canonicalMarket": "OVER_UNDER",
-          "rawName": "Nombre de points",
-          "period": "FULL_TIME",
-          "line": 132.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 132,5",
-              "odds": 1.21,
-              "isActive": true,
-              "selectionId": "2153591368",
-              "line": 132.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 132,5",
-              "odds": 3.1,
-              "isActive": true,
-              "selectionId": "2153591369",
-              "line": 132.5
-            }
-          ],
-          "marketId": "225|total=132.5"
-        },
-        {
-          "canonicalMarket": "AWAY_OVER_UNDER",
-          "rawName": "Mi-temps - Nombre de points de Chine (F)",
-          "period": "FIRST_HALF",
-          "line": 36.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 36,5",
-              "odds": 1.5,
-              "isActive": true,
-              "selectionId": "2153593150",
-              "line": 36.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 36,5",
-              "odds": 2,
-              "isActive": true,
-              "selectionId": "2153593151",
-              "line": 36.5
-            }
-          ],
-          "marketId": "70|total=36.5"
-        },
-        {
-          "canonicalMarket": "HALF_TIME_OVER_UNDER",
-          "rawName": "Mi-temps - Nombre de points",
-          "period": "FIRST_HALF",
-          "line": 67.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 67,5",
-              "odds": 1.41,
-              "isActive": true,
-              "selectionId": "2153593152",
-              "line": 67.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 67,5",
-              "odds": 2.2,
-              "isActive": true,
-              "selectionId": "2153593153",
-              "line": 67.5
-            }
-          ],
-          "marketId": "68|total=67.5"
-        },
-        {
-          "canonicalMarket": "OVER_UNDER",
-          "rawName": "Nombre de points",
-          "period": "FULL_TIME",
-          "line": 131.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 131,5",
-              "odds": 1.17,
-              "isActive": true,
-              "selectionId": "2153601132",
-              "line": 131.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 131,5",
-              "odds": 3.35,
-              "isActive": true,
-              "selectionId": "2153601133",
-              "line": 131.5
-            }
-          ],
-          "marketId": "225|total=131.5"
-        },
-        {
-          "canonicalMarket": "AWAY_OVER_UNDER",
-          "rawName": "Nombre de points de Chine (F)",
-          "period": "FULL_TIME",
-          "line": 74.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 74,5",
-              "odds": 1.54,
-              "isActive": true,
-              "selectionId": "2153638945",
-              "line": 74.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 74,5",
-              "odds": 1.94,
-              "isActive": true,
-              "selectionId": "2153638946",
-              "line": 74.5
-            }
-          ],
-          "marketId": "228|total=74.5"
-        },
-        {
-          "canonicalMarket": "HALF_TIME_OVER_UNDER",
-          "rawName": "Mi-temps - Nombre de points",
-          "period": "FIRST_HALF",
-          "line": 66.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 66,5",
-              "odds": 1.33,
-              "isActive": true,
-              "selectionId": "2153651250",
-              "line": 66.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 66,5",
-              "odds": 2.35,
-              "isActive": true,
-              "selectionId": "2153651251",
-              "line": 66.5
-            }
-          ],
-          "marketId": "68|total=66.5"
-        },
-        {
-          "canonicalMarket": "OVER_UNDER",
-          "rawName": "1er quart-temps - Nombre de points",
-          "period": "FIRST_QUARTER",
-          "line": 33.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 33,5",
-              "odds": 1.45,
-              "isActive": true,
-              "selectionId": "2153651252",
-              "line": 33.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 33,5",
-              "odds": 2.1,
-              "isActive": true,
-              "selectionId": "2153651253",
-              "line": 33.5
-            }
-          ],
-          "marketId": "236|quarternr=1|total=33.5"
-        },
-        {
-          "canonicalMarket": "OVER_UNDER",
-          "rawName": "Nombre de points",
-          "period": "FULL_TIME",
-          "line": 130.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 130,5",
-              "odds": 1.14,
-              "isActive": true,
-              "selectionId": "2153653263",
-              "line": 130.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 130,5",
-              "odds": 3.6,
-              "isActive": true,
-              "selectionId": "2153653264",
-              "line": 130.5
-            }
-          ],
-          "marketId": "225|total=130.5"
-        },
-        {
-          "canonicalMarket": "HOME_OVER_UNDER",
-          "rawName": "Nombre de points de Porto-Rico (F)",
-          "period": "FULL_TIME",
-          "line": 64.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 64,5",
-              "odds": 1.48,
-              "isActive": true,
-              "selectionId": "2153740696",
-              "line": 64.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 64,5",
-              "odds": 2,
-              "isActive": true,
-              "selectionId": "2153740697",
-              "line": 64.5
-            }
-          ],
-          "marketId": "227|total=64.5"
-        },
-        {
-          "canonicalMarket": "OTHER",
-          "rawName": "Vainqueur et nombre de points",
-          "period": "FULL_TIME",
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "Chine (F) et plus de 142,5",
-              "odds": 2,
-              "isActive": true,
-              "selectionId": "2154103207"
-            },
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "Chine (F) et moins de 142,5",
-              "odds": 2.1,
-              "isActive": true,
-              "selectionId": "2154103205"
-            },
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "Porto-Rico (F) et moins de 142,5",
-              "odds": 6.75,
-              "isActive": true,
-              "selectionId": "2154103204"
-            },
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "Porto-Rico (F) et plus de 142,5",
-              "odds": 6.75,
-              "isActive": true,
-              "selectionId": "2154103206"
-            }
-          ],
-          "marketId": "292|total=142.5"
-        },
-        {
-          "canonicalMarket": "OVER_UNDER",
-          "rawName": "Nombre de points",
-          "period": "FULL_TIME",
-          "line": 129.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 129,5",
-              "odds": 1.12,
-              "isActive": true,
-              "selectionId": "2154103208",
-              "line": 129.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 129,5",
-              "odds": 3.95,
-              "isActive": true,
-              "selectionId": "2154103209",
-              "line": 129.5
-            }
-          ],
-          "marketId": "225|total=129.5"
-        },
-        {
-          "canonicalMarket": "AWAY_OVER_UNDER",
-          "rawName": "1er quart-temps - Nombre de points de Chine (F)",
-          "period": "FIRST_QUARTER",
-          "line": 16.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 16,5",
-              "odds": 1.26,
-              "isActive": true,
-              "selectionId": "2154147493",
-              "line": 16.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 16,5",
-              "odds": 2.75,
-              "isActive": true,
-              "selectionId": "2154147494",
-              "line": 16.5
-            }
-          ],
-          "marketId": "757|quarternr=1|total=16.5"
-        },
-        {
-          "canonicalMarket": "HOME_OVER_UNDER",
-          "rawName": "Mi-temps - Nombre de points de Porto-Rico (F)",
-          "period": "FIRST_HALF",
-          "line": 30.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 30,5",
-              "odds": 1.36,
-              "isActive": true,
-              "selectionId": "2154147495",
-              "line": 30.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 30,5",
-              "odds": 2.35,
-              "isActive": true,
-              "selectionId": "2154147496",
-              "line": 30.5
-            }
-          ],
-          "marketId": "69|total=30.5"
-        },
-        {
-          "canonicalMarket": "AWAY_OVER_UNDER",
-          "rawName": "Mi-temps - Nombre de points de Chine (F)",
-          "period": "FIRST_HALF",
-          "line": 35.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 35,5",
-              "odds": 1.37,
-              "isActive": true,
-              "selectionId": "2154147497",
-              "line": 35.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 35,5",
-              "odds": 2.25,
-              "isActive": true,
-              "selectionId": "2154147498",
-              "line": 35.5
-            }
-          ],
-          "marketId": "70|total=35.5"
-        },
-        {
-          "canonicalMarket": "HALF_TIME_OVER_UNDER",
-          "rawName": "Mi-temps - Nombre de points",
-          "period": "FIRST_HALF",
-          "line": 65.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 65,5",
-              "odds": 1.27,
-              "isActive": true,
-              "selectionId": "2154147499",
-              "line": 65.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 65,5",
-              "odds": 2.6,
-              "isActive": true,
-              "selectionId": "2154147500",
-              "line": 65.5
-            }
-          ],
-          "marketId": "68|total=65.5"
-        }
-      ],
-      "moreInfo": {
-        "site": "/paris-sportifs/match/71036334",
-        "tournamentId": 900000446,
-        "srTournamentId": "sr:tournament:442"
-      },
-      "slug": "/paris-sportifs/match/71036334",
-      "sport": "basketball",
-      "startTime": "2026-09-09T15:45:00.000Z",
-      "_source": "Winamax",
-      "_pulscore_sport": "basketball",
-      "_last_updated": "2026-09-08T12:52:11.683099+00:00"
-    },
-    {
-      "eventId": "73164534",
-      "away": "FC Porto",
-      "country": "Europe",
-      "home": "Veszprem",
-      "league": "Ligue des Champions",
-      "live": false,
-      "markets": [
-        {
-          "canonicalMarket": "DOUBLE_CHANCE",
-          "rawName": "Double chance",
-          "period": "FULL_TIME",
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME_DRAW",
-              "rawName": "Veszprem ou match nul",
-              "odds": 1.01,
-              "isActive": true,
-              "selectionId": "2143906238"
-            },
-            {
-              "canonicalOutcome": "HOME_AWAY",
-              "rawName": "Veszprem ou FC Porto",
-              "odds": 1.01,
-              "isActive": true,
-              "selectionId": "2143906239"
-            },
-            {
-              "canonicalOutcome": "DRAW_AWAY",
-              "rawName": "FC Porto ou match nul",
-              "odds": 9.5,
-              "isActive": true,
-              "selectionId": "2143906240"
-            }
-          ],
-          "marketId": "10|"
-        },
-        {
-          "canonicalMarket": "DRAW_NO_BET",
-          "rawName": "Vainqueur (remboursé si match nul)",
-          "period": "FULL_TIME",
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Veszprem",
-              "odds": 1.01,
-              "isActive": true,
-              "selectionId": "2143906241"
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "FC Porto",
-              "odds": 6,
-              "isActive": true,
-              "selectionId": "2143906242"
-            }
-          ],
-          "marketId": "11|"
-        },
-        {
-          "canonicalMarket": "MATCH_RESULT",
-          "rawName": "Résultat",
-          "period": "FULL_TIME",
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Veszprem",
-              "odds": 1.02,
-              "isActive": true,
-              "selectionId": "2143906243"
-            },
-            {
-              "canonicalOutcome": "DRAW",
-              "rawName": "Match nul",
-              "odds": 13,
-              "isActive": true,
-              "selectionId": "2143906244"
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "FC Porto",
-              "odds": 9.5,
-              "isActive": true,
-              "selectionId": "2143906245"
-            }
-          ],
-          "marketId": "1|"
-        }
-      ],
-      "moreInfo": {
-        "site": "/paris-sportifs/match/73164534",
-        "tournamentId": 217,
-        "srTournamentId": "sr:tournament:30"
-      },
-      "slug": "/paris-sportifs/match/73164534",
-      "sport": "handball",
-      "startTime": "2026-09-09T16:45:00.000Z",
-      "_source": "Winamax",
-      "_pulscore_sport": "handball",
-      "_last_updated": "2026-09-07T10:54:33.362239+00:00"
-    },
-    {
-      "eventId": "73164584",
-      "away": "Paris SG",
-      "country": "Europe",
-      "home": "Aalborg",
-      "league": "Ligue des Champions",
-      "live": false,
-      "markets": [
-        {
-          "canonicalMarket": "DOUBLE_CHANCE",
-          "rawName": "Double chance",
-          "period": "FULL_TIME",
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME_DRAW",
-              "rawName": "Aalborg ou match nul",
-              "odds": 1.19,
-              "isActive": true,
-              "selectionId": "2141750292"
-            },
-            {
-              "canonicalOutcome": "HOME_AWAY",
-              "rawName": "Aalborg ou PSG",
-              "odds": 1.03,
-              "isActive": true,
-              "selectionId": "2141750293"
-            },
-            {
-              "canonicalOutcome": "DRAW_AWAY",
-              "rawName": "PSG ou match nul",
-              "odds": 2.65,
-              "isActive": true,
-              "selectionId": "2141750294"
-            }
-          ],
-          "marketId": "10|"
-        },
-        {
-          "canonicalMarket": "DRAW_NO_BET",
-          "rawName": "Vainqueur (remboursé si match nul)",
-          "period": "FULL_TIME",
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Aalborg",
-              "odds": 1.22,
-              "isActive": true,
-              "selectionId": "2141750295"
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "PSG",
-              "odds": 3,
-              "isActive": true,
-              "selectionId": "2141750296"
-            }
-          ],
-          "marketId": "11|"
-        },
-        {
-          "canonicalMarket": "MATCH_RESULT",
-          "rawName": "Résultat",
-          "period": "FULL_TIME",
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Aalborg",
-              "odds": 1.32,
-              "isActive": true,
-              "selectionId": "2141750297"
-            },
-            {
-              "canonicalOutcome": "DRAW",
-              "rawName": "Match nul",
-              "odds": 9,
-              "isActive": true,
-              "selectionId": "2141750298"
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "PSG",
-              "odds": 3.45,
-              "isActive": true,
-              "selectionId": "2141750299"
-            }
-          ],
-          "marketId": "1|"
-        }
-      ],
-      "moreInfo": {
-        "site": "/paris-sportifs/match/73164584",
-        "tournamentId": 217,
-        "srTournamentId": "sr:tournament:30"
-      },
-      "slug": "/paris-sportifs/match/73164584",
-      "sport": "handball",
-      "startTime": "2026-09-09T16:45:00.000Z",
-      "_source": "Winamax",
-      "_pulscore_sport": "handball",
-      "_last_updated": "2026-09-07T10:54:33.362239+00:00"
-    },
-    {
-      "eventId": "73164586",
-      "away": "RK Celje",
-      "country": "Europe",
-      "home": "RK Zagreb",
-      "league": "Ligue des Champions",
-      "live": false,
-      "markets": [
-        {
-          "canonicalMarket": "DOUBLE_CHANCE",
-          "rawName": "Double chance",
-          "period": "FULL_TIME",
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME_DRAW",
-              "rawName": "RK Zagreb ou match nul",
-              "odds": 1.05,
-              "isActive": true,
-              "selectionId": "2141786882"
-            },
-            {
-              "canonicalOutcome": "HOME_AWAY",
-              "rawName": "RK Zagreb ou Celje",
-              "odds": 1.02,
-              "isActive": true,
-              "selectionId": "2141786883"
-            },
-            {
-              "canonicalOutcome": "DRAW_AWAY",
-              "rawName": "Celje ou match nul",
-              "odds": 4.7,
-              "isActive": true,
-              "selectionId": "2141786884"
-            }
-          ],
-          "marketId": "10|"
-        },
-        {
-          "canonicalMarket": "DRAW_NO_BET",
-          "rawName": "Vainqueur (remboursé si match nul)",
-          "period": "FULL_TIME",
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "RK Zagreb",
-              "odds": 1.05,
-              "isActive": true,
-              "selectionId": "2141786885"
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Celje",
-              "odds": 4.8,
-              "isActive": true,
-              "selectionId": "2141786886"
-            }
-          ],
-          "marketId": "11|"
-        },
-        {
-          "canonicalMarket": "MATCH_RESULT",
-          "rawName": "Résultat",
-          "period": "FULL_TIME",
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "RK Zagreb",
-              "odds": 1.11,
-              "isActive": true,
-              "selectionId": "2141786887"
-            },
-            {
-              "canonicalOutcome": "DRAW",
-              "rawName": "Match nul",
-              "odds": 11,
-              "isActive": true,
-              "selectionId": "2141786888"
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Celje",
-              "odds": 6,
-              "isActive": true,
-              "selectionId": "2141786889"
-            }
-          ],
-          "marketId": "1|"
-        }
-      ],
-      "moreInfo": {
-        "site": "/paris-sportifs/match/73164586",
-        "tournamentId": 217,
-        "srTournamentId": "sr:tournament:30"
-      },
-      "slug": "/paris-sportifs/match/73164586",
-      "sport": "handball",
-      "startTime": "2026-09-09T16:45:00.000Z",
-      "_source": "Winamax",
-      "_pulscore_sport": "handball",
-      "_last_updated": "2026-09-07T10:54:33.362239+00:00"
-    },
-    {
-      "eventId": "73164678",
-      "away": "HC Kriens-Luzern",
-      "country": "Europe",
-      "home": "Kielce Vive",
-      "league": "Ligue des Champions",
-      "live": false,
-      "markets": [
-        {
-          "canonicalMarket": "DOUBLE_CHANCE",
-          "rawName": "Double chance",
-          "period": "FULL_TIME",
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME_DRAW",
-              "rawName": "Kielce Vive ou match nul",
-              "odds": 1.12,
-              "isActive": true,
-              "selectionId": "2141799942"
-            },
-            {
-              "canonicalOutcome": "HOME_AWAY",
-              "rawName": "Kielce Vive ou HC Kriens-Luzern",
-              "odds": 1.02,
-              "isActive": true,
-              "selectionId": "2141799943"
-            },
-            {
-              "canonicalOutcome": "DRAW_AWAY",
-              "rawName": "HC Kriens-Luzern ou match nul",
-              "odds": 3.4,
-              "isActive": true,
-              "selectionId": "2141799944"
-            }
-          ],
-          "marketId": "10|"
-        },
-        {
-          "canonicalMarket": "DRAW_NO_BET",
-          "rawName": "Vainqueur (remboursé si match nul)",
-          "period": "FULL_TIME",
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Kielce Vive",
-              "odds": 1.13,
-              "isActive": true,
-              "selectionId": "2141799945"
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "HC Kriens-Luzern",
-              "odds": 3.65,
-              "isActive": true,
-              "selectionId": "2141799946"
-            }
-          ],
-          "marketId": "11|"
-        },
-        {
-          "canonicalMarket": "MATCH_RESULT",
-          "rawName": "Résultat",
-          "period": "FULL_TIME",
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Kielce Vive",
-              "odds": 1.21,
-              "isActive": true,
-              "selectionId": "2141799947"
-            },
-            {
-              "canonicalOutcome": "DRAW",
-              "rawName": "Match nul",
-              "odds": 10,
-              "isActive": true,
-              "selectionId": "2141799948"
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "HC Kriens-Luzern",
-              "odds": 4.3,
-              "isActive": true,
-              "selectionId": "2141799949"
-            }
-          ],
-          "marketId": "1|"
-        }
-      ],
-      "moreInfo": {
-        "site": "/paris-sportifs/match/73164678",
-        "tournamentId": 217,
-        "srTournamentId": "sr:tournament:30"
-      },
-      "slug": "/paris-sportifs/match/73164678",
-      "sport": "handball",
-      "startTime": "2026-09-09T16:45:00.000Z",
-      "_source": "Winamax",
-      "_pulscore_sport": "handball",
-      "_last_updated": "2026-09-07T10:54:33.362239+00:00"
-    },
-    {
-      "eventId": "63301765",
-      "away": "Minnesota Twins",
-      "country": "États-Unis",
-      "home": "Detroit Tigers",
-      "league": "MLB",
-      "live": false,
-      "markets": [
-        {
-          "canonicalMarket": "MATCH_RESULT",
-          "rawName": "Vainqueur",
-          "period": "FULL_TIME",
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Detroit Tigers",
-              "odds": 1.74,
-              "isActive": true,
-              "selectionId": "2154660893"
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Minnesota Twins",
-              "odds": 2.05,
-              "isActive": true,
-              "selectionId": "2154660894"
-            }
-          ],
-          "marketId": "251|"
-        }
-      ],
-      "moreInfo": {
-        "site": "/paris-sportifs/match/63301765",
-        "tournamentId": 25,
-        "srTournamentId": "sr:tournament:109"
-      },
-      "slug": "/paris-sportifs/match/63301765",
-      "sport": "baseball",
-      "startTime": "2026-09-09T17:10:00.000Z",
-      "_source": "Winamax",
-      "_pulscore_sport": "baseball",
-      "_last_updated": "2026-09-09T07:22:42.730225+00:00"
-    },
     {
       "eventId": "73164560",
       "away": "Wisla Plock",
@@ -14267,6 +10160,58 @@
       "_last_updated": "2026-09-09T07:22:42.730225+00:00"
     },
     {
+      "eventId": "71734066",
+      "away": "Taranaki",
+      "country": "Nouvelle-Zélande",
+      "home": "Manawatu",
+      "league": "Hilux NPC",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Manawatu",
+              "odds": 3.1,
+              "isActive": true,
+              "selectionId": "2151893897"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 22,
+              "isActive": true,
+              "selectionId": "2151893898"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Taranaki",
+              "odds": 1.24,
+              "isActive": true,
+              "selectionId": "2151893899"
+            }
+          ],
+          "marketId": "1|type=prematch"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/71734066",
+        "tournamentId": 1503,
+        "srTournamentId": "sr:tournament:797",
+        "round": "J7"
+      },
+      "slug": "/paris-sportifs/match/71734066",
+      "sport": "rugby_union",
+      "startTime": "2026-09-10T07:10:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "rugby-union",
+      "_last_updated": "2026-09-09T17:49:56.623434+00:00"
+    },
+    {
       "eventId": "73164536",
       "away": "Füchse Berlin",
       "country": "Europe",
@@ -15240,6 +11185,58 @@
       "_source": "Winamax",
       "_pulscore_sport": "rugby-league",
       "_last_updated": "2026-09-07T11:00:34.315868+00:00"
+    },
+    {
+      "eventId": "72876246",
+      "away": "Colomiers",
+      "country": "France",
+      "home": "Biarritz Olympique",
+      "league": "Pro D2",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Biarritz Olympique ",
+              "odds": 1.32,
+              "isActive": true,
+              "selectionId": "2152036563"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 19,
+              "isActive": true,
+              "selectionId": "2152036564"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Colomiers",
+              "odds": 3.05,
+              "isActive": true,
+              "selectionId": "2152036565"
+            }
+          ],
+          "marketId": "1|type=prematch"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/72876246",
+        "tournamentId": 22340,
+        "srTournamentId": "sr:tournament:1147",
+        "round": "J3"
+      },
+      "slug": "/paris-sportifs/match/72876246",
+      "sport": "rugby_union",
+      "startTime": "2026-09-10T19:00:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "rugby-union",
+      "_last_updated": "2026-09-09T17:49:56.623434+00:00"
     },
     {
       "eventId": "74136372",
@@ -20649,6 +16646,58 @@
       "_pulscore_sport": "american-football"
     },
     {
+      "eventId": "71734068",
+      "away": "Tasman",
+      "country": "Nouvelle-Zélande",
+      "home": "Otago",
+      "league": "Hilux NPC",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Otago",
+              "odds": 1.36,
+              "isActive": true,
+              "selectionId": "2151899575"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 23,
+              "isActive": true,
+              "selectionId": "2151899576"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Tasman",
+              "odds": 2.45,
+              "isActive": true,
+              "selectionId": "2151899577"
+            }
+          ],
+          "marketId": "1|type=prematch"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/71734068",
+        "tournamentId": 1503,
+        "srTournamentId": "sr:tournament:797",
+        "round": "J7"
+      },
+      "slug": "/paris-sportifs/match/71734068",
+      "sport": "rugby_union",
+      "startTime": "2026-09-11T07:10:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "rugby-union",
+      "_last_updated": "2026-09-09T17:49:56.623434+00:00"
+    },
+    {
       "eventId": "74394072",
       "away": "Newcastle Knights",
       "country": "International",
@@ -21450,6 +17499,306 @@
       "_source": "Winamax",
       "_pulscore_sport": "handball",
       "_last_updated": "2026-09-07T10:54:33.362239+00:00"
+    },
+    {
+      "eventId": "72876242",
+      "away": "US Montauban",
+      "country": "France",
+      "home": "Soyaux Angoulême",
+      "league": "Pro D2",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Soyaux Angoulême",
+              "odds": 1.41,
+              "isActive": true,
+              "selectionId": "2152022225"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 17,
+              "isActive": true,
+              "selectionId": "2152022226"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "US Montauban",
+              "odds": 2.35,
+              "isActive": true,
+              "selectionId": "2152022227"
+            }
+          ],
+          "marketId": "1|type=prematch"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/72876242",
+        "tournamentId": 22340,
+        "srTournamentId": "sr:tournament:1147",
+        "round": "J3"
+      },
+      "slug": "/paris-sportifs/match/72876242",
+      "sport": "rugby_union",
+      "startTime": "2026-09-11T17:00:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "rugby-union",
+      "_last_updated": "2026-09-09T17:49:56.623434+00:00"
+    },
+    {
+      "eventId": "72876254",
+      "away": "Stade Aurillacois",
+      "country": "France",
+      "home": "Oyonnax",
+      "league": "Pro D2",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "ASIAN_HANDICAP",
+          "rawName": "Écart de points (handicap)",
+          "period": "FULL_TIME",
+          "line": -23.5,
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Oyonnax -23.5",
+              "odds": 1.7,
+              "isActive": true,
+              "selectionId": "2152174665",
+              "line": -23.5
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Stade Aurillacois +23.5",
+              "odds": 1.76,
+              "isActive": true,
+              "selectionId": "2152174666",
+              "line": -23.5
+            }
+          ],
+          "marketId": "16|hcp=-23.5"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/72876254",
+        "tournamentId": 22340,
+        "srTournamentId": "sr:tournament:1147",
+        "round": "J3"
+      },
+      "slug": "/paris-sportifs/match/72876254",
+      "sport": "rugby_union",
+      "startTime": "2026-09-11T17:30:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "rugby-union",
+      "_last_updated": "2026-09-09T17:49:56.623434+00:00"
+    },
+    {
+      "eventId": "72876240",
+      "away": "Narbonne",
+      "country": "France",
+      "home": "Provence Rugby",
+      "league": "Pro D2",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "ASIAN_HANDICAP",
+          "rawName": "Écart de points (handicap)",
+          "period": "FULL_TIME",
+          "line": -33.5,
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Provence Rugby -33.5",
+              "odds": 1.72,
+              "isActive": true,
+              "selectionId": "2152097012",
+              "line": -33.5
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Narbonne +33.5",
+              "odds": 1.74,
+              "isActive": true,
+              "selectionId": "2152097013",
+              "line": -33.5
+            }
+          ],
+          "marketId": "16|hcp=-33.5"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/72876240",
+        "tournamentId": 22340,
+        "srTournamentId": "sr:tournament:1147",
+        "round": "J3"
+      },
+      "slug": "/paris-sportifs/match/72876240",
+      "sport": "rugby_union",
+      "startTime": "2026-09-11T17:30:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "rugby-union",
+      "_last_updated": "2026-09-09T17:49:56.623434+00:00"
+    },
+    {
+      "eventId": "72876244",
+      "away": "USON Nevers",
+      "country": "France",
+      "home": "AS Béziers Hérault",
+      "league": "Pro D2",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "AS Béziers Hérault",
+              "odds": 1.42,
+              "isActive": true,
+              "selectionId": "2152045444"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 17,
+              "isActive": true,
+              "selectionId": "2152045445"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "USON Nevers",
+              "odds": 2.35,
+              "isActive": true,
+              "selectionId": "2152045446"
+            }
+          ],
+          "marketId": "1|type=prematch"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/72876244",
+        "tournamentId": 22340,
+        "srTournamentId": "sr:tournament:1147",
+        "round": "J3"
+      },
+      "slug": "/paris-sportifs/match/72876244",
+      "sport": "rugby_union",
+      "startTime": "2026-09-11T17:30:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "rugby-union",
+      "_last_updated": "2026-09-09T17:49:56.623434+00:00"
+    },
+    {
+      "eventId": "72876248",
+      "away": "Stade Niçois",
+      "country": "France",
+      "home": "CA Brive",
+      "league": "Pro D2",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "ASIAN_HANDICAP",
+          "rawName": "Écart de points (handicap)",
+          "period": "FULL_TIME",
+          "line": -23.5,
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "CA Brive -23.5",
+              "odds": 1.68,
+              "isActive": true,
+              "selectionId": "2152036628",
+              "line": -23.5
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Stade Niçois +23.5",
+              "odds": 1.78,
+              "isActive": true,
+              "selectionId": "2152036629",
+              "line": -23.5
+            }
+          ],
+          "marketId": "16|hcp=-23.5"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/72876248",
+        "tournamentId": 22340,
+        "srTournamentId": "sr:tournament:1147",
+        "round": "J3"
+      },
+      "slug": "/paris-sportifs/match/72876248",
+      "sport": "rugby_union",
+      "startTime": "2026-09-11T17:30:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "rugby-union",
+      "_last_updated": "2026-09-09T17:49:56.623434+00:00"
+    },
+    {
+      "eventId": "72876250",
+      "away": "Valence Romans",
+      "country": "France",
+      "home": "US Dax",
+      "league": "Pro D2",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "US Dax",
+              "odds": 1.28,
+              "isActive": true,
+              "selectionId": "2152066063"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 18,
+              "isActive": true,
+              "selectionId": "2152066064"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Valence Romans",
+              "odds": 2.85,
+              "isActive": true,
+              "selectionId": "2152066065"
+            }
+          ],
+          "marketId": "1|type=prematch"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/72876250",
+        "tournamentId": 22340,
+        "srTournamentId": "sr:tournament:1147",
+        "round": "J3"
+      },
+      "slug": "/paris-sportifs/match/72876250",
+      "sport": "rugby_union",
+      "startTime": "2026-09-11T17:30:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "rugby-union",
+      "_last_updated": "2026-09-09T17:49:56.623434+00:00"
     },
     {
       "eventId": "73215730",
@@ -23075,6 +19424,213 @@
       "_last_updated": "2026-09-07T11:00:34.315868+00:00"
     },
     {
+      "eventId": "72876252",
+      "away": "Agen",
+      "country": "France",
+      "home": "Grenoble",
+      "league": "Pro D2",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Grenoble",
+              "odds": 1.06,
+              "isActive": true,
+              "selectionId": "2152072142"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 25,
+              "isActive": true,
+              "selectionId": "2152072143"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Agen",
+              "odds": 4.9,
+              "isActive": true,
+              "selectionId": "2152072144"
+            }
+          ],
+          "marketId": "1|type=prematch"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/72876252",
+        "tournamentId": 22340,
+        "srTournamentId": "sr:tournament:1147",
+        "round": "J3"
+      },
+      "slug": "/paris-sportifs/match/72876252",
+      "sport": "rugby_union",
+      "startTime": "2026-09-11T19:00:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "rugby-union",
+      "_last_updated": "2026-09-09T17:49:56.623434+00:00"
+    },
+    {
+      "eventId": "71734070",
+      "away": "Counties Manukau",
+      "country": "Nouvelle-Zélande",
+      "home": "Auckland",
+      "league": "Hilux NPC",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Auckland",
+              "odds": 1.32,
+              "isActive": true,
+              "selectionId": "2151901676"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 23,
+              "isActive": true,
+              "selectionId": "2151901677"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Counties Manukau",
+              "odds": 2.55,
+              "isActive": true,
+              "selectionId": "2151901678"
+            }
+          ],
+          "marketId": "1|type=prematch"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/71734070",
+        "tournamentId": 1503,
+        "srTournamentId": "sr:tournament:797",
+        "round": "J7"
+      },
+      "slug": "/paris-sportifs/match/71734070",
+      "sport": "rugby_union",
+      "startTime": "2026-09-12T02:05:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "rugby-union",
+      "_last_updated": "2026-09-09T17:49:56.623434+00:00"
+    },
+    {
+      "eventId": "74059920",
+      "away": "Western Force",
+      "country": "Australie",
+      "home": "Queensland Reds",
+      "league": "Super Rugby AUS",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Queensland Reds",
+              "odds": 1.58,
+              "isActive": true,
+              "selectionId": "2155411861"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 20,
+              "isActive": true,
+              "selectionId": "2155411862"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Western Force",
+              "odds": 1.98,
+              "isActive": true,
+              "selectionId": "2155411863"
+            }
+          ],
+          "marketId": "1|type=prematch"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/74059920",
+        "tournamentId": 176105,
+        "srTournamentId": "sr:tournament:48633"
+      },
+      "slug": "/paris-sportifs/match/74059920",
+      "sport": "rugby_union",
+      "startTime": "2026-09-12T03:30:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "rugby-union",
+      "_last_updated": "2026-09-09T17:49:56.623434+00:00"
+    },
+    {
+      "eventId": "71734072",
+      "away": "Waikato",
+      "country": "Nouvelle-Zélande",
+      "home": "Northland",
+      "league": "Hilux NPC",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Northland",
+              "odds": 1.31,
+              "isActive": true,
+              "selectionId": "2151903080"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 23,
+              "isActive": true,
+              "selectionId": "2151903081"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Waikato",
+              "odds": 2.65,
+              "isActive": true,
+              "selectionId": "2151903082"
+            }
+          ],
+          "marketId": "1|type=prematch"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/71734072",
+        "tournamentId": 1503,
+        "srTournamentId": "sr:tournament:797",
+        "round": "J7"
+      },
+      "slug": "/paris-sportifs/match/71734072",
+      "sport": "rugby_union",
+      "startTime": "2026-09-12T05:05:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "rugby-union",
+      "_last_updated": "2026-09-09T17:49:56.623434+00:00"
+    },
+    {
       "eventId": "71001214",
       "away": "Conor Benn",
       "country": "International",
@@ -23973,6 +20529,58 @@
       "_last_updated": "2026-09-07T11:00:34.315868+00:00"
     },
     {
+      "eventId": "71734074",
+      "away": "Wellington",
+      "country": "Nouvelle-Zélande",
+      "home": "Canterbury",
+      "league": "Hilux NPC",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Canterbury",
+              "odds": 1.01,
+              "isActive": true,
+              "selectionId": "2151906252"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 34,
+              "isActive": true,
+              "selectionId": "2151906253"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Wellington",
+              "odds": 6,
+              "isActive": true,
+              "selectionId": "2151906254"
+            }
+          ],
+          "marketId": "1|type=prematch"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/71734074",
+        "tournamentId": 1503,
+        "srTournamentId": "sr:tournament:797",
+        "round": "J7"
+      },
+      "slug": "/paris-sportifs/match/71734074",
+      "sport": "rugby_union",
+      "startTime": "2026-09-12T07:10:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "rugby-union",
+      "_last_updated": "2026-09-09T17:49:56.623434+00:00"
+    },
+    {
       "eventId": "74372628",
       "away": "Adelaide Crows",
       "country": "Australie",
@@ -24513,6 +21121,58 @@
       "_source": "Winamax",
       "_pulscore_sport": "ice-hockey",
       "_last_updated": "2026-09-09T12:57:57.122137+00:00"
+    },
+    {
+      "eventId": "74413492",
+      "away": "Pumas",
+      "country": "Afrique du Sud",
+      "home": "GWK Griquas",
+      "league": "Currie Cup",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "GWK Griquas",
+              "odds": 1.1,
+              "isActive": true,
+              "selectionId": "2153630763"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 22,
+              "isActive": true,
+              "selectionId": "2153630764"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Pumas",
+              "odds": 4.3,
+              "isActive": true,
+              "selectionId": "2153630765"
+            }
+          ],
+          "marketId": "1|type=prematch"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/74413492",
+        "tournamentId": 2239,
+        "srTournamentId": "sr:tournament:796",
+        "round": "Finale"
+      },
+      "slug": "/paris-sportifs/match/74413492",
+      "sport": "rugby_union",
+      "startTime": "2026-09-12T13:00:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "rugby-union",
+      "_last_updated": "2026-09-09T17:49:56.623434+00:00"
     },
     {
       "eventId": "66349624",
@@ -25124,6 +21784,266 @@
       "_last_updated": "2026-09-09T12:57:57.122137+00:00"
     },
     {
+      "eventId": "72875724",
+      "away": "Stade Français",
+      "country": "France",
+      "home": "ASM Clermont",
+      "league": "Top 14 ",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "ASM Clermont",
+              "odds": 1.18,
+              "isActive": true,
+              "selectionId": "2151950177"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 20,
+              "isActive": true,
+              "selectionId": "2151950178"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Stade Français",
+              "odds": 3.45,
+              "isActive": true,
+              "selectionId": "2151950179"
+            }
+          ],
+          "marketId": "1|type=prematch"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/72875724",
+        "tournamentId": 1600,
+        "srTournamentId": "sr:tournament:420",
+        "round": "J2"
+      },
+      "slug": "/paris-sportifs/match/72875724",
+      "sport": "rugby_union",
+      "startTime": "2026-09-12T14:35:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "rugby-union",
+      "_last_updated": "2026-09-09T17:49:56.623434+00:00"
+    },
+    {
+      "eventId": "72875816",
+      "away": "Castres Olympique",
+      "country": "France",
+      "home": "USA Perpignan",
+      "league": "Top 14 ",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "USA Perpignan",
+              "odds": 1.26,
+              "isActive": true,
+              "selectionId": "2151976169"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 18,
+              "isActive": true,
+              "selectionId": "2151976170"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Castres Olympique",
+              "odds": 2.95,
+              "isActive": true,
+              "selectionId": "2151976171"
+            }
+          ],
+          "marketId": "1|type=prematch"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/72875816",
+        "tournamentId": 1600,
+        "srTournamentId": "sr:tournament:420",
+        "round": "J2"
+      },
+      "slug": "/paris-sportifs/match/72875816",
+      "sport": "rugby_union",
+      "startTime": "2026-09-12T14:35:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "rugby-union",
+      "_last_updated": "2026-09-09T17:49:56.623434+00:00"
+    },
+    {
+      "eventId": "72875818",
+      "away": "Lyon OU",
+      "country": "France",
+      "home": "Racing 92",
+      "league": "Top 14 ",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Racing 92",
+              "odds": 1.1,
+              "isActive": true,
+              "selectionId": "2151984082"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 24,
+              "isActive": true,
+              "selectionId": "2151984083"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Lyon OU",
+              "odds": 4.3,
+              "isActive": true,
+              "selectionId": "2151984084"
+            }
+          ],
+          "marketId": "1|type=prematch"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/72875818",
+        "tournamentId": 1600,
+        "srTournamentId": "sr:tournament:420",
+        "round": "J2"
+      },
+      "slug": "/paris-sportifs/match/72875818",
+      "sport": "rugby_union",
+      "startTime": "2026-09-12T14:35:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "rugby-union",
+      "_last_updated": "2026-09-09T17:49:56.623434+00:00"
+    },
+    {
+      "eventId": "72875824",
+      "away": "Montpellier",
+      "country": "France",
+      "home": "RC Vannes",
+      "league": "Top 14 ",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "RC Vannes",
+              "odds": 1.98,
+              "isActive": true,
+              "selectionId": "2152022814"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 20,
+              "isActive": true,
+              "selectionId": "2152022815"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Montpellier",
+              "odds": 1.58,
+              "isActive": true,
+              "selectionId": "2152022816"
+            }
+          ],
+          "marketId": "1|type=prematch"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/72875824",
+        "tournamentId": 1600,
+        "srTournamentId": "sr:tournament:420",
+        "round": "J2"
+      },
+      "slug": "/paris-sportifs/match/72875824",
+      "sport": "rugby_union",
+      "startTime": "2026-09-12T14:35:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "rugby-union",
+      "_last_updated": "2026-09-09T17:49:56.623434+00:00"
+    },
+    {
+      "eventId": "72875726",
+      "away": "Aviron Bayonnais",
+      "country": "France",
+      "home": "Section Paloise",
+      "league": "Top 14 ",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Section Paloise",
+              "odds": 1.11,
+              "isActive": true,
+              "selectionId": "2151955834"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 25,
+              "isActive": true,
+              "selectionId": "2151955835"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Aviron Bayonnais",
+              "odds": 5.5,
+              "isActive": true,
+              "selectionId": "2151955836"
+            }
+          ],
+          "marketId": "1|type=prematch"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/72875726",
+        "tournamentId": 1600,
+        "srTournamentId": "sr:tournament:420",
+        "round": "J2"
+      },
+      "slug": "/paris-sportifs/match/72875726",
+      "sport": "rugby_union",
+      "startTime": "2026-09-12T14:35:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "rugby-union",
+      "_last_updated": "2026-09-09T17:49:56.623434+00:00"
+    },
+    {
       "eventId": "72982510",
       "away": "Recoletas Atletico Valladolid",
       "country": "Espagne",
@@ -25696,6 +22616,58 @@
       "_last_updated": "2026-09-07T10:54:33.362239+00:00"
     },
     {
+      "eventId": "72875820",
+      "away": "Stade Rochelais",
+      "country": "France",
+      "home": "RC Toulon",
+      "league": "Top 14 ",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "RC Toulon",
+              "odds": 1.19,
+              "isActive": true,
+              "selectionId": "2151996173"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 19,
+              "isActive": true,
+              "selectionId": "2151996174"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Stade Rochelais",
+              "odds": 3.4,
+              "isActive": true,
+              "selectionId": "2151996175"
+            }
+          ],
+          "marketId": "1|type=prematch"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/72875820",
+        "tournamentId": 1600,
+        "srTournamentId": "sr:tournament:420",
+        "round": "J2"
+      },
+      "slug": "/paris-sportifs/match/72875820",
+      "sport": "rugby_union",
+      "startTime": "2026-09-12T19:00:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "rugby-union",
+      "_last_updated": "2026-09-09T17:49:56.623434+00:00"
+    },
+    {
       "eventId": "73454856",
       "away": "Dan Ige",
       "country": "UFC",
@@ -25764,6 +22736,57 @@
       "_source": "Winamax",
       "_pulscore_sport": "mma",
       "_last_updated": "2026-09-07T17:44:56.783395+00:00"
+    },
+    {
+      "eventId": "73207228",
+      "away": "Nouvelle-Zélande",
+      "country": "International",
+      "home": "Afrique du Sud",
+      "league": "Test Matchs",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Afrique du Sud",
+              "odds": 1.33,
+              "isActive": true,
+              "selectionId": "2150867454"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 19,
+              "isActive": true,
+              "selectionId": "2150867455"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Nouvelle-Zélande",
+              "odds": 3.1,
+              "isActive": true,
+              "selectionId": "2150867456"
+            }
+          ],
+          "marketId": "1|type=prematch"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/73207228",
+        "tournamentId": 900000969,
+        "srTournamentId": "sr:tournament:52628"
+      },
+      "slug": "/paris-sportifs/match/73207228",
+      "sport": "rugby_union",
+      "startTime": "2026-09-12T21:00:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "rugby-union",
+      "_last_updated": "2026-09-09T17:49:56.623434+00:00"
     },
     {
       "eventId": "73454862",
@@ -26427,6 +23450,161 @@
       "_source": "Winamax",
       "_pulscore_sport": "mma",
       "_last_updated": "2026-09-07T17:44:56.783395+00:00"
+    },
+    {
+      "eventId": "71734076",
+      "away": "North Harbour",
+      "country": "Nouvelle-Zélande",
+      "home": "Hawke's Bay",
+      "league": "Hilux NPC",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Hawke's Bay",
+              "odds": 1.1,
+              "isActive": true,
+              "selectionId": "2151908769"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 28,
+              "isActive": true,
+              "selectionId": "2151908770"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "North Harbour",
+              "odds": 4.1,
+              "isActive": true,
+              "selectionId": "2151908771"
+            }
+          ],
+          "marketId": "1|type=prematch"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/71734076",
+        "tournamentId": 1503,
+        "srTournamentId": "sr:tournament:797",
+        "round": "J7"
+      },
+      "slug": "/paris-sportifs/match/71734076",
+      "sport": "rugby_union",
+      "startTime": "2026-09-13T02:05:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "rugby-union",
+      "_last_updated": "2026-09-09T17:49:56.623434+00:00"
+    },
+    {
+      "eventId": "74059922",
+      "away": "Waratahs",
+      "country": "Australie",
+      "home": "Brumbies",
+      "league": "Super Rugby AUS",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Brumbies",
+              "odds": 1.22,
+              "isActive": true,
+              "selectionId": "2155411799"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 19,
+              "isActive": true,
+              "selectionId": "2155411800"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Waratahs",
+              "odds": 3.15,
+              "isActive": true,
+              "selectionId": "2155411801"
+            }
+          ],
+          "marketId": "1|type=prematch"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/74059922",
+        "tournamentId": 176105,
+        "srTournamentId": "sr:tournament:48633"
+      },
+      "slug": "/paris-sportifs/match/74059922",
+      "sport": "rugby_union",
+      "startTime": "2026-09-13T04:00:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "rugby-union",
+      "_last_updated": "2026-09-09T17:49:56.623434+00:00"
+    },
+    {
+      "eventId": "71734078",
+      "away": "Bay of Plenty",
+      "country": "Nouvelle-Zélande",
+      "home": "Southland",
+      "league": "Hilux NPC",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Southland",
+              "odds": 3,
+              "isActive": true,
+              "selectionId": "2151910662"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 24,
+              "isActive": true,
+              "selectionId": "2151910663"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Bay of Plenty",
+              "odds": 1.23,
+              "isActive": true,
+              "selectionId": "2151910664"
+            }
+          ],
+          "marketId": "1|type=prematch"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/71734078",
+        "tournamentId": 1503,
+        "srTournamentId": "sr:tournament:797",
+        "round": "J7"
+      },
+      "slug": "/paris-sportifs/match/71734078",
+      "sport": "rugby_union",
+      "startTime": "2026-09-13T05:05:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "rugby-union",
+      "_last_updated": "2026-09-09T17:49:56.623434+00:00"
     },
     {
       "eventId": "74394084",
@@ -64572,6 +61750,58 @@
       "_source": "Winamax",
       "_pulscore_sport": "soccer",
       "_last_updated": "2026-09-09T00:14:04.901495+00:00"
+    },
+    {
+      "eventId": "72875822",
+      "away": "Bordeaux-Bègles",
+      "country": "France",
+      "home": "Stade Toulousain",
+      "league": "Top 14 ",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Stade Toulousain",
+              "odds": 1.16,
+              "isActive": true,
+              "selectionId": "2152022700"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 21,
+              "isActive": true,
+              "selectionId": "2152022701"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "UBB",
+              "odds": 3.55,
+              "isActive": true,
+              "selectionId": "2152022702"
+            }
+          ],
+          "marketId": "1|type=prematch"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/72875822",
+        "tournamentId": 1600,
+        "srTournamentId": "sr:tournament:420",
+        "round": "J2"
+      },
+      "slug": "/paris-sportifs/match/72875822",
+      "sport": "rugby_union",
+      "startTime": "2026-09-13T19:05:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "rugby-union",
+      "_last_updated": "2026-09-09T17:49:56.623434+00:00"
     },
     {
       "eventId": "71515770",
