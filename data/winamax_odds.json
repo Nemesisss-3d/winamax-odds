@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-10T12:54:57.530067+00:00",
+  "generatedAt": "2026-09-10T17:42:22.505933+00:00",
   "source": "PulseScore / Winamax",
   "refreshStrategy": "weighted rotation every 2 hours; 32-slot/64-hour cycle; priority to soccer, tennis and basketball",
-  "currentSportRefreshed": "snooker",
-  "eventCount": 167,
+  "currentSportRefreshed": "soccer",
+  "eventCount": 175,
   "sportsRequested": [
     "soccer",
     "tennis",
@@ -61,7 +61,7 @@
     "rugby-league": "2026-09-07T11:00:34.315868+00:00",
     "mma": "2026-09-07T17:44:56.783395+00:00",
     "snooker": "2026-09-10T12:54:57.530067+00:00",
-    "soccer": "2026-09-09T20:55:44.124483+00:00",
+    "soccer": "2026-09-10T17:42:22.505933+00:00",
     "basketball": "2026-09-08T12:52:11.683099+00:00",
     "rugby-union": "2026-09-09T17:49:56.623434+00:00",
     "baseball": "2026-09-09T07:22:42.730225+00:00",
@@ -71,1148 +71,6 @@
   },
   "errors": [],
   "events": [
-    {
-      "eventId": "65840630",
-      "away": "Portugal",
-      "country": "Europe",
-      "home": "Pologne",
-      "league": "Ch. d'Europe",
-      "live": false,
-      "markets": [
-        {
-          "canonicalMarket": "MATCH_RESULT",
-          "rawName": "Vainqueur",
-          "period": "FULL_TIME",
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Pologne",
-              "odds": 1.03,
-              "isActive": true,
-              "selectionId": "2149921981"
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Portugal",
-              "odds": 7.5,
-              "isActive": true,
-              "selectionId": "2149921982"
-            }
-          ],
-          "marketId": "186|"
-        }
-      ],
-      "moreInfo": {
-        "site": "/paris-sportifs/match/65840630",
-        "tournamentId": 900006760,
-        "srTournamentId": "sr:tournament:624"
-      },
-      "slug": "/paris-sportifs/match/65840630",
-      "sport": "volleyball",
-      "startTime": "2026-09-10T13:00:00.000Z",
-      "_source": "Winamax",
-      "_pulscore_sport": "volleyball",
-      "_last_updated": "2026-09-10T00:14:36.076705+00:00"
-    },
-    {
-      "eventId": "74517436",
-      "away": "Ding Junhui",
-      "country": "International",
-      "home": "Joe O'Connor",
-      "league": "English Open",
-      "live": false,
-      "markets": [
-        {
-          "canonicalMarket": "MATCH_RESULT",
-          "rawName": "Vainqueur",
-          "period": "FULL_TIME",
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "J. O'Connor",
-              "odds": 2.1,
-              "isActive": true,
-              "selectionId": "2157153338"
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "D. Junhui",
-              "odds": 1.52,
-              "isActive": true,
-              "selectionId": "2157153339"
-            }
-          ],
-          "marketId": "186|"
-        }
-      ],
-      "moreInfo": {
-        "site": "/paris-sportifs/match/74517436",
-        "tournamentId": 195076,
-        "srTournamentId": "sr:tournament:20508",
-        "round": "1/8"
-      },
-      "slug": "/paris-sportifs/match/74517436",
-      "sport": "snooker",
-      "startTime": "2026-09-10T13:30:00.000Z",
-      "_source": "Winamax",
-      "_pulscore_sport": "snooker",
-      "_last_updated": "2026-09-10T12:54:57.530067+00:00"
-    },
-    {
-      "eventId": "74522914",
-      "away": "Wu Yize",
-      "country": "International",
-      "home": "Liam Davies",
-      "league": "English Open",
-      "live": false,
-      "markets": [
-        {
-          "canonicalMarket": "MATCH_RESULT",
-          "rawName": "Vainqueur",
-          "period": "FULL_TIME",
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "L. Davies",
-              "odds": 3.35,
-              "isActive": true,
-              "selectionId": "2157152707"
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Wu Yize",
-              "odds": 1.21,
-              "isActive": true,
-              "selectionId": "2157152708"
-            }
-          ],
-          "marketId": "186|"
-        }
-      ],
-      "moreInfo": {
-        "site": "/paris-sportifs/match/74522914",
-        "tournamentId": 195076,
-        "srTournamentId": "sr:tournament:20508",
-        "round": "1/8"
-      },
-      "slug": "/paris-sportifs/match/74522914",
-      "sport": "snooker",
-      "startTime": "2026-09-10T13:30:00.000Z",
-      "_source": "Winamax",
-      "_pulscore_sport": "snooker",
-      "_last_updated": "2026-09-10T12:54:57.530067+00:00"
-    },
-    {
-      "eventId": "73926848",
-      "away": "Shabab Al Ahli",
-      "country": "Emirats Arabes Unis",
-      "home": "United",
-      "league": "UAE Pro League",
-      "live": false,
-      "markets": [
-        {
-          "canonicalMarket": "MATCH_RESULT",
-          "rawName": "Résultat",
-          "period": "FULL_TIME",
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "United",
-              "odds": 7.75,
-              "isActive": true,
-              "selectionId": "2155739054"
-            },
-            {
-              "canonicalOutcome": "DRAW",
-              "rawName": "Match nul",
-              "odds": 5.6,
-              "isActive": true,
-              "selectionId": "2155739055"
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Shabab Al Ahli",
-              "odds": 1.24,
-              "isActive": true,
-              "selectionId": "2155739056"
-            }
-          ],
-          "marketId": "1|type=prematch"
-        }
-      ],
-      "moreInfo": {
-        "site": "/paris-sportifs/match/73926848",
-        "tournamentId": 3608,
-        "srTournamentId": "sr:tournament:971",
-        "round": "J5"
-      },
-      "slug": "/paris-sportifs/match/73926848",
-      "sport": "soccer",
-      "startTime": "2026-09-10T13:40:00.000Z",
-      "_source": "Winamax",
-      "_pulscore_sport": "soccer",
-      "_last_updated": "2026-09-09T20:55:44.124483+00:00"
-    },
-    {
-      "eventId": "73926850",
-      "away": "Al Nasr",
-      "country": "Emirats Arabes Unis",
-      "home": "Al Jazira Club",
-      "league": "UAE Pro League",
-      "live": false,
-      "markets": [
-        {
-          "canonicalMarket": "MATCH_RESULT",
-          "rawName": "Résultat",
-          "period": "FULL_TIME",
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Al Jazira Club",
-              "odds": 1.47,
-              "isActive": true,
-              "selectionId": "2150766009"
-            },
-            {
-              "canonicalOutcome": "DRAW",
-              "rawName": "Match nul",
-              "odds": 4.4,
-              "isActive": true,
-              "selectionId": "2150766010"
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Al Nasr",
-              "odds": 4.8,
-              "isActive": true,
-              "selectionId": "2150766011"
-            }
-          ],
-          "marketId": "1|type=prematch"
-        }
-      ],
-      "moreInfo": {
-        "site": "/paris-sportifs/match/73926850",
-        "tournamentId": 3608,
-        "srTournamentId": "sr:tournament:971",
-        "round": "J5"
-      },
-      "slug": "/paris-sportifs/match/73926850",
-      "sport": "soccer",
-      "startTime": "2026-09-10T13:40:00.000Z",
-      "_source": "Winamax",
-      "_pulscore_sport": "soccer",
-      "_last_updated": "2026-09-09T20:55:44.124483+00:00"
-    },
-    {
-      "eventId": "65840684",
-      "away": "Suisse",
-      "country": "Europe",
-      "home": "France",
-      "league": "Ch. d'Europe",
-      "live": false,
-      "markets": [
-        {
-          "canonicalMarket": "MATCH_RESULT",
-          "rawName": "Vainqueur",
-          "period": "FULL_TIME",
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "France",
-              "odds": 1.03,
-              "isActive": true,
-              "selectionId": "2149804112"
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Suisse",
-              "odds": 7.75,
-              "isActive": true,
-              "selectionId": "2149804113"
-            }
-          ],
-          "marketId": "186|"
-        }
-      ],
-      "moreInfo": {
-        "site": "/paris-sportifs/match/65840684",
-        "tournamentId": 900006760,
-        "srTournamentId": "sr:tournament:624"
-      },
-      "slug": "/paris-sportifs/match/65840684",
-      "sport": "volleyball",
-      "startTime": "2026-09-10T14:00:00.000Z",
-      "_source": "Winamax",
-      "_pulscore_sport": "volleyball",
-      "_last_updated": "2026-09-10T00:14:36.076705+00:00"
-    },
-    {
-      "eventId": "67912794",
-      "away": "Meshakhte Tkibuli",
-      "country": "Géorgie",
-      "home": "Dinamo Tbilissi",
-      "league": "Erovnuli Liga",
-      "live": false,
-      "markets": [
-        {
-          "canonicalMarket": "MATCH_RESULT",
-          "rawName": "Résultat",
-          "period": "FULL_TIME",
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Dinamo Tbilissi",
-              "odds": 1.35,
-              "isActive": true,
-              "selectionId": "2154026090"
-            },
-            {
-              "canonicalOutcome": "DRAW",
-              "rawName": "Match nul",
-              "odds": 4.7,
-              "isActive": true,
-              "selectionId": "2154026091"
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Meshakhte Tkibuli",
-              "odds": 6.25,
-              "isActive": true,
-              "selectionId": "2154026092"
-            }
-          ],
-          "marketId": "1|type=prematch"
-        }
-      ],
-      "moreInfo": {
-        "site": "/paris-sportifs/match/67912794",
-        "tournamentId": 3012,
-        "srTournamentId": "sr:tournament:704",
-        "round": "J25"
-      },
-      "slug": "/paris-sportifs/match/67912794",
-      "sport": "soccer",
-      "startTime": "2026-09-10T15:00:00.000Z",
-      "_source": "Winamax",
-      "_pulscore_sport": "soccer",
-      "_last_updated": "2026-09-09T20:55:44.124483+00:00"
-    },
-    {
-      "eventId": "68492692",
-      "away": "Tukums 2000",
-      "country": "Lettonie",
-      "home": "Super Nova",
-      "league": "Virsliga",
-      "live": false,
-      "markets": [
-        {
-          "canonicalMarket": "MATCH_RESULT",
-          "rawName": "Résultat",
-          "period": "FULL_TIME",
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Super Nova",
-              "odds": 2,
-              "isActive": true,
-              "selectionId": "2148719088"
-            },
-            {
-              "canonicalOutcome": "DRAW",
-              "rawName": "Match nul",
-              "odds": 3.5,
-              "isActive": true,
-              "selectionId": "2148719089"
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Tukums 2000",
-              "odds": 2.95,
-              "isActive": true,
-              "selectionId": "2148719090"
-            }
-          ],
-          "marketId": "1|type=prematch"
-        }
-      ],
-      "moreInfo": {
-        "site": "/paris-sportifs/match/68492692",
-        "tournamentId": 1279,
-        "srTournamentId": "sr:tournament:197",
-        "round": "J30"
-      },
-      "slug": "/paris-sportifs/match/68492692",
-      "sport": "soccer",
-      "startTime": "2026-09-10T16:00:00.000Z",
-      "_source": "Winamax",
-      "_pulscore_sport": "soccer",
-      "_last_updated": "2026-09-09T20:55:44.124483+00:00"
-    },
-    {
-      "eventId": "65840568",
-      "away": "Ukraine",
-      "country": "Europe",
-      "home": "Israël",
-      "league": "Ch. d'Europe",
-      "live": false,
-      "markets": [
-        {
-          "canonicalMarket": "MATCH_RESULT",
-          "rawName": "Vainqueur",
-          "period": "FULL_TIME",
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Israël",
-              "odds": 3.7,
-              "isActive": true,
-              "selectionId": "2149861415"
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Ukraine",
-              "odds": 1.18,
-              "isActive": true,
-              "selectionId": "2149861416"
-            }
-          ],
-          "marketId": "186|"
-        }
-      ],
-      "moreInfo": {
-        "site": "/paris-sportifs/match/65840568",
-        "tournamentId": 900006760,
-        "srTournamentId": "sr:tournament:624"
-      },
-      "slug": "/paris-sportifs/match/65840568",
-      "sport": "volleyball",
-      "startTime": "2026-09-10T16:00:00.000Z",
-      "_source": "Winamax",
-      "_pulscore_sport": "volleyball",
-      "_last_updated": "2026-09-10T00:14:36.076705+00:00"
-    },
-    {
-      "eventId": "73926852",
-      "away": "Al Wasl",
-      "country": "Emirats Arabes Unis",
-      "home": "Al Ain",
-      "league": "UAE Pro League",
-      "live": false,
-      "markets": [
-        {
-          "canonicalMarket": "MATCH_RESULT",
-          "rawName": "Résultat",
-          "period": "FULL_TIME",
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Al Ain",
-              "odds": 1.62,
-              "isActive": true,
-              "selectionId": "2146504426"
-            },
-            {
-              "canonicalOutcome": "DRAW",
-              "rawName": "Match nul",
-              "odds": 4,
-              "isActive": true,
-              "selectionId": "2146504427"
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Al Wasl",
-              "odds": 3.95,
-              "isActive": true,
-              "selectionId": "2146504428"
-            }
-          ],
-          "marketId": "1|type=prematch"
-        }
-      ],
-      "moreInfo": {
-        "site": "/paris-sportifs/match/73926852",
-        "tournamentId": 3608,
-        "srTournamentId": "sr:tournament:971",
-        "round": "J5"
-      },
-      "slug": "/paris-sportifs/match/73926852",
-      "sport": "soccer",
-      "startTime": "2026-09-10T16:15:00.000Z",
-      "_source": "Winamax",
-      "_pulscore_sport": "soccer",
-      "_last_updated": "2026-09-09T20:55:44.124483+00:00"
-    },
-    {
-      "eventId": "73164536",
-      "away": "Füchse Berlin",
-      "country": "Europe",
-      "home": "RK Partizan",
-      "league": "Ligue des Champions",
-      "live": false,
-      "markets": [
-        {
-          "canonicalMarket": "DOUBLE_CHANCE",
-          "rawName": "Double chance",
-          "period": "FULL_TIME",
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME_DRAW",
-              "rawName": "RK Partizan ou match nul",
-              "odds": 6.5,
-              "isActive": true,
-              "selectionId": "2143054438"
-            },
-            {
-              "canonicalOutcome": "HOME_AWAY",
-              "rawName": "RK Partizan ou Fuchse",
-              "odds": 1.01,
-              "isActive": true,
-              "selectionId": "2143054439"
-            },
-            {
-              "canonicalOutcome": "DRAW_AWAY",
-              "rawName": "Fuchse ou match nul",
-              "odds": 1.02,
-              "isActive": true,
-              "selectionId": "2143054440"
-            }
-          ],
-          "marketId": "10|"
-        },
-        {
-          "canonicalMarket": "DRAW_NO_BET",
-          "rawName": "Vainqueur (remboursé si match nul)",
-          "period": "FULL_TIME",
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "RK Partizan",
-              "odds": 5.6,
-              "isActive": true,
-              "selectionId": "2143054441"
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Fuchse",
-              "odds": 1.02,
-              "isActive": true,
-              "selectionId": "2143054442"
-            }
-          ],
-          "marketId": "11|"
-        },
-        {
-          "canonicalMarket": "MATCH_RESULT",
-          "rawName": "Résultat",
-          "period": "FULL_TIME",
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "RK Partizan",
-              "odds": 7.5,
-              "isActive": true,
-              "selectionId": "2143054443"
-            },
-            {
-              "canonicalOutcome": "DRAW",
-              "rawName": "Match nul",
-              "odds": 13,
-              "isActive": true,
-              "selectionId": "2143054444"
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Fuchse",
-              "odds": 1.06,
-              "isActive": true,
-              "selectionId": "2143054445"
-            }
-          ],
-          "marketId": "1|"
-        }
-      ],
-      "moreInfo": {
-        "site": "/paris-sportifs/match/73164536",
-        "tournamentId": 217,
-        "srTournamentId": "sr:tournament:30"
-      },
-      "slug": "/paris-sportifs/match/73164536",
-      "sport": "handball",
-      "startTime": "2026-09-10T16:45:00.000Z",
-      "_source": "Winamax",
-      "_pulscore_sport": "handball",
-      "_last_updated": "2026-09-07T10:54:33.362239+00:00"
-    },
-    {
-      "eventId": "73164626",
-      "away": "IFK Kristianstad",
-      "country": "Europe",
-      "home": "Szeged",
-      "league": "Ligue des Champions",
-      "live": false,
-      "markets": [
-        {
-          "canonicalMarket": "DOUBLE_CHANCE",
-          "rawName": "Double chance",
-          "period": "FULL_TIME",
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME_DRAW",
-              "rawName": "Szeged ou match nul",
-              "odds": 1.02,
-              "isActive": true,
-              "selectionId": "2143133823"
-            },
-            {
-              "canonicalOutcome": "HOME_AWAY",
-              "rawName": "Szeged ou IFK Kristianstad",
-              "odds": 1.01,
-              "isActive": true,
-              "selectionId": "2143133824"
-            },
-            {
-              "canonicalOutcome": "DRAW_AWAY",
-              "rawName": "IFK Kristianstad ou match nul",
-              "odds": 8,
-              "isActive": true,
-              "selectionId": "2143133825"
-            }
-          ],
-          "marketId": "10|"
-        },
-        {
-          "canonicalMarket": "DRAW_NO_BET",
-          "rawName": "Vainqueur (remboursé si match nul)",
-          "period": "FULL_TIME",
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Szeged",
-              "odds": 1.01,
-              "isActive": true,
-              "selectionId": "2143133826"
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "IFK Kristianstad",
-              "odds": 6,
-              "isActive": true,
-              "selectionId": "2143133827"
-            }
-          ],
-          "marketId": "11|"
-        },
-        {
-          "canonicalMarket": "MATCH_RESULT",
-          "rawName": "Résultat",
-          "period": "FULL_TIME",
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Szeged",
-              "odds": 1.03,
-              "isActive": true,
-              "selectionId": "2143133828"
-            },
-            {
-              "canonicalOutcome": "DRAW",
-              "rawName": "Match nul",
-              "odds": 13,
-              "isActive": true,
-              "selectionId": "2143133829"
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "IFK Kristianstad",
-              "odds": 8.5,
-              "isActive": true,
-              "selectionId": "2143133830"
-            }
-          ],
-          "marketId": "1|"
-        }
-      ],
-      "moreInfo": {
-        "site": "/paris-sportifs/match/73164626",
-        "tournamentId": 217,
-        "srTournamentId": "sr:tournament:30"
-      },
-      "slug": "/paris-sportifs/match/73164626",
-      "sport": "handball",
-      "startTime": "2026-09-10T16:45:00.000Z",
-      "_source": "Winamax",
-      "_pulscore_sport": "handball",
-      "_last_updated": "2026-09-07T10:54:33.362239+00:00"
-    },
-    {
-      "eventId": "73164654",
-      "away": "Montpellier",
-      "country": "Europe",
-      "home": "Dinamo Bucarest",
-      "league": "Ligue des Champions",
-      "live": false,
-      "markets": [
-        {
-          "canonicalMarket": "DOUBLE_CHANCE",
-          "rawName": "Double chance",
-          "period": "FULL_TIME",
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME_DRAW",
-              "rawName": "Dinamo Bucarest ou match nul",
-              "odds": 2.3,
-              "isActive": true,
-              "selectionId": "2141786896"
-            },
-            {
-              "canonicalOutcome": "HOME_AWAY",
-              "rawName": "Dinamo Bucarest ou Montpellier",
-              "odds": 1.03,
-              "isActive": true,
-              "selectionId": "2141786897"
-            },
-            {
-              "canonicalOutcome": "DRAW_AWAY",
-              "rawName": "Montpellier ou match nul",
-              "odds": 1.25,
-              "isActive": true,
-              "selectionId": "2141786898"
-            }
-          ],
-          "marketId": "10|"
-        },
-        {
-          "canonicalMarket": "DRAW_NO_BET",
-          "rawName": "Vainqueur (remboursé si match nul)",
-          "period": "FULL_TIME",
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Dinamo Bucarest",
-              "odds": 2.6,
-              "isActive": true,
-              "selectionId": "2141786899"
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Montpellier",
-              "odds": 1.3,
-              "isActive": true,
-              "selectionId": "2141786900"
-            }
-          ],
-          "marketId": "11|"
-        },
-        {
-          "canonicalMarket": "MATCH_RESULT",
-          "rawName": "Résultat",
-          "period": "FULL_TIME",
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Dinamo Bucarest",
-              "odds": 2.95,
-              "isActive": true,
-              "selectionId": "2141786901"
-            },
-            {
-              "canonicalOutcome": "DRAW",
-              "rawName": "Match nul",
-              "odds": 8.5,
-              "isActive": true,
-              "selectionId": "2141786902"
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Montpellier",
-              "odds": 1.43,
-              "isActive": true,
-              "selectionId": "2141786903"
-            }
-          ],
-          "marketId": "1|"
-        }
-      ],
-      "moreInfo": {
-        "site": "/paris-sportifs/match/73164654",
-        "tournamentId": 217,
-        "srTournamentId": "sr:tournament:30"
-      },
-      "slug": "/paris-sportifs/match/73164654",
-      "sport": "handball",
-      "startTime": "2026-09-10T16:45:00.000Z",
-      "_source": "Winamax",
-      "_pulscore_sport": "handball",
-      "_last_updated": "2026-09-07T10:54:33.362239+00:00"
-    },
-    {
-      "eventId": "74165892",
-      "away": "AS Rome",
-      "country": "Europe",
-      "home": "Fenerbahce",
-      "league": "Ligue des Champions",
-      "live": false,
-      "markets": [
-        {
-          "canonicalMarket": "MATCH_RESULT",
-          "rawName": "Résultat",
-          "period": "FULL_TIME",
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Fenerbahce",
-              "odds": 3.15,
-              "isActive": true,
-              "selectionId": "2134827222"
-            },
-            {
-              "canonicalOutcome": "DRAW",
-              "rawName": "Match nul",
-              "odds": 3.45,
-              "isActive": true,
-              "selectionId": "2134827223"
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "AS Rome",
-              "odds": 2.1,
-              "isActive": true,
-              "selectionId": "2134827224"
-            }
-          ],
-          "marketId": "1|type=prematch"
-        }
-      ],
-      "moreInfo": {
-        "site": "/paris-sportifs/match/74165892",
-        "tournamentId": 151665,
-        "srTournamentId": "sr:tournament:7",
-        "round": "J1"
-      },
-      "slug": "/paris-sportifs/match/74165892",
-      "sport": "soccer",
-      "startTime": "2026-09-10T16:45:00.000Z",
-      "_source": "Winamax",
-      "_pulscore_sport": "soccer",
-      "_last_updated": "2026-09-09T20:55:44.124483+00:00"
-    },
-    {
-      "eventId": "74165894",
-      "away": "Shakhtar Donetsk",
-      "country": "Europe",
-      "home": "PSV Eindhoven",
-      "league": "Ligue des Champions",
-      "live": false,
-      "markets": [
-        {
-          "canonicalMarket": "MATCH_RESULT",
-          "rawName": "Résultat",
-          "period": "FULL_TIME",
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "PSV Eindhoven",
-              "odds": 1.41,
-              "isActive": true,
-              "selectionId": "2134837028"
-            },
-            {
-              "canonicalOutcome": "DRAW",
-              "rawName": "Match nul",
-              "odds": 5.2,
-              "isActive": true,
-              "selectionId": "2134837029"
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Shakhtar Donetsk",
-              "odds": 5.7,
-              "isActive": true,
-              "selectionId": "2134837030"
-            }
-          ],
-          "marketId": "1|type=prematch"
-        }
-      ],
-      "moreInfo": {
-        "site": "/paris-sportifs/match/74165894",
-        "tournamentId": 151665,
-        "srTournamentId": "sr:tournament:7",
-        "round": "J1"
-      },
-      "slug": "/paris-sportifs/match/74165894",
-      "sport": "soccer",
-      "startTime": "2026-09-10T16:45:00.000Z",
-      "_source": "Winamax",
-      "_pulscore_sport": "soccer",
-      "_last_updated": "2026-09-09T20:55:44.124483+00:00"
-    },
-    {
-      "eventId": "67912798",
-      "away": "Torpedo Koutaïssi",
-      "country": "Géorgie",
-      "home": "Gagra",
-      "league": "Erovnuli Liga",
-      "live": false,
-      "markets": [
-        {
-          "canonicalMarket": "MATCH_RESULT",
-          "rawName": "Résultat",
-          "period": "FULL_TIME",
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Gagra",
-              "odds": 3.5,
-              "isActive": true,
-              "selectionId": "2153969415"
-            },
-            {
-              "canonicalOutcome": "DRAW",
-              "rawName": "Match nul",
-              "odds": 3.3,
-              "isActive": true,
-              "selectionId": "2153969416"
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Torpedo Koutaïssi",
-              "odds": 1.9,
-              "isActive": true,
-              "selectionId": "2153969417"
-            }
-          ],
-          "marketId": "1|type=prematch"
-        }
-      ],
-      "moreInfo": {
-        "site": "/paris-sportifs/match/67912798",
-        "tournamentId": 3012,
-        "srTournamentId": "sr:tournament:704",
-        "round": "J25"
-      },
-      "slug": "/paris-sportifs/match/67912798",
-      "sport": "soccer",
-      "startTime": "2026-09-10T17:00:00.000Z",
-      "_source": "Winamax",
-      "_pulscore_sport": "soccer",
-      "_last_updated": "2026-09-09T20:55:44.124483+00:00"
-    },
-    {
-      "eventId": "74314902",
-      "away": "Étoile Rouge Belgrade",
-      "country": "Serbie",
-      "home": "Radnik Surdulica",
-      "league": "Superliga ",
-      "live": false,
-      "markets": [
-        {
-          "canonicalMarket": "MATCH_RESULT",
-          "rawName": "Résultat",
-          "period": "FULL_TIME",
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Radnik Surdulica",
-              "odds": 8.5,
-              "isActive": true,
-              "selectionId": "2152458429"
-            },
-            {
-              "canonicalOutcome": "DRAW",
-              "rawName": "Match nul",
-              "odds": 6.25,
-              "isActive": true,
-              "selectionId": "2152458430"
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Étoile Rouge",
-              "odds": 1.19,
-              "isActive": true,
-              "selectionId": "2152458431"
-            }
-          ],
-          "marketId": "1|type=prematch"
-        }
-      ],
-      "moreInfo": {
-        "site": "/paris-sportifs/match/74314902",
-        "tournamentId": 1107,
-        "srTournamentId": "sr:tournament:210",
-        "round": "J3"
-      },
-      "slug": "/paris-sportifs/match/74314902",
-      "sport": "soccer",
-      "startTime": "2026-09-10T17:00:00.000Z",
-      "_source": "Winamax",
-      "_pulscore_sport": "soccer",
-      "_last_updated": "2026-09-09T20:55:44.124483+00:00"
-    },
-    {
-      "eventId": "65840632",
-      "away": "Danemark",
-      "country": "Europe",
-      "home": "Finlande",
-      "league": "Ch. d'Europe",
-      "live": false,
-      "markets": [
-        {
-          "canonicalMarket": "MATCH_RESULT",
-          "rawName": "Vainqueur",
-          "period": "FULL_TIME",
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Finlande",
-              "odds": 1.23,
-              "isActive": true,
-              "selectionId": "2149862115"
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Danemark",
-              "odds": 3.2,
-              "isActive": true,
-              "selectionId": "2149862116"
-            }
-          ],
-          "marketId": "186|"
-        }
-      ],
-      "moreInfo": {
-        "site": "/paris-sportifs/match/65840632",
-        "tournamentId": 900006760,
-        "srTournamentId": "sr:tournament:624"
-      },
-      "slug": "/paris-sportifs/match/65840632",
-      "sport": "volleyball",
-      "startTime": "2026-09-10T17:00:00.000Z",
-      "_source": "Winamax",
-      "_pulscore_sport": "volleyball",
-      "_last_updated": "2026-09-10T00:14:36.076705+00:00"
-    },
-    {
-      "eventId": "65840686",
-      "away": "Allemagne",
-      "country": "Europe",
-      "home": "Turquie",
-      "league": "Ch. d'Europe",
-      "live": false,
-      "markets": [
-        {
-          "canonicalMarket": "MATCH_RESULT",
-          "rawName": "Vainqueur",
-          "period": "FULL_TIME",
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Turquie",
-              "odds": 2.15,
-              "isActive": true,
-              "selectionId": "2149806020"
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Allemagne",
-              "odds": 1.52,
-              "isActive": true,
-              "selectionId": "2149806021"
-            }
-          ],
-          "marketId": "186|"
-        }
-      ],
-      "moreInfo": {
-        "site": "/paris-sportifs/match/65840686",
-        "tournamentId": 900006760,
-        "srTournamentId": "sr:tournament:624"
-      },
-      "slug": "/paris-sportifs/match/65840686",
-      "sport": "volleyball",
-      "startTime": "2026-09-10T17:00:00.000Z",
-      "_source": "Winamax",
-      "_pulscore_sport": "volleyball",
-      "_last_updated": "2026-09-10T00:14:36.076705+00:00"
-    },
-    {
-      "eventId": "74136258",
-      "away": "US Biskra",
-      "country": "Algérie",
-      "home": "ES Ben Aknoun",
-      "league": "Ligue 1",
-      "live": false,
-      "markets": [
-        {
-          "canonicalMarket": "MATCH_RESULT",
-          "rawName": "Résultat",
-          "period": "FULL_TIME",
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "ES Ben Aknoun",
-              "odds": 1.72,
-              "isActive": true,
-              "selectionId": "2154725098"
-            },
-            {
-              "canonicalOutcome": "DRAW",
-              "rawName": "Match nul",
-              "odds": 3.4,
-              "isActive": true,
-              "selectionId": "2154725099"
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "US Biskra",
-              "odds": 3.9,
-              "isActive": true,
-              "selectionId": "2154725100"
-            }
-          ],
-          "marketId": "1|type=prematch"
-        }
-      ],
-      "moreInfo": {
-        "site": "/paris-sportifs/match/74136258",
-        "tournamentId": 3657,
-        "srTournamentId": "sr:tournament:841",
-        "round": "J2"
-      },
-      "slug": "/paris-sportifs/match/74136258",
-      "sport": "soccer",
-      "startTime": "2026-09-10T18:00:00.000Z",
-      "_source": "Winamax",
-      "_pulscore_sport": "soccer",
-      "_last_updated": "2026-09-09T20:55:44.124483+00:00"
-    },
     {
       "eventId": "74522916",
       "away": "Gong Chenzhi",
@@ -1304,6 +162,58 @@
       "_last_updated": "2026-09-10T12:54:57.530067+00:00"
     },
     {
+      "eventId": "74136258",
+      "away": "US Biskra",
+      "country": "Algérie",
+      "home": "ES Ben Aknoun",
+      "league": "Ligue 1",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "ES Ben Aknoun",
+              "odds": 1.84,
+              "isActive": true,
+              "selectionId": "2154725098"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 2.75,
+              "isActive": true,
+              "selectionId": "2154725099"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "US Biskra",
+              "odds": 4.7,
+              "isActive": true,
+              "selectionId": "2154725100"
+            }
+          ],
+          "marketId": "1|type=prematch"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/74136258",
+        "tournamentId": 3657,
+        "srTournamentId": "sr:tournament:841",
+        "round": "J2"
+      },
+      "slug": "/paris-sportifs/match/74136258",
+      "sport": "soccer",
+      "startTime": "2026-09-10T18:00:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "soccer",
+      "_last_updated": "2026-09-10T17:42:22.505933+00:00"
+    },
+    {
       "eventId": "74070666",
       "away": "Kifisia FC",
       "country": "Grèce",
@@ -1320,21 +230,21 @@
             {
               "canonicalOutcome": "HOME",
               "rawName": "Panathinaïkos FC",
-              "odds": 1.23,
+              "odds": 1.2,
               "isActive": true,
               "selectionId": "2150243017"
             },
             {
               "canonicalOutcome": "DRAW",
               "rawName": "Match nul",
-              "odds": 5,
+              "odds": 5.7,
               "isActive": true,
               "selectionId": "2150243018"
             },
             {
               "canonicalOutcome": "AWAY",
               "rawName": "Kifisia FC",
-              "odds": 8.5,
+              "odds": 9.5,
               "isActive": true,
               "selectionId": "2150243019"
             }
@@ -1353,7 +263,7 @@
       "startTime": "2026-09-10T18:15:00.000Z",
       "_source": "Winamax",
       "_pulscore_sport": "soccer",
-      "_last_updated": "2026-09-09T20:55:44.124483+00:00"
+      "_last_updated": "2026-09-10T17:42:22.505933+00:00"
     },
     {
       "eventId": "73164562",
@@ -2019,58 +929,6 @@
       "_last_updated": "2026-09-09T17:49:56.623434+00:00"
     },
     {
-      "eventId": "74165898",
-      "away": "Bodø/Glimt",
-      "country": "Europe",
-      "home": "Bayern Munich",
-      "league": "Ligue des Champions",
-      "live": false,
-      "markets": [
-        {
-          "canonicalMarket": "MATCH_RESULT",
-          "rawName": "Résultat",
-          "period": "FULL_TIME",
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "B. Munich",
-              "odds": 1.07,
-              "isActive": true,
-              "selectionId": "2134827902"
-            },
-            {
-              "canonicalOutcome": "DRAW",
-              "rawName": "Match nul",
-              "odds": 12,
-              "isActive": true,
-              "selectionId": "2134827903"
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Bodø/Glimt",
-              "odds": 14.5,
-              "isActive": true,
-              "selectionId": "2134827904"
-            }
-          ],
-          "marketId": "1|type=prematch"
-        }
-      ],
-      "moreInfo": {
-        "site": "/paris-sportifs/match/74165898",
-        "tournamentId": 151665,
-        "srTournamentId": "sr:tournament:7",
-        "round": "J1"
-      },
-      "slug": "/paris-sportifs/match/74165898",
-      "sport": "soccer",
-      "startTime": "2026-09-10T19:00:00.000Z",
-      "_source": "Winamax",
-      "_pulscore_sport": "soccer",
-      "_last_updated": "2026-09-09T20:55:44.124483+00:00"
-    },
-    {
       "eventId": "74524556",
       "away": "Shaun Murphy",
       "country": "International",
@@ -2161,6 +1019,214 @@
       "_last_updated": "2026-09-10T12:54:57.530067+00:00"
     },
     {
+      "eventId": "74165898",
+      "away": "Bodø/Glimt",
+      "country": "Europe",
+      "home": "Bayern Munich",
+      "league": "Ligue des Champions",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "B. Munich",
+              "odds": 1.05,
+              "isActive": true,
+              "selectionId": "2134827902"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 14,
+              "isActive": true,
+              "selectionId": "2134827903"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Bodø/Glimt",
+              "odds": 20,
+              "isActive": true,
+              "selectionId": "2134827904"
+            }
+          ],
+          "marketId": "1|type=prematch"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/74165898",
+        "tournamentId": 151665,
+        "srTournamentId": "sr:tournament:7",
+        "round": "J1"
+      },
+      "slug": "/paris-sportifs/match/74165898",
+      "sport": "soccer",
+      "startTime": "2026-09-10T19:00:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "soccer",
+      "_last_updated": "2026-09-10T17:42:22.505933+00:00"
+    },
+    {
+      "eventId": "74165896",
+      "away": "RB Leipzig",
+      "country": "Europe",
+      "home": "Côme",
+      "league": "Ligue des Champions",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Côme",
+              "odds": 1.66,
+              "isActive": true,
+              "selectionId": "2134834644"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 4.1,
+              "isActive": true,
+              "selectionId": "2134834645"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Leipzig",
+              "odds": 4.1,
+              "isActive": true,
+              "selectionId": "2134834646"
+            }
+          ],
+          "marketId": "1|type=prematch"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/74165896",
+        "tournamentId": 151665,
+        "srTournamentId": "sr:tournament:7",
+        "round": "J1"
+      },
+      "slug": "/paris-sportifs/match/74165896",
+      "sport": "soccer",
+      "startTime": "2026-09-10T19:00:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "soccer",
+      "_last_updated": "2026-09-10T17:42:22.505933+00:00"
+    },
+    {
+      "eventId": "74165900",
+      "away": "Sabah",
+      "country": "Europe",
+      "home": "Manchester United",
+      "league": "Ligue des Champions",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Manchester United",
+              "odds": 1.05,
+              "isActive": true,
+              "selectionId": "2134827064"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 13,
+              "isActive": true,
+              "selectionId": "2134827065"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Sabah",
+              "odds": 22,
+              "isActive": true,
+              "selectionId": "2134827066"
+            }
+          ],
+          "marketId": "1|type=prematch"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/74165900",
+        "tournamentId": 151665,
+        "srTournamentId": "sr:tournament:7",
+        "round": "J1"
+      },
+      "slug": "/paris-sportifs/match/74165900",
+      "sport": "soccer",
+      "startTime": "2026-09-10T19:00:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "soccer",
+      "_last_updated": "2026-09-10T17:42:22.505933+00:00"
+    },
+    {
+      "eventId": "74165902",
+      "away": "Lens",
+      "country": "Europe",
+      "home": "Slavia Prague",
+      "league": "Ligue des Champions",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Slavia Prague",
+              "odds": 2.55,
+              "isActive": true,
+              "selectionId": "2134841894"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 3.5,
+              "isActive": true,
+              "selectionId": "2134841895"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Lens",
+              "odds": 2.45,
+              "isActive": true,
+              "selectionId": "2134841896"
+            }
+          ],
+          "marketId": "1|type=prematch"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/74165902",
+        "tournamentId": 151665,
+        "srTournamentId": "sr:tournament:7",
+        "round": "J1"
+      },
+      "slug": "/paris-sportifs/match/74165902",
+      "sport": "soccer",
+      "startTime": "2026-09-10T19:00:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "soccer",
+      "_last_updated": "2026-09-10T17:42:22.505933+00:00"
+    },
+    {
       "eventId": "65840466",
       "away": "Suède",
       "country": "Europe",
@@ -2203,6 +1269,214 @@
       "_source": "Winamax",
       "_pulscore_sport": "volleyball",
       "_last_updated": "2026-09-10T00:14:36.076705+00:00"
+    },
+    {
+      "eventId": "72530856",
+      "away": "Braga",
+      "country": "Portugal",
+      "home": "CF Estrela Amadora",
+      "league": "Liga Portugal",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "CF Estrela Amadora",
+              "odds": 5.5,
+              "isActive": true,
+              "selectionId": "2148881229"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 4,
+              "isActive": true,
+              "selectionId": "2148881230"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Braga",
+              "odds": 1.5,
+              "isActive": true,
+              "selectionId": "2148881231"
+            }
+          ],
+          "marketId": "1|type=prematch"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/72530856",
+        "tournamentId": 52,
+        "srTournamentId": "sr:tournament:238",
+        "round": "J3"
+      },
+      "slug": "/paris-sportifs/match/72530856",
+      "sport": "soccer",
+      "startTime": "2026-09-10T19:15:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "soccer",
+      "_last_updated": "2026-09-10T17:42:22.505933+00:00"
+    },
+    {
+      "eventId": "74136372",
+      "away": "JS El Biar",
+      "country": "Algérie",
+      "home": "USM Alger",
+      "league": "Ligue 1",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "USM Alger",
+              "odds": 1.52,
+              "isActive": true,
+              "selectionId": "2154768760"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 3.55,
+              "isActive": true,
+              "selectionId": "2154768761"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "JS El Biar",
+              "odds": 5.7,
+              "isActive": true,
+              "selectionId": "2154768762"
+            }
+          ],
+          "marketId": "1|type=prematch"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/74136372",
+        "tournamentId": 3657,
+        "srTournamentId": "sr:tournament:841",
+        "round": "J2"
+      },
+      "slug": "/paris-sportifs/match/74136372",
+      "sport": "soccer",
+      "startTime": "2026-09-10T20:00:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "soccer",
+      "_last_updated": "2026-09-10T17:42:22.505933+00:00"
+    },
+    {
+      "eventId": "73911194",
+      "away": "Montevideo City Torque",
+      "country": "International",
+      "home": "Club Sportivo Cienciano",
+      "league": "Copa Sudamericana",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Club Sportivo Cienciano",
+              "odds": 1.46,
+              "isActive": true,
+              "selectionId": "2119612969"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 4,
+              "isActive": true,
+              "selectionId": "2119612970"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Montevideo City Torque",
+              "odds": 5.7,
+              "isActive": true,
+              "selectionId": "2119612971"
+            }
+          ],
+          "marketId": "1|type=prematch"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/73911194",
+        "tournamentId": 99936,
+        "srTournamentId": "sr:tournament:480",
+        "round": "1/4 aller"
+      },
+      "slug": "/paris-sportifs/match/73911194",
+      "sport": "soccer",
+      "startTime": "2026-09-11T00:30:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "soccer",
+      "_last_updated": "2026-09-10T17:42:22.505933+00:00"
+    },
+    {
+      "eventId": "74073940",
+      "away": "Flamengo",
+      "country": "International",
+      "home": "Independiente Del Valle",
+      "league": "Copa Libertadores",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Independiente Del Valle",
+              "odds": 3,
+              "isActive": true,
+              "selectionId": "2128107670"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 2.85,
+              "isActive": true,
+              "selectionId": "2128107671"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Flamengo",
+              "odds": 2.3,
+              "isActive": true,
+              "selectionId": "2128107672"
+            }
+          ],
+          "marketId": "1|type=prematch"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/74073940",
+        "tournamentId": 900002339,
+        "srTournamentId": "sr:tournament:384",
+        "round": "1/4 aller"
+      },
+      "slug": "/paris-sportifs/match/74073940",
+      "sport": "soccer",
+      "startTime": "2026-09-11T00:30:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "soccer",
+      "_last_updated": "2026-09-10T17:42:22.505933+00:00"
     },
     {
       "eventId": "71387370",
@@ -7560,6 +6834,110 @@
       "_pulscore_sport": "american-football"
     },
     {
+      "eventId": "74269768",
+      "away": "Deportivo Cali",
+      "country": "Colombie",
+      "home": "Millonarios",
+      "league": "Primera A",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Millonarios ",
+              "odds": 1.72,
+              "isActive": true,
+              "selectionId": "2151585685"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 3.45,
+              "isActive": true,
+              "selectionId": "2151585686"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Deportivo Cali",
+              "odds": 4.1,
+              "isActive": true,
+              "selectionId": "2151585687"
+            }
+          ],
+          "marketId": "1|type=prematch"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/74269768",
+        "tournamentId": 19232,
+        "srTournamentId": "sr:tournament:27070",
+        "round": "J5"
+      },
+      "slug": "/paris-sportifs/match/74269768",
+      "sport": "soccer",
+      "startTime": "2026-09-11T01:00:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "soccer",
+      "_last_updated": "2026-09-10T17:42:22.505933+00:00"
+    },
+    {
+      "eventId": "74320948",
+      "away": "Leon",
+      "country": "Mexique",
+      "home": "U.N.A.M.",
+      "league": "Liga MX",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "U.N.A.M.",
+              "odds": 1.98,
+              "isActive": true,
+              "selectionId": "2144596665"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 3.45,
+              "isActive": true,
+              "selectionId": "2144596666"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Leon",
+              "odds": 3.1,
+              "isActive": true,
+              "selectionId": "2144596667"
+            }
+          ],
+          "marketId": "1|type=prematch"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/74320948",
+        "tournamentId": 28,
+        "srTournamentId": "sr:tournament:27464",
+        "round": "J7"
+      },
+      "slug": "/paris-sportifs/match/74320948",
+      "sport": "soccer",
+      "startTime": "2026-09-11T03:05:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "soccer",
+      "_last_updated": "2026-09-10T17:42:22.505933+00:00"
+    },
+    {
       "eventId": "71734068",
       "away": "Tasman",
       "country": "Nouvelle-Zélande",
@@ -8059,6 +7437,162 @@
       "_last_updated": "2026-09-07T11:00:34.315868+00:00"
     },
     {
+      "eventId": "72409686",
+      "away": "Karpaty Lviv",
+      "country": "Ukraine",
+      "home": "Kolos Kovalivka",
+      "league": "Premier League",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Kolos",
+              "odds": 2.95,
+              "isActive": true,
+              "selectionId": "2150815890"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 3.3,
+              "isActive": true,
+              "selectionId": "2150815891"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Karpaty Lviv",
+              "odds": 2.05,
+              "isActive": true,
+              "selectionId": "2150815892"
+            }
+          ],
+          "marketId": "1|type=prematch"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/72409686",
+        "tournamentId": 384,
+        "srTournamentId": "sr:tournament:218",
+        "round": "J6"
+      },
+      "slug": "/paris-sportifs/match/72409686",
+      "sport": "soccer",
+      "startTime": "2026-09-11T10:00:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "soccer",
+      "_last_updated": "2026-09-10T17:42:22.505933+00:00"
+    },
+    {
+      "eventId": "72149724",
+      "away": "Kashiwa Reysol",
+      "country": "Japon",
+      "home": "Kyoto Sanga FC",
+      "league": "J-League",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Kyoto Sanga FC",
+              "odds": 3.65,
+              "isActive": true,
+              "selectionId": "2150324160"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 3.45,
+              "isActive": true,
+              "selectionId": "2150324161"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Kashiwa Reysol",
+              "odds": 1.76,
+              "isActive": true,
+              "selectionId": "2150324162"
+            }
+          ],
+          "marketId": "1|type=prematch"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/72149724",
+        "tournamentId": 82,
+        "srTournamentId": "sr:tournament:196",
+        "round": "J7"
+      },
+      "slug": "/paris-sportifs/match/72149724",
+      "sport": "soccer",
+      "startTime": "2026-09-11T10:00:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "soccer",
+      "_last_updated": "2026-09-10T17:42:22.505933+00:00"
+    },
+    {
+      "eventId": "72149728",
+      "away": "Kashima Antlers",
+      "country": "Japon",
+      "home": "Vissel Kobe",
+      "league": "J-League",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Vissel Kobe",
+              "odds": 2.75,
+              "isActive": true,
+              "selectionId": "2150261814"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 3.05,
+              "isActive": true,
+              "selectionId": "2150261815"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Kashima Antlers",
+              "odds": 2.25,
+              "isActive": true,
+              "selectionId": "2150261816"
+            }
+          ],
+          "marketId": "1|type=prematch"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/72149728",
+        "tournamentId": 82,
+        "srTournamentId": "sr:tournament:196",
+        "round": "J7"
+      },
+      "slug": "/paris-sportifs/match/72149728",
+      "sport": "soccer",
+      "startTime": "2026-09-11T10:00:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "soccer",
+      "_last_updated": "2026-09-10T17:42:22.505933+00:00"
+    },
+    {
       "eventId": "74372626",
       "away": "Geelong Cats",
       "country": "Australie",
@@ -8103,6 +7637,162 @@
       "_pulscore_sport": "australian-rules"
     },
     {
+      "eventId": "73409258",
+      "away": "Neftchi Bakou",
+      "home": "Imisli FK",
+      "league": "Premier League ",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Imisli FK",
+              "odds": 5.8,
+              "isActive": true,
+              "selectionId": "2155900817"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 4.1,
+              "isActive": true,
+              "selectionId": "2155900818"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Neftchi Bakou",
+              "odds": 1.41,
+              "isActive": true,
+              "selectionId": "2155900819"
+            }
+          ],
+          "marketId": "1|type=prematch"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/73409258",
+        "tournamentId": 3590,
+        "srTournamentId": "sr:tournament:709",
+        "round": "J5"
+      },
+      "slug": "/paris-sportifs/match/73409258",
+      "sport": "soccer",
+      "startTime": "2026-09-11T12:30:00.000Z",
+      "country": "Azerbaïdjan",
+      "_source": "Winamax",
+      "_pulscore_sport": "soccer",
+      "_last_updated": "2026-09-10T17:42:22.505933+00:00"
+    },
+    {
+      "eventId": "73926856",
+      "away": "Baniyas",
+      "country": "Emirats Arabes Unis",
+      "home": "Khor Fakkan Club",
+      "league": "UAE Pro League",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Khor Fakkan Club",
+              "odds": 2.55,
+              "isActive": true,
+              "selectionId": "2148456896"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 3.6,
+              "isActive": true,
+              "selectionId": "2148456897"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Baniyas",
+              "odds": 2.15,
+              "isActive": true,
+              "selectionId": "2148456898"
+            }
+          ],
+          "marketId": "1|type=prematch"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/73926856",
+        "tournamentId": 3608,
+        "srTournamentId": "sr:tournament:971",
+        "round": "J5"
+      },
+      "slug": "/paris-sportifs/match/73926856",
+      "sport": "soccer",
+      "startTime": "2026-09-11T13:40:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "soccer",
+      "_last_updated": "2026-09-10T17:42:22.505933+00:00"
+    },
+    {
+      "eventId": "73926854",
+      "away": "Al-Dhafra",
+      "country": "Emirats Arabes Unis",
+      "home": "Hatta Club",
+      "league": "UAE Pro League",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Hatta Club",
+              "odds": 2.75,
+              "isActive": true,
+              "selectionId": "2157872685"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 3.45,
+              "isActive": true,
+              "selectionId": "2157872686"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Al-Dhafra",
+              "odds": 2.1,
+              "isActive": true,
+              "selectionId": "2157872687"
+            }
+          ],
+          "marketId": "1|type=prematch"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/73926854",
+        "tournamentId": 3608,
+        "srTournamentId": "sr:tournament:971",
+        "round": "J5"
+      },
+      "slug": "/paris-sportifs/match/73926854",
+      "sport": "soccer",
+      "startTime": "2026-09-11T13:40:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "soccer",
+      "_last_updated": "2026-09-10T17:42:22.505933+00:00"
+    },
+    {
       "eventId": "65840474",
       "away": "Grèce",
       "country": "Europe",
@@ -8145,6 +7835,578 @@
       "_source": "Winamax",
       "_pulscore_sport": "volleyball",
       "_last_updated": "2026-09-10T00:14:36.076705+00:00"
+    },
+    {
+      "eventId": "68492700",
+      "away": "FK Liepaja",
+      "country": "Lettonie",
+      "home": "Ogre United",
+      "league": "Virsliga",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Ogre United",
+              "odds": 4.1,
+              "isActive": true,
+              "selectionId": "2150724078"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 4.1,
+              "isActive": true,
+              "selectionId": "2150724079"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "FK Liepaja",
+              "odds": 1.54,
+              "isActive": true,
+              "selectionId": "2150724080"
+            }
+          ],
+          "marketId": "1|type=prematch"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/68492700",
+        "tournamentId": 1279,
+        "srTournamentId": "sr:tournament:197",
+        "round": "J30"
+      },
+      "slug": "/paris-sportifs/match/68492700",
+      "sport": "soccer",
+      "startTime": "2026-09-11T14:00:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "soccer",
+      "_last_updated": "2026-09-10T17:42:22.505933+00:00"
+    },
+    {
+      "eventId": "72387990",
+      "away": "UTA Arad",
+      "country": "Roumanie",
+      "home": "Farul Constanta",
+      "league": "SuperLiga",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Farul",
+              "odds": 2.2,
+              "isActive": true,
+              "selectionId": "2143781969"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 3.1,
+              "isActive": true,
+              "selectionId": "2143781970"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "UTA Arad",
+              "odds": 2.85,
+              "isActive": true,
+              "selectionId": "2143781971"
+            }
+          ],
+          "marketId": "1|type=prematch"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/72387990",
+        "tournamentId": 219,
+        "srTournamentId": "sr:tournament:152",
+        "round": "J9"
+      },
+      "slug": "/paris-sportifs/match/72387990",
+      "sport": "soccer",
+      "startTime": "2026-09-11T15:00:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "soccer",
+      "_last_updated": "2026-09-10T17:42:22.505933+00:00"
+    },
+    {
+      "eventId": "68492696",
+      "away": "FK Auda",
+      "country": "Lettonie",
+      "home": "Riga FC",
+      "league": "Virsliga",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Riga FC",
+              "odds": 1.29,
+              "isActive": true,
+              "selectionId": "2150843244"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 4.9,
+              "isActive": true,
+              "selectionId": "2150843245"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "FK Auda",
+              "odds": 6.75,
+              "isActive": true,
+              "selectionId": "2150843246"
+            }
+          ],
+          "marketId": "1|type=prematch"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/68492696",
+        "tournamentId": 1279,
+        "srTournamentId": "sr:tournament:197",
+        "round": "J30"
+      },
+      "slug": "/paris-sportifs/match/68492696",
+      "sport": "soccer",
+      "startTime": "2026-09-11T15:00:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "soccer",
+      "_last_updated": "2026-09-10T17:42:22.505933+00:00"
+    },
+    {
+      "eventId": "73215736",
+      "away": "Al-Ettifaq",
+      "country": "Arabie Saoudite",
+      "home": "Al-Qadsiah",
+      "league": "Saudi Pro League",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Al-Qadsiah",
+              "odds": 1.21,
+              "isActive": true,
+              "selectionId": "2154685107"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 5.7,
+              "isActive": true,
+              "selectionId": "2154685108"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Al-Ettifaq",
+              "odds": 6.75,
+              "isActive": true,
+              "selectionId": "2154685109"
+            }
+          ],
+          "marketId": "1|type=prematch"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/73215736",
+        "tournamentId": 3708,
+        "srTournamentId": "sr:tournament:955",
+        "round": "J7"
+      },
+      "slug": "/paris-sportifs/match/73215736",
+      "sport": "soccer",
+      "startTime": "2026-09-11T15:25:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "soccer",
+      "_last_updated": "2026-09-10T17:42:22.505933+00:00"
+    },
+    {
+      "eventId": "73215734",
+      "away": "Al-Ittihad FC",
+      "country": "Arabie Saoudite",
+      "home": "Al-Faisaly",
+      "league": "Saudi Pro League",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Al-Faisaly",
+              "odds": 3.75,
+              "isActive": true,
+              "selectionId": "2154688978"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 3.8,
+              "isActive": true,
+              "selectionId": "2154688979"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Al-Ittihad FC",
+              "odds": 1.62,
+              "isActive": true,
+              "selectionId": "2154688980"
+            }
+          ],
+          "marketId": "1|type=prematch"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/73215734",
+        "tournamentId": 3708,
+        "srTournamentId": "sr:tournament:955",
+        "round": "J7"
+      },
+      "slug": "/paris-sportifs/match/73215734",
+      "sport": "soccer",
+      "startTime": "2026-09-11T15:45:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "soccer",
+      "_last_updated": "2026-09-10T17:42:22.505933+00:00"
+    },
+    {
+      "eventId": "72043152",
+      "away": "Motor Lublin",
+      "country": "Pologne",
+      "home": "Rakow Czestochowa",
+      "league": "Ekstraklasa",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Rakow",
+              "odds": 1.74,
+              "isActive": true,
+              "selectionId": "2146426830"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 3.75,
+              "isActive": true,
+              "selectionId": "2146426831"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Motor Lublin",
+              "odds": 3.65,
+              "isActive": true,
+              "selectionId": "2146426832"
+            }
+          ],
+          "marketId": "1|type=prematch"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/72043152",
+        "tournamentId": 64,
+        "srTournamentId": "sr:tournament:202",
+        "round": "J8"
+      },
+      "slug": "/paris-sportifs/match/72043152",
+      "sport": "soccer",
+      "startTime": "2026-09-11T16:00:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "soccer",
+      "_last_updated": "2026-09-10T17:42:22.505933+00:00"
+    },
+    {
+      "eventId": "73926860",
+      "away": "Sharjah",
+      "country": "Emirats Arabes Unis",
+      "home": "Al-Wahda",
+      "league": "UAE Pro League",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Al-Wahda",
+              "odds": 2.25,
+              "isActive": true,
+              "selectionId": "2151032930"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 3.4,
+              "isActive": true,
+              "selectionId": "2151032931"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Sharjah",
+              "odds": 2.6,
+              "isActive": true,
+              "selectionId": "2151032932"
+            }
+          ],
+          "marketId": "1|type=prematch"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/73926860",
+        "tournamentId": 3608,
+        "srTournamentId": "sr:tournament:971",
+        "round": "J5"
+      },
+      "slug": "/paris-sportifs/match/73926860",
+      "sport": "soccer",
+      "startTime": "2026-09-11T16:15:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "soccer",
+      "_last_updated": "2026-09-10T17:42:22.505933+00:00"
+    },
+    {
+      "eventId": "73926858",
+      "away": "Al-Ittihad Kalba",
+      "country": "Emirats Arabes Unis",
+      "home": "Ajman Club",
+      "league": "UAE Pro League",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Ajman Club",
+              "odds": 1.96,
+              "isActive": true,
+              "selectionId": "2150765905"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 3.45,
+              "isActive": true,
+              "selectionId": "2150765906"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Al-Ittihad Kalba",
+              "odds": 3,
+              "isActive": true,
+              "selectionId": "2150765907"
+            }
+          ],
+          "marketId": "1|type=prematch"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/73926858",
+        "tournamentId": 3608,
+        "srTournamentId": "sr:tournament:971",
+        "round": "J5"
+      },
+      "slug": "/paris-sportifs/match/73926858",
+      "sport": "soccer",
+      "startTime": "2026-09-11T16:15:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "soccer",
+      "_last_updated": "2026-09-10T17:42:22.505933+00:00"
+    },
+    {
+      "eventId": "72513856",
+      "away": "Arminia Bielefeld",
+      "country": "Allemagne",
+      "home": "Darmstadt",
+      "league": "2. Bundesliga",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Darmstadt",
+              "odds": 2.55,
+              "isActive": true,
+              "selectionId": "2146484128"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 3.55,
+              "isActive": true,
+              "selectionId": "2146484129"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Bielefeld",
+              "odds": 2.25,
+              "isActive": true,
+              "selectionId": "2146484130"
+            }
+          ],
+          "marketId": "1|type=prematch"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/72513856",
+        "tournamentId": 41,
+        "srTournamentId": "sr:tournament:44",
+        "round": "J5"
+      },
+      "slug": "/paris-sportifs/match/72513856",
+      "sport": "soccer",
+      "startTime": "2026-09-11T16:30:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "soccer",
+      "_last_updated": "2026-09-10T17:42:22.505933+00:00"
+    },
+    {
+      "eventId": "72513858",
+      "away": "Hanovre 96",
+      "country": "Allemagne",
+      "home": "Nuremberg",
+      "league": "2. Bundesliga",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Nuremberg",
+              "odds": 2.4,
+              "isActive": true,
+              "selectionId": "2146489299"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 3.5,
+              "isActive": true,
+              "selectionId": "2146489300"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Hanovre",
+              "odds": 2.35,
+              "isActive": true,
+              "selectionId": "2146489301"
+            }
+          ],
+          "marketId": "1|type=prematch"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/72513858",
+        "tournamentId": 41,
+        "srTournamentId": "sr:tournament:44",
+        "round": "J5"
+      },
+      "slug": "/paris-sportifs/match/72513858",
+      "sport": "soccer",
+      "startTime": "2026-09-11T16:30:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "soccer",
+      "_last_updated": "2026-09-10T17:42:22.505933+00:00"
+    },
+    {
+      "eventId": "72083040",
+      "away": "Mačva Šabac",
+      "country": "Serbie",
+      "home": "Železničar",
+      "league": "Superliga ",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Železničar",
+              "odds": 1.39,
+              "isActive": true,
+              "selectionId": "2152562810"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 4.1,
+              "isActive": true,
+              "selectionId": "2152562811"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Mačva Šabac",
+              "odds": 6,
+              "isActive": true,
+              "selectionId": "2152562812"
+            }
+          ],
+          "marketId": "1|type=prematch"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/72083040",
+        "tournamentId": 1107,
+        "srTournamentId": "sr:tournament:210",
+        "round": "J9"
+      },
+      "slug": "/paris-sportifs/match/72083040",
+      "sport": "soccer",
+      "startTime": "2026-09-11T16:30:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "soccer",
+      "_last_updated": "2026-09-10T17:42:22.505933+00:00"
     },
     {
       "eventId": "72982502",
@@ -8405,6 +8667,58 @@
       "_source": "Winamax",
       "_pulscore_sport": "rugby-union",
       "_last_updated": "2026-09-09T17:49:56.623434+00:00"
+    },
+    {
+      "eventId": "67126766",
+      "away": "Mjallby",
+      "country": "Suède",
+      "home": "Häcken",
+      "league": "Allsvenskan",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Häcken",
+              "odds": 1.56,
+              "isActive": true,
+              "selectionId": "2147382469"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 4,
+              "isActive": true,
+              "selectionId": "2147382470"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Mjallby",
+              "odds": 4.2,
+              "isActive": true,
+              "selectionId": "2147382471"
+            }
+          ],
+          "marketId": "1|type=prematch"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/67126766",
+        "tournamentId": 24,
+        "srTournamentId": "sr:tournament:40",
+        "round": "J21"
+      },
+      "slug": "/paris-sportifs/match/67126766",
+      "sport": "soccer",
+      "startTime": "2026-09-11T17:00:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "soccer",
+      "_last_updated": "2026-09-10T17:42:22.505933+00:00"
     },
     {
       "eventId": "72876254",
