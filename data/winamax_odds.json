@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-10T07:18:02.707919+00:00",
+  "generatedAt": "2026-09-10T12:54:57.530067+00:00",
   "source": "PulseScore / Winamax",
   "refreshStrategy": "weighted rotation every 2 hours; 32-slot/64-hour cycle; priority to soccer, tennis and basketball",
-  "currentSportRefreshed": "badminton",
-  "eventCount": 161,
+  "currentSportRefreshed": "snooker",
+  "eventCount": 167,
   "sportsRequested": [
     "soccer",
     "tennis",
@@ -60,7 +60,7 @@
     "handball": "2026-09-07T10:54:33.362239+00:00",
     "rugby-league": "2026-09-07T11:00:34.315868+00:00",
     "mma": "2026-09-07T17:44:56.783395+00:00",
-    "snooker": "2026-09-07T21:30:31.049734+00:00",
+    "snooker": "2026-09-10T12:54:57.530067+00:00",
     "soccer": "2026-09-09T20:55:44.124483+00:00",
     "basketball": "2026-09-08T12:52:11.683099+00:00",
     "rugby-union": "2026-09-09T17:49:56.623434+00:00",
@@ -114,6 +114,96 @@
       "_source": "Winamax",
       "_pulscore_sport": "volleyball",
       "_last_updated": "2026-09-10T00:14:36.076705+00:00"
+    },
+    {
+      "eventId": "74517436",
+      "away": "Ding Junhui",
+      "country": "International",
+      "home": "Joe O'Connor",
+      "league": "English Open",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Vainqueur",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "J. O'Connor",
+              "odds": 2.1,
+              "isActive": true,
+              "selectionId": "2157153338"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "D. Junhui",
+              "odds": 1.52,
+              "isActive": true,
+              "selectionId": "2157153339"
+            }
+          ],
+          "marketId": "186|"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/74517436",
+        "tournamentId": 195076,
+        "srTournamentId": "sr:tournament:20508",
+        "round": "1/8"
+      },
+      "slug": "/paris-sportifs/match/74517436",
+      "sport": "snooker",
+      "startTime": "2026-09-10T13:30:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "snooker",
+      "_last_updated": "2026-09-10T12:54:57.530067+00:00"
+    },
+    {
+      "eventId": "74522914",
+      "away": "Wu Yize",
+      "country": "International",
+      "home": "Liam Davies",
+      "league": "English Open",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Vainqueur",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "L. Davies",
+              "odds": 3.35,
+              "isActive": true,
+              "selectionId": "2157152707"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Wu Yize",
+              "odds": 1.21,
+              "isActive": true,
+              "selectionId": "2157152708"
+            }
+          ],
+          "marketId": "186|"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/74522914",
+        "tournamentId": 195076,
+        "srTournamentId": "sr:tournament:20508",
+        "round": "1/8"
+      },
+      "slug": "/paris-sportifs/match/74522914",
+      "sport": "snooker",
+      "startTime": "2026-09-10T13:30:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "snooker",
+      "_last_updated": "2026-09-10T12:54:57.530067+00:00"
     },
     {
       "eventId": "73926848",
@@ -1124,6 +1214,96 @@
       "_last_updated": "2026-09-09T20:55:44.124483+00:00"
     },
     {
+      "eventId": "74522916",
+      "away": "Gong Chenzhi",
+      "country": "International",
+      "home": "Allister Carter",
+      "league": "English Open",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Vainqueur",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "A. Carter",
+              "odds": 1.15,
+              "isActive": true,
+              "selectionId": "2157153634"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "G. Chenzhi",
+              "odds": 3.6,
+              "isActive": true,
+              "selectionId": "2157153635"
+            }
+          ],
+          "marketId": "186|"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/74522916",
+        "tournamentId": 195076,
+        "srTournamentId": "sr:tournament:20508",
+        "round": "1/8"
+      },
+      "slug": "/paris-sportifs/match/74522916",
+      "sport": "snooker",
+      "startTime": "2026-09-10T18:00:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "snooker",
+      "_last_updated": "2026-09-10T12:54:57.530067+00:00"
+    },
+    {
+      "eventId": "74523030",
+      "away": "Anthony McGill",
+      "country": "International",
+      "home": "Judd Trump",
+      "league": "English Open",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Vainqueur",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "J. Trump",
+              "odds": 1.16,
+              "isActive": true,
+              "selectionId": "2157153572"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "A. McGill",
+              "odds": 3.55,
+              "isActive": true,
+              "selectionId": "2157153573"
+            }
+          ],
+          "marketId": "186|"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/74523030",
+        "tournamentId": 195076,
+        "srTournamentId": "sr:tournament:20508",
+        "round": "1/8"
+      },
+      "slug": "/paris-sportifs/match/74523030",
+      "sport": "snooker",
+      "startTime": "2026-09-10T18:00:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "snooker",
+      "_last_updated": "2026-09-10T12:54:57.530067+00:00"
+    },
+    {
       "eventId": "74070666",
       "away": "Kifisia FC",
       "country": "Grèce",
@@ -1889,6 +2069,96 @@
       "_source": "Winamax",
       "_pulscore_sport": "soccer",
       "_last_updated": "2026-09-09T20:55:44.124483+00:00"
+    },
+    {
+      "eventId": "74524556",
+      "away": "Shaun Murphy",
+      "country": "International",
+      "home": "Pang Junxu",
+      "league": "English Open",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Vainqueur",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "P. Junxu",
+              "odds": 2.75,
+              "isActive": true,
+              "selectionId": "2157152594"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "S. Murphy",
+              "odds": 1.27,
+              "isActive": true,
+              "selectionId": "2157152595"
+            }
+          ],
+          "marketId": "186|"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/74524556",
+        "tournamentId": 195076,
+        "srTournamentId": "sr:tournament:20508",
+        "round": "1/8"
+      },
+      "slug": "/paris-sportifs/match/74524556",
+      "sport": "snooker",
+      "startTime": "2026-09-10T19:00:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "snooker",
+      "_last_updated": "2026-09-10T12:54:57.530067+00:00"
+    },
+    {
+      "eventId": "74524810",
+      "away": "Barry Hawkins",
+      "country": "International",
+      "home": "Mark Williams",
+      "league": "English Open",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Vainqueur",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "M. Williams",
+              "odds": 1.74,
+              "isActive": true,
+              "selectionId": "2157152125"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "B. Hawkins",
+              "odds": 1.74,
+              "isActive": true,
+              "selectionId": "2157152126"
+            }
+          ],
+          "marketId": "186|"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/74524810",
+        "tournamentId": 195076,
+        "srTournamentId": "sr:tournament:20508",
+        "round": "1/8"
+      },
+      "slug": "/paris-sportifs/match/74524810",
+      "sport": "snooker",
+      "startTime": "2026-09-10T19:00:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "snooker",
+      "_last_updated": "2026-09-10T12:54:57.530067+00:00"
     },
     {
       "eventId": "65840466",
