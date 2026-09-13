@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-12T22:16:45.854358+00:00",
+  "generatedAt": "2026-09-13T04:46:44.355737+00:00",
   "source": "PulseScore / Winamax",
   "refreshStrategy": "weighted rotation every 2 hours; 32-slot/64-hour cycle; priority to soccer, tennis and basketball",
-  "currentSportRefreshed": "badminton",
-  "eventCount": 90,
+  "currentSportRefreshed": "snooker",
+  "eventCount": 87,
   "sportsRequested": [
     "soccer",
     "tennis",
@@ -60,7 +60,7 @@
     "handball": "2026-09-07T10:54:33.362239+00:00",
     "rugby-league": "2026-09-12T18:23:10.433650+00:00",
     "mma": "2026-09-07T17:44:56.783395+00:00",
-    "snooker": "2026-09-10T12:54:57.530067+00:00",
+    "snooker": "2026-09-13T04:46:44.355737+00:00",
     "soccer": "2026-09-12T12:10:16.196151+00:00",
     "basketball": "2026-09-12T07:08:56.510245+00:00",
     "rugby-union": "2026-09-09T17:49:56.623434+00:00",
@@ -72,562 +72,6 @@
   },
   "errors": [],
   "events": [
-    {
-      "eventId": "73454858",
-      "away": "Joseph Morales",
-      "country": "UFC",
-      "home": "Brandon Moreno",
-      "league": "UFC Noche : Silva vs. Delgado",
-      "live": false,
-      "markets": [
-        {
-          "canonicalMarket": "MATCH_RESULT",
-          "rawName": "Vainqueur",
-          "period": "FULL_TIME",
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "B. Moreno",
-              "odds": 1.92,
-              "isActive": true,
-              "selectionId": "2141230110"
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "J. Morales",
-              "odds": 1.68,
-              "isActive": true,
-              "selectionId": "2141230111"
-            }
-          ],
-          "marketId": "186|"
-        },
-        {
-          "canonicalMarket": "TOTAL_ROUNDS",
-          "rawName": "Nombre de rounds",
-          "period": "FULL_TIME",
-          "line": 2.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 2,5",
-              "odds": 1.23,
-              "isActive": true,
-              "selectionId": "2150734566",
-              "line": 2.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 2,5",
-              "odds": 3.2,
-              "isActive": true,
-              "selectionId": "2150734567",
-              "line": 2.5
-            }
-          ],
-          "marketId": "18|total=2.5"
-        }
-      ],
-      "moreInfo": {
-        "site": "/paris-sportifs/match/73454858",
-        "tournamentId": 195174,
-        "srTournamentId": "sr:tournament:52656"
-      },
-      "slug": "/paris-sportifs/match/73454858",
-      "sport": "mma",
-      "startTime": "2026-09-12T22:20:00.000Z",
-      "_source": "Winamax",
-      "_pulscore_sport": "mma",
-      "_last_updated": "2026-09-07T17:44:56.783395+00:00"
-    },
-    {
-      "eventId": "74091384",
-      "away": "Jose Delgado",
-      "country": "UFC",
-      "home": "Jean Silva",
-      "league": "UFC Noche : Silva vs. Delgado",
-      "live": false,
-      "markets": [
-        {
-          "canonicalMarket": "MATCH_RESULT",
-          "rawName": "Vainqueur",
-          "period": "FULL_TIME",
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "J. Silva",
-              "odds": 1.19,
-              "isActive": true,
-              "selectionId": "2140406477"
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "J. Delgado",
-              "odds": 3.65,
-              "isActive": true,
-              "selectionId": "2140406478"
-            }
-          ],
-          "marketId": "186|"
-        },
-        {
-          "canonicalMarket": "TOTAL_ROUNDS",
-          "rawName": "Nombre de rounds",
-          "period": "FULL_TIME",
-          "line": 1.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 1,5",
-              "odds": 1.31,
-              "isActive": true,
-              "selectionId": "2150733151",
-              "line": 1.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 1,5",
-              "odds": 2.65,
-              "isActive": true,
-              "selectionId": "2150733152",
-              "line": 1.5
-            }
-          ],
-          "marketId": "18|total=1.5"
-        },
-        {
-          "canonicalMarket": "OTHER",
-          "rawName": "Vainqueur et nombre exact de rounds",
-          "period": "FULL_TIME",
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "J. Silva et 1",
-              "odds": 3.7,
-              "isActive": true,
-              "selectionId": "2152872598"
-            },
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "J. Silva et 2",
-              "odds": 4.8,
-              "isActive": true,
-              "selectionId": "2152872599"
-            },
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "J. Silva et 3",
-              "odds": 6.5,
-              "isActive": true,
-              "selectionId": "2152872600"
-            },
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "J. Silva et 4",
-              "odds": 9,
-              "isActive": true,
-              "selectionId": "2152872601"
-            },
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "J. Silva et 5 (avant décision)",
-              "odds": 12.5,
-              "isActive": true,
-              "selectionId": "2152872602"
-            },
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "J. Silva et 5 (après décision)",
-              "odds": 4.6,
-              "isActive": true,
-              "selectionId": "2152872596"
-            },
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "Égalité",
-              "odds": 30,
-              "isActive": true,
-              "selectionId": "2152872595"
-            },
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "J. Delgado et 1",
-              "odds": 15,
-              "isActive": true,
-              "selectionId": "2152872603"
-            },
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "J. Delgado et 2",
-              "odds": 19,
-              "isActive": true,
-              "selectionId": "2152872604"
-            },
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "J. Delgado et 3",
-              "odds": 23,
-              "isActive": true,
-              "selectionId": "2152872605"
-            },
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "J. Delgado et 4",
-              "odds": 28,
-              "isActive": true,
-              "selectionId": "2152872606"
-            },
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "J. Delgado et 5 (avant décision)",
-              "odds": 32,
-              "isActive": true,
-              "selectionId": "2152872607"
-            },
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "J. Delgado et 5 (après décision)",
-              "odds": 9.5,
-              "isActive": true,
-              "selectionId": "2152872597"
-            }
-          ],
-          "marketId": "912|variant=sr:winner_and_rounds:5"
-        },
-        {
-          "canonicalMarket": "OTHER",
-          "rawName": "Vainqueur et méthode de victoire",
-          "period": "FULL_TIME",
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "J. Silva gagne par KO/TKO/DSQ",
-              "odds": 1.66,
-              "isActive": true,
-              "selectionId": "2152872609"
-            },
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "J. Silva gagne par soumission ",
-              "odds": 8,
-              "isActive": true,
-              "selectionId": "2152872613"
-            },
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "J. Silva gagne par décision",
-              "odds": 4.6,
-              "isActive": true,
-              "selectionId": "2152872611"
-            },
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "Égalité",
-              "odds": 30,
-              "isActive": true,
-              "selectionId": "2152872608"
-            },
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "J. Delgado gagne par KO/TKO/DSQ",
-              "odds": 7.25,
-              "isActive": true,
-              "selectionId": "2152872610"
-            },
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "J. Delgado gagne par soumission ",
-              "odds": 14.5,
-              "isActive": true,
-              "selectionId": "2152872614"
-            },
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "J. Delgado gagne par décision",
-              "odds": 9.5,
-              "isActive": true,
-              "selectionId": "2152872612"
-            }
-          ],
-          "marketId": "910|variant=sr:winning_method:ko_submission_decision"
-        },
-        {
-          "canonicalMarket": "GO_THE_DISTANCE",
-          "rawName": "Le combat va à son terme",
-          "period": "FULL_TIME",
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "YES",
-              "rawName": "Oui",
-              "odds": 3.3,
-              "isActive": true,
-              "selectionId": "2152872615"
-            },
-            {
-              "canonicalOutcome": "NO",
-              "rawName": "Non",
-              "odds": 1.22,
-              "isActive": true,
-              "selectionId": "2152872616"
-            }
-          ],
-          "marketId": "911|"
-        },
-        {
-          "canonicalMarket": "OTHER",
-          "rawName": "Nombre exact de rounds",
-          "period": "FULL_TIME",
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "1",
-              "odds": 3.2,
-              "isActive": true,
-              "selectionId": "2152872617"
-            },
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "2",
-              "odds": 4.1,
-              "isActive": true,
-              "selectionId": "2152872618"
-            },
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "3",
-              "odds": 5.4,
-              "isActive": true,
-              "selectionId": "2152872619"
-            },
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "4",
-              "odds": 7.25,
-              "isActive": true,
-              "selectionId": "2152872620"
-            },
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "5 (avant décision)",
-              "odds": 9.5,
-              "isActive": true,
-              "selectionId": "2152872621"
-            },
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "5 (après décision)",
-              "odds": 3.5,
-              "isActive": true,
-              "selectionId": "2152872622"
-            }
-          ],
-          "marketId": "9105|variant=sr:rounds:5"
-        },
-        {
-          "canonicalMarket": "OTHER",
-          "rawName": "Méthode de victoire",
-          "period": "FULL_TIME",
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "KO/TKO/DSQ",
-              "odds": 1.43,
-              "isActive": true,
-              "selectionId": "2152872623"
-            },
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "Soumission ",
-              "odds": 5.8,
-              "isActive": true,
-              "selectionId": "2152872624"
-            },
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "Décision",
-              "odds": 3.5,
-              "isActive": true,
-              "selectionId": "2152872625"
-            }
-          ],
-          "marketId": "9104|"
-        },
-        {
-          "canonicalMarket": "OTHER",
-          "rawName": "Vainqueur et méthode de victoire (double chance)",
-          "period": "FULL_TIME",
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "J. Silva par KO/TKO/DSQ ou Soumission",
-              "odds": 1.46,
-              "isActive": true,
-              "selectionId": "2152872626"
-            },
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "J. Silva par KO/TKO/DSQ ou décision",
-              "odds": 1.31,
-              "isActive": true,
-              "selectionId": "2152872627"
-            },
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "J. Silva par soumission ou décision",
-              "odds": 3.35,
-              "isActive": true,
-              "selectionId": "2152872628"
-            },
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "J. Delgado par KO/TKO/DSQ ou Soumission",
-              "odds": 5.2,
-              "isActive": true,
-              "selectionId": "2152872629"
-            },
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "J. Delgado par KO/TKO/DSQ ou Décision",
-              "odds": 4.5,
-              "isActive": true,
-              "selectionId": "2152872630"
-            },
-            {
-              "canonicalOutcome": "OTHER",
-              "rawName": "J. Delgado par Soumission ou Décision",
-              "odds": 6.5,
-              "isActive": true,
-              "selectionId": "2152872631"
-            }
-          ],
-          "marketId": "1181|"
-        }
-      ],
-      "moreInfo": {
-        "site": "/paris-sportifs/match/74091384",
-        "tournamentId": 195174,
-        "srTournamentId": "sr:tournament:52656"
-      },
-      "slug": "/paris-sportifs/match/74091384",
-      "sport": "mma",
-      "startTime": "2026-09-12T22:40:00.000Z",
-      "_source": "Winamax",
-      "_pulscore_sport": "mma",
-      "_last_updated": "2026-09-07T17:44:56.783395+00:00"
-    },
-    {
-      "eventId": "71734076",
-      "away": "North Harbour",
-      "country": "Nouvelle-Zélande",
-      "home": "Hawke's Bay",
-      "league": "Hilux NPC",
-      "live": false,
-      "markets": [
-        {
-          "canonicalMarket": "MATCH_RESULT",
-          "rawName": "Résultat",
-          "period": "FULL_TIME",
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Hawke's Bay",
-              "odds": 1.1,
-              "isActive": true,
-              "selectionId": "2151908769"
-            },
-            {
-              "canonicalOutcome": "DRAW",
-              "rawName": "Match nul",
-              "odds": 28,
-              "isActive": true,
-              "selectionId": "2151908770"
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "North Harbour",
-              "odds": 4.1,
-              "isActive": true,
-              "selectionId": "2151908771"
-            }
-          ],
-          "marketId": "1|type=prematch"
-        }
-      ],
-      "moreInfo": {
-        "site": "/paris-sportifs/match/71734076",
-        "tournamentId": 1503,
-        "srTournamentId": "sr:tournament:797",
-        "round": "J7"
-      },
-      "slug": "/paris-sportifs/match/71734076",
-      "sport": "rugby_union",
-      "startTime": "2026-09-13T02:05:00.000Z",
-      "_source": "Winamax",
-      "_pulscore_sport": "rugby-union",
-      "_last_updated": "2026-09-09T17:49:56.623434+00:00"
-    },
-    {
-      "eventId": "74059922",
-      "away": "Waratahs",
-      "country": "Australie",
-      "home": "Brumbies",
-      "league": "Super Rugby AUS",
-      "live": false,
-      "markets": [
-        {
-          "canonicalMarket": "MATCH_RESULT",
-          "rawName": "Résultat",
-          "period": "FULL_TIME",
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Brumbies",
-              "odds": 1.22,
-              "isActive": true,
-              "selectionId": "2155411799"
-            },
-            {
-              "canonicalOutcome": "DRAW",
-              "rawName": "Match nul",
-              "odds": 19,
-              "isActive": true,
-              "selectionId": "2155411800"
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Waratahs",
-              "odds": 3.15,
-              "isActive": true,
-              "selectionId": "2155411801"
-            }
-          ],
-          "marketId": "1|type=prematch"
-        }
-      ],
-      "moreInfo": {
-        "site": "/paris-sportifs/match/74059922",
-        "tournamentId": 176105,
-        "srTournamentId": "sr:tournament:48633"
-      },
-      "slug": "/paris-sportifs/match/74059922",
-      "sport": "rugby_union",
-      "startTime": "2026-09-13T04:00:00.000Z",
-      "_source": "Winamax",
-      "_pulscore_sport": "rugby-union",
-      "_last_updated": "2026-09-09T17:49:56.623434+00:00"
-    },
     {
       "eventId": "71734078",
       "away": "Bay of Plenty",
@@ -2790,6 +2234,207 @@
       "_source": "Winamax",
       "_pulscore_sport": "handball",
       "_last_updated": "2026-09-07T10:54:33.362239+00:00"
+    },
+    {
+      "eventId": "74627874",
+      "away": "Mark Williams",
+      "country": "International",
+      "home": "Allister Carter",
+      "league": "English Open",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Vainqueur",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "A. Carter",
+              "odds": 1.94,
+              "isActive": true,
+              "selectionId": "2163741467"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "M. Williams",
+              "odds": 1.64,
+              "isActive": true,
+              "selectionId": "2163741468"
+            }
+          ],
+          "marketId": "186|"
+        },
+        {
+          "canonicalMarket": "ASIAN_HANDICAP",
+          "rawName": "Écart de manches (handicap)",
+          "period": "FULL_TIME",
+          "line": 0.5,
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "A. Carter +0.5",
+              "odds": 1.9,
+              "isActive": true,
+              "selectionId": "2163741469",
+              "line": 0.5
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "M. Williams -0.5",
+              "odds": 1.6,
+              "isActive": true,
+              "selectionId": "2163741470",
+              "line": 0.5
+            }
+          ],
+          "marketId": "493|hcp=0.5"
+        },
+        {
+          "canonicalMarket": "ASIAN_HANDICAP",
+          "rawName": "Écart de manches (handicap)",
+          "period": "FULL_TIME",
+          "line": 1.5,
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "A. Carter +1.5",
+              "odds": 1.62,
+              "isActive": true,
+              "selectionId": "2163741471",
+              "line": 1.5
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "M. Williams -1.5",
+              "odds": 1.88,
+              "isActive": true,
+              "selectionId": "2163741472",
+              "line": 1.5
+            }
+          ],
+          "marketId": "493|hcp=1.5"
+        },
+        {
+          "canonicalMarket": "ASIAN_HANDICAP",
+          "rawName": "Écart de manches (handicap)",
+          "period": "FULL_TIME",
+          "line": -0.5,
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "A. Carter -0.5",
+              "odds": 1.9,
+              "isActive": true,
+              "selectionId": "2163741473",
+              "line": -0.5
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "M. Williams +0.5",
+              "odds": 1.6,
+              "isActive": true,
+              "selectionId": "2163741474",
+              "line": -0.5
+            }
+          ],
+          "marketId": "493|hcp=-0.5"
+        },
+        {
+          "canonicalMarket": "TOTAL_FRAMES",
+          "rawName": "Nombre de manches",
+          "period": "FULL_TIME",
+          "line": 15.5,
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OVER",
+              "rawName": "Plus de 15,5",
+              "odds": 2.4,
+              "isActive": true,
+              "selectionId": "2163741475",
+              "line": 15.5
+            },
+            {
+              "canonicalOutcome": "UNDER",
+              "rawName": "Moins de 15,5",
+              "odds": 1.38,
+              "isActive": true,
+              "selectionId": "2163741476",
+              "line": 15.5
+            }
+          ],
+          "marketId": "494|total=15.5"
+        },
+        {
+          "canonicalMarket": "TOTAL_FRAMES",
+          "rawName": "Nombre de manches",
+          "period": "FULL_TIME",
+          "line": 14.5,
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OVER",
+              "rawName": "Plus de 14,5",
+              "odds": 1.66,
+              "isActive": true,
+              "selectionId": "2163741477",
+              "line": 14.5
+            },
+            {
+              "canonicalOutcome": "UNDER",
+              "rawName": "Moins de 14,5",
+              "odds": 1.82,
+              "isActive": true,
+              "selectionId": "2163741478",
+              "line": 14.5
+            }
+          ],
+          "marketId": "494|total=14.5"
+        },
+        {
+          "canonicalMarket": "TOTAL_FRAMES",
+          "rawName": "Nombre de manches",
+          "period": "FULL_TIME",
+          "line": 13.5,
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OVER",
+              "rawName": "Plus de 13,5",
+              "odds": 1.31,
+              "isActive": true,
+              "selectionId": "2163741479",
+              "line": 13.5
+            },
+            {
+              "canonicalOutcome": "UNDER",
+              "rawName": "Moins de 13,5",
+              "odds": 2.65,
+              "isActive": true,
+              "selectionId": "2163741480",
+              "line": 13.5
+            }
+          ],
+          "marketId": "494|total=13.5"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/74627874",
+        "tournamentId": 195076,
+        "srTournamentId": "sr:tournament:20508",
+        "round": "Finale"
+      },
+      "slug": "/paris-sportifs/match/74627874",
+      "sport": "snooker",
+      "startTime": "2026-09-13T12:00:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "snooker",
+      "_last_updated": "2026-09-13T04:46:44.355737+00:00"
     },
     {
       "eventId": "72982508",
