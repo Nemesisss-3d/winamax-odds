@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-21T19:27:06.043568+00:00",
+  "generatedAt": "2026-09-21T23:16:25.303861+00:00",
   "source": "PulseScore / Winamax",
   "refreshStrategy": "weighted rotation every 2 hours; 32-slot/64-hour cycle; priority to soccer, tennis and basketball",
-  "currentSportRefreshed": "ice-hockey",
-  "eventCount": 103,
+  "currentSportRefreshed": "handball",
+  "eventCount": 124,
   "sportsRequested": [
     "soccer",
     "tennis",
@@ -57,7 +57,7 @@
     "australian-rules"
   ],
   "lastUpdatedBySport": {
-    "handball": "2026-09-19T07:20:04.495547+00:00",
+    "handball": "2026-09-21T23:16:25.303861+00:00",
     "rugby-league": "2026-09-20T18:47:02.372617+00:00",
     "mma": "2026-09-15T16:58:39.591592+00:00",
     "snooker": "2026-09-21T04:54:51.104543+00:00",
@@ -129439,6 +129439,216 @@
       "_last_updated": "2026-09-21T12:47:05.280230+00:00"
     },
     {
+      "eventId": "72982536",
+      "away": "Frigoríficos del Morrazo",
+      "country": "Espagne",
+      "home": "Ademar Leon",
+      "league": "Liga Asobal",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "DOUBLE_CHANCE",
+          "rawName": "Double chance",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME_DRAW",
+              "rawName": "Ademar Leon ou match nul",
+              "odds": 1.1,
+              "isActive": true,
+              "selectionId": "2180401910"
+            },
+            {
+              "canonicalOutcome": "HOME_AWAY",
+              "rawName": "Ademar Leon ou Frigoríficos del Morrazo",
+              "odds": 1.03,
+              "isActive": true,
+              "selectionId": "2180401911"
+            },
+            {
+              "canonicalOutcome": "DRAW_AWAY",
+              "rawName": "Frigoríficos del Morrazo ou match nul",
+              "odds": 3.5,
+              "isActive": true,
+              "selectionId": "2180401912"
+            }
+          ],
+          "marketId": "10|"
+        },
+        {
+          "canonicalMarket": "DRAW_NO_BET",
+          "rawName": "Vainqueur (remboursé si match nul)",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Ademar Leon",
+              "odds": 1.12,
+              "isActive": true,
+              "selectionId": "2180401913"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Frigoríficos del Morrazo",
+              "odds": 3.85,
+              "isActive": true,
+              "selectionId": "2180401914"
+            }
+          ],
+          "marketId": "11|"
+        },
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Ademar Leon",
+              "odds": 1.2,
+              "isActive": true,
+              "selectionId": "2180401915"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 9,
+              "isActive": true,
+              "selectionId": "2180401916"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Frigoríficos del Morrazo",
+              "odds": 4.6,
+              "isActive": true,
+              "selectionId": "2180401917"
+            }
+          ],
+          "marketId": "1|"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/72982536",
+        "tournamentId": 157,
+        "srTournamentId": "sr:tournament:248",
+        "round": "J3"
+      },
+      "slug": "/paris-sportifs/match/72982536",
+      "sport": "handball",
+      "startTime": "2026-09-25T17:00:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "handball",
+      "_last_updated": "2026-09-21T23:16:25.303861+00:00"
+    },
+    {
+      "eventId": "72748914",
+      "away": "Saran",
+      "country": "France",
+      "home": "Saint-Raphaël",
+      "league": "Daikin Starligue",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "DOUBLE_CHANCE",
+          "rawName": "Double chance",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME_DRAW",
+              "rawName": "Saint-Raphaël ou match nul",
+              "odds": 1.13,
+              "isActive": true,
+              "selectionId": "2180359611"
+            },
+            {
+              "canonicalOutcome": "HOME_AWAY",
+              "rawName": "Saint-Raphaël ou Saran ",
+              "odds": 1.03,
+              "isActive": true,
+              "selectionId": "2180359612"
+            },
+            {
+              "canonicalOutcome": "DRAW_AWAY",
+              "rawName": "Saran  ou match nul",
+              "odds": 3.15,
+              "isActive": true,
+              "selectionId": "2180359613"
+            }
+          ],
+          "marketId": "10|"
+        },
+        {
+          "canonicalMarket": "DRAW_NO_BET",
+          "rawName": "Vainqueur (remboursé si match nul)",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Saint-Raphaël",
+              "odds": 1.15,
+              "isActive": true,
+              "selectionId": "2180359614"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Saran ",
+              "odds": 3.55,
+              "isActive": true,
+              "selectionId": "2180359615"
+            }
+          ],
+          "marketId": "11|"
+        },
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Saint-Raphaël",
+              "odds": 1.24,
+              "isActive": true,
+              "selectionId": "2180359616"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 9,
+              "isActive": true,
+              "selectionId": "2180359617"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Saran ",
+              "odds": 4.2,
+              "isActive": true,
+              "selectionId": "2180359618"
+            }
+          ],
+          "marketId": "1|"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/72748914",
+        "tournamentId": 2583,
+        "srTournamentId": "sr:tournament:159",
+        "round": "J4"
+      },
+      "slug": "/paris-sportifs/match/72748914",
+      "sport": "handball",
+      "startTime": "2026-09-25T17:30:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "handball",
+      "_last_updated": "2026-09-21T23:16:25.303861+00:00"
+    },
+    {
       "eventId": "73262954",
       "away": "Virtus Bologne",
       "country": "Europe",
@@ -133084,6 +133294,531 @@
       "_source": "Winamax",
       "_pulscore_sport": "basketball",
       "_last_updated": "2026-09-21T12:47:05.280230+00:00"
+    },
+    {
+      "eventId": "72748902",
+      "away": "Caen",
+      "country": "France",
+      "home": "Pays d'Aix UC",
+      "league": "Daikin Starligue",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "DOUBLE_CHANCE",
+          "rawName": "Double chance",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME_DRAW",
+              "rawName": "Pays d'Aix UC ou match nul",
+              "odds": 1.08,
+              "isActive": true,
+              "selectionId": "2180358859"
+            },
+            {
+              "canonicalOutcome": "HOME_AWAY",
+              "rawName": "Pays d'Aix UC ou Caen",
+              "odds": 1.02,
+              "isActive": true,
+              "selectionId": "2180358860"
+            },
+            {
+              "canonicalOutcome": "DRAW_AWAY",
+              "rawName": "Caen ou match nul",
+              "odds": 3.85,
+              "isActive": true,
+              "selectionId": "2180358861"
+            }
+          ],
+          "marketId": "10|"
+        },
+        {
+          "canonicalMarket": "DRAW_NO_BET",
+          "rawName": "Vainqueur (remboursé si match nul)",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Pays d'Aix UC",
+              "odds": 1.09,
+              "isActive": true,
+              "selectionId": "2180358862"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Caen",
+              "odds": 4.2,
+              "isActive": true,
+              "selectionId": "2180358863"
+            }
+          ],
+          "marketId": "11|"
+        },
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Pays d'Aix UC",
+              "odds": 1.17,
+              "isActive": true,
+              "selectionId": "2180358864"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 9.5,
+              "isActive": true,
+              "selectionId": "2180358865"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Caen",
+              "odds": 5.1,
+              "isActive": true,
+              "selectionId": "2180358866"
+            }
+          ],
+          "marketId": "1|"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/72748902",
+        "tournamentId": 2583,
+        "srTournamentId": "sr:tournament:159",
+        "round": "J4"
+      },
+      "slug": "/paris-sportifs/match/72748902",
+      "sport": "handball",
+      "startTime": "2026-09-25T18:00:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "handball",
+      "_last_updated": "2026-09-21T23:16:25.303861+00:00"
+    },
+    {
+      "eventId": "72748904",
+      "away": "Tremblay",
+      "country": "France",
+      "home": "Chambéry",
+      "league": "Daikin Starligue",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "DOUBLE_CHANCE",
+          "rawName": "Double chance",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME_DRAW",
+              "rawName": "Chambéry ou match nul",
+              "odds": 1.21,
+              "isActive": true,
+              "selectionId": "2180359876"
+            },
+            {
+              "canonicalOutcome": "HOME_AWAY",
+              "rawName": "Chambéry ou Tremblay",
+              "odds": 1.03,
+              "isActive": true,
+              "selectionId": "2180359877"
+            },
+            {
+              "canonicalOutcome": "DRAW_AWAY",
+              "rawName": "Tremblay ou match nul",
+              "odds": 2.5,
+              "isActive": true,
+              "selectionId": "2180359878"
+            }
+          ],
+          "marketId": "10|"
+        },
+        {
+          "canonicalMarket": "DRAW_NO_BET",
+          "rawName": "Vainqueur (remboursé si match nul)",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Chambéry",
+              "odds": 1.25,
+              "isActive": true,
+              "selectionId": "2180359879"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Tremblay",
+              "odds": 2.85,
+              "isActive": true,
+              "selectionId": "2180359880"
+            }
+          ],
+          "marketId": "11|"
+        },
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Chambéry",
+              "odds": 1.37,
+              "isActive": true,
+              "selectionId": "2180359881"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 8,
+              "isActive": true,
+              "selectionId": "2180359882"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Tremblay",
+              "odds": 3.25,
+              "isActive": true,
+              "selectionId": "2180359883"
+            }
+          ],
+          "marketId": "1|"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/72748904",
+        "tournamentId": 2583,
+        "srTournamentId": "sr:tournament:159",
+        "round": "J4"
+      },
+      "slug": "/paris-sportifs/match/72748904",
+      "sport": "handball",
+      "startTime": "2026-09-25T18:00:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "handball",
+      "_last_updated": "2026-09-21T23:16:25.303861+00:00"
+    },
+    {
+      "eventId": "72748906",
+      "away": "Cesson",
+      "country": "France",
+      "home": "Chartres",
+      "league": "Daikin Starligue",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "DOUBLE_CHANCE",
+          "rawName": "Double chance",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME_DRAW",
+              "rawName": "Chartres ou match nul",
+              "odds": 1.78,
+              "isActive": true,
+              "selectionId": "2180359679"
+            },
+            {
+              "canonicalOutcome": "HOME_AWAY",
+              "rawName": "Chartres ou Cesson",
+              "odds": 1.05,
+              "isActive": true,
+              "selectionId": "2180359680"
+            },
+            {
+              "canonicalOutcome": "DRAW_AWAY",
+              "rawName": "Cesson ou match nul",
+              "odds": 1.43,
+              "isActive": true,
+              "selectionId": "2180359681"
+            }
+          ],
+          "marketId": "10|"
+        },
+        {
+          "canonicalMarket": "DRAW_NO_BET",
+          "rawName": "Vainqueur (remboursé si match nul)",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Chartres",
+              "odds": 2,
+              "isActive": true,
+              "selectionId": "2180359682"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Cesson",
+              "odds": 1.52,
+              "isActive": true,
+              "selectionId": "2180359683"
+            }
+          ],
+          "marketId": "11|"
+        },
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Chartres",
+              "odds": 2.25,
+              "isActive": true,
+              "selectionId": "2180359684"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 7.5,
+              "isActive": true,
+              "selectionId": "2180359685"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Cesson",
+              "odds": 1.72,
+              "isActive": true,
+              "selectionId": "2180359686"
+            }
+          ],
+          "marketId": "1|"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/72748906",
+        "tournamentId": 2583,
+        "srTournamentId": "sr:tournament:159",
+        "round": "J4"
+      },
+      "slug": "/paris-sportifs/match/72748906",
+      "sport": "handball",
+      "startTime": "2026-09-25T18:00:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "handball",
+      "_last_updated": "2026-09-21T23:16:25.303861+00:00"
+    },
+    {
+      "eventId": "72748912",
+      "away": "Dunkerque",
+      "country": "France",
+      "home": "Nîmes",
+      "league": "Daikin Starligue",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "DOUBLE_CHANCE",
+          "rawName": "Double chance",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME_DRAW",
+              "rawName": "Nîmes ou match nul",
+              "odds": 1.17,
+              "isActive": true,
+              "selectionId": "2180359313"
+            },
+            {
+              "canonicalOutcome": "HOME_AWAY",
+              "rawName": "Nîmes ou Dunkerque",
+              "odds": 1.04,
+              "isActive": true,
+              "selectionId": "2180359314"
+            },
+            {
+              "canonicalOutcome": "DRAW_AWAY",
+              "rawName": "Dunkerque ou match nul",
+              "odds": 2.7,
+              "isActive": true,
+              "selectionId": "2180359315"
+            }
+          ],
+          "marketId": "10|"
+        },
+        {
+          "canonicalMarket": "DRAW_NO_BET",
+          "rawName": "Vainqueur (remboursé si match nul)",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Nîmes",
+              "odds": 1.2,
+              "isActive": true,
+              "selectionId": "2180359316"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Dunkerque",
+              "odds": 3.1,
+              "isActive": true,
+              "selectionId": "2180359317"
+            }
+          ],
+          "marketId": "11|"
+        },
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Nîmes",
+              "odds": 1.32,
+              "isActive": true,
+              "selectionId": "2180359318"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 8,
+              "isActive": true,
+              "selectionId": "2180359319"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Dunkerque",
+              "odds": 3.65,
+              "isActive": true,
+              "selectionId": "2180359320"
+            }
+          ],
+          "marketId": "1|"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/72748912",
+        "tournamentId": 2583,
+        "srTournamentId": "sr:tournament:159",
+        "round": "J4"
+      },
+      "slug": "/paris-sportifs/match/72748912",
+      "sport": "handball",
+      "startTime": "2026-09-25T18:00:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "handball",
+      "_last_updated": "2026-09-21T23:16:25.303861+00:00"
+    },
+    {
+      "eventId": "72748916",
+      "away": "Montpellier",
+      "country": "France",
+      "home": "Sélestat",
+      "league": "Daikin Starligue",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "DOUBLE_CHANCE",
+          "rawName": "Double chance",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME_DRAW",
+              "rawName": "Sélestat ou match nul",
+              "odds": 4.8,
+              "isActive": true,
+              "selectionId": "2180359299"
+            },
+            {
+              "canonicalOutcome": "HOME_AWAY",
+              "rawName": "Sélestat ou Montpellier",
+              "odds": 1.02,
+              "isActive": true,
+              "selectionId": "2180359300"
+            },
+            {
+              "canonicalOutcome": "DRAW_AWAY",
+              "rawName": "Montpellier ou match nul",
+              "odds": 1.04,
+              "isActive": true,
+              "selectionId": "2180359301"
+            }
+          ],
+          "marketId": "10|"
+        },
+        {
+          "canonicalMarket": "DRAW_NO_BET",
+          "rawName": "Vainqueur (remboursé si match nul)",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Sélestat",
+              "odds": 4.9,
+              "isActive": true,
+              "selectionId": "2180359302"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Montpellier",
+              "odds": 1.05,
+              "isActive": true,
+              "selectionId": "2180359303"
+            }
+          ],
+          "marketId": "11|"
+        },
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Sélestat",
+              "odds": 6.25,
+              "isActive": true,
+              "selectionId": "2180359304"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 11,
+              "isActive": true,
+              "selectionId": "2180359305"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Montpellier",
+              "odds": 1.1,
+              "isActive": true,
+              "selectionId": "2180359306"
+            }
+          ],
+          "marketId": "1|"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/72748916",
+        "tournamentId": 2583,
+        "srTournamentId": "sr:tournament:159",
+        "round": "J4"
+      },
+      "slug": "/paris-sportifs/match/72748916",
+      "sport": "handball",
+      "startTime": "2026-09-25T18:30:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "handball",
+      "_last_updated": "2026-09-21T23:16:25.303861+00:00"
     },
     {
       "eventId": "73262956",
@@ -137178,6 +137913,321 @@
       "_last_updated": "2026-09-20T18:47:02.372617+00:00"
     },
     {
+      "eventId": "72982542",
+      "away": "BM Triana",
+      "country": "Espagne",
+      "home": "BM Ciudad Encantada",
+      "league": "Liga Asobal",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "DOUBLE_CHANCE",
+          "rawName": "Double chance",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME_DRAW",
+              "rawName": "Ciudad Encantada ou match nul",
+              "odds": 1.18,
+              "isActive": true,
+              "selectionId": "2180406299"
+            },
+            {
+              "canonicalOutcome": "HOME_AWAY",
+              "rawName": "Ciudad Encantada ou BM Triana",
+              "odds": 1.03,
+              "isActive": true,
+              "selectionId": "2180406300"
+            },
+            {
+              "canonicalOutcome": "DRAW_AWAY",
+              "rawName": "BM Triana ou match nul",
+              "odds": 2.85,
+              "isActive": true,
+              "selectionId": "2180406301"
+            }
+          ],
+          "marketId": "10|"
+        },
+        {
+          "canonicalMarket": "DRAW_NO_BET",
+          "rawName": "Vainqueur (remboursé si match nul)",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Ciudad Encantada",
+              "odds": 1.2,
+              "isActive": true,
+              "selectionId": "2180406302"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "BM Triana",
+              "odds": 3.1,
+              "isActive": true,
+              "selectionId": "2180406303"
+            }
+          ],
+          "marketId": "11|"
+        },
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Ciudad Encantada",
+              "odds": 1.29,
+              "isActive": true,
+              "selectionId": "2180406304"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 10,
+              "isActive": true,
+              "selectionId": "2180406305"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "BM Triana",
+              "odds": 3.55,
+              "isActive": true,
+              "selectionId": "2180406306"
+            }
+          ],
+          "marketId": "1|"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/72982542",
+        "tournamentId": 157,
+        "srTournamentId": "sr:tournament:248",
+        "round": "J3"
+      },
+      "slug": "/paris-sportifs/match/72982542",
+      "sport": "handball",
+      "startTime": "2026-09-26T14:00:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "handball",
+      "_last_updated": "2026-09-21T23:16:25.303861+00:00"
+    },
+    {
+      "eventId": "72982546",
+      "away": "Logroño La Rioja",
+      "country": "Espagne",
+      "home": "BM Nava",
+      "league": "Liga Asobal",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "DOUBLE_CHANCE",
+          "rawName": "Double chance",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME_DRAW",
+              "rawName": "BM Nava ou match nul",
+              "odds": 2.5,
+              "isActive": true,
+              "selectionId": "2180409349"
+            },
+            {
+              "canonicalOutcome": "HOME_AWAY",
+              "rawName": "BM Nava ou La Rioja",
+              "odds": 1.03,
+              "isActive": true,
+              "selectionId": "2180409350"
+            },
+            {
+              "canonicalOutcome": "DRAW_AWAY",
+              "rawName": "La Rioja ou match nul",
+              "odds": 1.21,
+              "isActive": true,
+              "selectionId": "2180409351"
+            }
+          ],
+          "marketId": "10|"
+        },
+        {
+          "canonicalMarket": "DRAW_NO_BET",
+          "rawName": "Vainqueur (remboursé si match nul)",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "BM Nava",
+              "odds": 2.85,
+              "isActive": true,
+              "selectionId": "2180409352"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "La Rioja",
+              "odds": 1.24,
+              "isActive": true,
+              "selectionId": "2180409353"
+            }
+          ],
+          "marketId": "11|"
+        },
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "BM Nava",
+              "odds": 3.3,
+              "isActive": true,
+              "selectionId": "2180409354"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 8,
+              "isActive": true,
+              "selectionId": "2180409355"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "La Rioja",
+              "odds": 1.36,
+              "isActive": true,
+              "selectionId": "2180409356"
+            }
+          ],
+          "marketId": "1|"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/72982546",
+        "tournamentId": 157,
+        "srTournamentId": "sr:tournament:248",
+        "round": "J3"
+      },
+      "slug": "/paris-sportifs/match/72982546",
+      "sport": "handball",
+      "startTime": "2026-09-26T15:00:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "handball",
+      "_last_updated": "2026-09-21T23:16:25.303861+00:00"
+    },
+    {
+      "eventId": "72473148",
+      "away": "Flensburg-Handewitt",
+      "country": "Allemagne",
+      "home": "THW Kiel",
+      "league": "Bundesliga",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "DOUBLE_CHANCE",
+          "rawName": "Double chance",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME_DRAW",
+              "rawName": "Kiel ou match nul",
+              "odds": 1.41,
+              "isActive": true,
+              "selectionId": "2180375872"
+            },
+            {
+              "canonicalOutcome": "HOME_AWAY",
+              "rawName": "Kiel ou Flensburg",
+              "odds": 1.04,
+              "isActive": true,
+              "selectionId": "2180375873"
+            },
+            {
+              "canonicalOutcome": "DRAW_AWAY",
+              "rawName": "Flensburg ou match nul",
+              "odds": 1.86,
+              "isActive": true,
+              "selectionId": "2180375874"
+            }
+          ],
+          "marketId": "10|"
+        },
+        {
+          "canonicalMarket": "DRAW_NO_BET",
+          "rawName": "Vainqueur (remboursé si match nul)",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Kiel",
+              "odds": 1.5,
+              "isActive": true,
+              "selectionId": "2180375875"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Flensburg",
+              "odds": 2.05,
+              "isActive": true,
+              "selectionId": "2180375876"
+            }
+          ],
+          "marketId": "11|"
+        },
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Kiel",
+              "odds": 1.66,
+              "isActive": true,
+              "selectionId": "2180375877"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 8,
+              "isActive": true,
+              "selectionId": "2180375878"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Flensburg",
+              "odds": 2.3,
+              "isActive": true,
+              "selectionId": "2180375879"
+            }
+          ],
+          "marketId": "1|"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/72473148",
+        "tournamentId": 95,
+        "srTournamentId": "sr:tournament:149",
+        "round": "J6"
+      },
+      "slug": "/paris-sportifs/match/72473148",
+      "sport": "handball",
+      "startTime": "2026-09-26T16:00:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "handball",
+      "_last_updated": "2026-09-21T23:16:25.303861+00:00"
+    },
+    {
       "eventId": "74867286",
       "away": "Wakefield Trinity",
       "country": "Europe",
@@ -137598,6 +138648,636 @@
       "_source": "Winamax",
       "_pulscore_sport": "rugby-league",
       "_last_updated": "2026-09-20T18:47:02.372617+00:00"
+    },
+    {
+      "eventId": "72748908",
+      "away": "Paris SG",
+      "country": "France",
+      "home": "Limoges",
+      "league": "Daikin Starligue",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "DOUBLE_CHANCE",
+          "rawName": "Double chance",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME_DRAW",
+              "rawName": "Limoges ou match nul",
+              "odds": 3.8,
+              "isActive": true,
+              "selectionId": "2180359508"
+            },
+            {
+              "canonicalOutcome": "HOME_AWAY",
+              "rawName": "Limoges ou PSG",
+              "odds": 1.03,
+              "isActive": true,
+              "selectionId": "2180359509"
+            },
+            {
+              "canonicalOutcome": "DRAW_AWAY",
+              "rawName": "PSG ou match nul",
+              "odds": 1.08,
+              "isActive": true,
+              "selectionId": "2180359510"
+            }
+          ],
+          "marketId": "10|"
+        },
+        {
+          "canonicalMarket": "DRAW_NO_BET",
+          "rawName": "Vainqueur (remboursé si match nul)",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Limoges",
+              "odds": 4.2,
+              "isActive": true,
+              "selectionId": "2180359511"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "PSG",
+              "odds": 1.09,
+              "isActive": true,
+              "selectionId": "2180359512"
+            }
+          ],
+          "marketId": "11|"
+        },
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Limoges",
+              "odds": 5.1,
+              "isActive": true,
+              "selectionId": "2180359513"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 9,
+              "isActive": true,
+              "selectionId": "2180359514"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "PSG",
+              "odds": 1.17,
+              "isActive": true,
+              "selectionId": "2180359515"
+            }
+          ],
+          "marketId": "1|"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/72748908",
+        "tournamentId": 2583,
+        "srTournamentId": "sr:tournament:159",
+        "round": "J4"
+      },
+      "slug": "/paris-sportifs/match/72748908",
+      "sport": "handball",
+      "startTime": "2026-09-26T17:00:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "handball",
+      "_last_updated": "2026-09-21T23:16:25.303861+00:00"
+    },
+    {
+      "eventId": "72982540",
+      "away": "Bidasoa Irun",
+      "country": "Espagne",
+      "home": "Villa De Aranda",
+      "league": "Liga Asobal",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "DOUBLE_CHANCE",
+          "rawName": "Double chance",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME_DRAW",
+              "rawName": "Villa De Aranda ou match nul",
+              "odds": 3.85,
+              "isActive": true,
+              "selectionId": "2180409821"
+            },
+            {
+              "canonicalOutcome": "HOME_AWAY",
+              "rawName": "Villa De Aranda ou Bidasoa Irun",
+              "odds": 1.02,
+              "isActive": true,
+              "selectionId": "2180409822"
+            },
+            {
+              "canonicalOutcome": "DRAW_AWAY",
+              "rawName": "Bidasoa Irun ou match nul",
+              "odds": 1.08,
+              "isActive": true,
+              "selectionId": "2180409823"
+            }
+          ],
+          "marketId": "10|"
+        },
+        {
+          "canonicalMarket": "DRAW_NO_BET",
+          "rawName": "Vainqueur (remboursé si match nul)",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Villa De Aranda",
+              "odds": 4.2,
+              "isActive": true,
+              "selectionId": "2180409824"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Bidasoa Irun",
+              "odds": 1.09,
+              "isActive": true,
+              "selectionId": "2180409825"
+            }
+          ],
+          "marketId": "11|"
+        },
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Villa De Aranda",
+              "odds": 5.1,
+              "isActive": true,
+              "selectionId": "2180409826"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 9.5,
+              "isActive": true,
+              "selectionId": "2180409827"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Bidasoa Irun",
+              "odds": 1.17,
+              "isActive": true,
+              "selectionId": "2180409828"
+            }
+          ],
+          "marketId": "1|"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/72982540",
+        "tournamentId": 157,
+        "srTournamentId": "sr:tournament:248",
+        "round": "J3"
+      },
+      "slug": "/paris-sportifs/match/72982540",
+      "sport": "handball",
+      "startTime": "2026-09-26T17:00:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "handball",
+      "_last_updated": "2026-09-21T23:16:25.303861+00:00"
+    },
+    {
+      "eventId": "72982544",
+      "away": "BM Torrelavega",
+      "country": "Espagne",
+      "home": "Puente Genil",
+      "league": "Liga Asobal",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "DOUBLE_CHANCE",
+          "rawName": "Double chance",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME_DRAW",
+              "rawName": "Puente Genil ou match nul",
+              "odds": 2.3,
+              "isActive": true,
+              "selectionId": "2180409904"
+            },
+            {
+              "canonicalOutcome": "HOME_AWAY",
+              "rawName": "Puente Genil ou BM Torrelavega",
+              "odds": 1.04,
+              "isActive": true,
+              "selectionId": "2180409905"
+            },
+            {
+              "canonicalOutcome": "DRAW_AWAY",
+              "rawName": "BM Torrelavega ou match nul",
+              "odds": 1.25,
+              "isActive": true,
+              "selectionId": "2180409906"
+            }
+          ],
+          "marketId": "10|"
+        },
+        {
+          "canonicalMarket": "DRAW_NO_BET",
+          "rawName": "Vainqueur (remboursé si match nul)",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Puente Genil",
+              "odds": 2.65,
+              "isActive": true,
+              "selectionId": "2180409907"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "BM Torrelavega",
+              "odds": 1.29,
+              "isActive": true,
+              "selectionId": "2180409908"
+            }
+          ],
+          "marketId": "11|"
+        },
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Puente Genil",
+              "odds": 3,
+              "isActive": true,
+              "selectionId": "2180409909"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 8,
+              "isActive": true,
+              "selectionId": "2180409910"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "BM Torrelavega",
+              "odds": 1.43,
+              "isActive": true,
+              "selectionId": "2180409911"
+            }
+          ],
+          "marketId": "1|"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/72982544",
+        "tournamentId": 157,
+        "srTournamentId": "sr:tournament:248",
+        "round": "J3"
+      },
+      "slug": "/paris-sportifs/match/72982544",
+      "sport": "handball",
+      "startTime": "2026-09-26T17:00:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "handball",
+      "_last_updated": "2026-09-21T23:16:25.303861+00:00"
+    },
+    {
+      "eventId": "72473152",
+      "away": "Melsungen",
+      "country": "Allemagne",
+      "home": "Rhein-Neckar Löwen",
+      "league": "Bundesliga",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "DOUBLE_CHANCE",
+          "rawName": "Double chance",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME_DRAW",
+              "rawName": "Lowen ou match nul",
+              "odds": 1.52,
+              "isActive": true,
+              "selectionId": "2180375168"
+            },
+            {
+              "canonicalOutcome": "HOME_AWAY",
+              "rawName": "Lowen ou Melsungen",
+              "odds": 1.06,
+              "isActive": true,
+              "selectionId": "2180375169"
+            },
+            {
+              "canonicalOutcome": "DRAW_AWAY",
+              "rawName": "Melsungen ou match nul",
+              "odds": 1.64,
+              "isActive": true,
+              "selectionId": "2180375170"
+            }
+          ],
+          "marketId": "10|"
+        },
+        {
+          "canonicalMarket": "DRAW_NO_BET",
+          "rawName": "Vainqueur (remboursé si match nul)",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Lowen",
+              "odds": 1.66,
+              "isActive": true,
+              "selectionId": "2180375171"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Melsungen",
+              "odds": 1.82,
+              "isActive": true,
+              "selectionId": "2180375172"
+            }
+          ],
+          "marketId": "11|"
+        },
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Lowen",
+              "odds": 1.88,
+              "isActive": true,
+              "selectionId": "2180375173"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 7,
+              "isActive": true,
+              "selectionId": "2180375174"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Melsungen",
+              "odds": 2.05,
+              "isActive": true,
+              "selectionId": "2180375175"
+            }
+          ],
+          "marketId": "1|"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/72473152",
+        "tournamentId": 95,
+        "srTournamentId": "sr:tournament:149",
+        "round": "J6"
+      },
+      "slug": "/paris-sportifs/match/72473152",
+      "sport": "handball",
+      "startTime": "2026-09-26T18:00:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "handball",
+      "_last_updated": "2026-09-21T23:16:25.303861+00:00"
+    },
+    {
+      "eventId": "72473146",
+      "away": "Bietigheim",
+      "country": "Allemagne",
+      "home": "Magdebourg",
+      "league": "Bundesliga",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "DOUBLE_CHANCE",
+          "rawName": "Double chance",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME_DRAW",
+              "rawName": "Magdeburg ou match nul",
+              "odds": 1,
+              "isActive": true,
+              "selectionId": "2180941130"
+            },
+            {
+              "canonicalOutcome": "HOME_AWAY",
+              "rawName": "Magdeburg ou Bietigheim",
+              "odds": 1,
+              "isActive": true,
+              "selectionId": "2180941131"
+            },
+            {
+              "canonicalOutcome": "DRAW_AWAY",
+              "rawName": "Bietigheim ou match nul",
+              "odds": 17,
+              "isActive": true,
+              "selectionId": "2180941132"
+            }
+          ],
+          "marketId": "10|"
+        },
+        {
+          "canonicalMarket": "DRAW_NO_BET",
+          "rawName": "Vainqueur (remboursé si match nul)",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Magdeburg",
+              "odds": 1,
+              "isActive": true,
+              "selectionId": "2180941133"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Bietigheim",
+              "odds": 6.5,
+              "isActive": true,
+              "selectionId": "2180941134"
+            }
+          ],
+          "marketId": "11|"
+        },
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Magdeburg",
+              "odds": 1,
+              "isActive": true,
+              "selectionId": "2180941135"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 13,
+              "isActive": true,
+              "selectionId": "2180941136"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Bietigheim",
+              "odds": 11.5,
+              "isActive": true,
+              "selectionId": "2180941137"
+            }
+          ],
+          "marketId": "1|"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/72473146",
+        "tournamentId": 95,
+        "srTournamentId": "sr:tournament:149",
+        "round": "J6"
+      },
+      "slug": "/paris-sportifs/match/72473146",
+      "sport": "handball",
+      "startTime": "2026-09-26T18:00:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "handball",
+      "_last_updated": "2026-09-21T23:16:25.303861+00:00"
+    },
+    {
+      "eventId": "72982538",
+      "away": "Granollers",
+      "country": "Espagne",
+      "home": "EON Alicante",
+      "league": "Liga Asobal",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "DOUBLE_CHANCE",
+          "rawName": "Double chance",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME_DRAW",
+              "rawName": "EON Alicante ou match nul",
+              "odds": 2.5,
+              "isActive": true,
+              "selectionId": "2180410509"
+            },
+            {
+              "canonicalOutcome": "HOME_AWAY",
+              "rawName": "EON Alicante ou Granollers",
+              "odds": 1.03,
+              "isActive": true,
+              "selectionId": "2180410510"
+            },
+            {
+              "canonicalOutcome": "DRAW_AWAY",
+              "rawName": "Granollers ou match nul",
+              "odds": 1.21,
+              "isActive": true,
+              "selectionId": "2180410511"
+            }
+          ],
+          "marketId": "10|"
+        },
+        {
+          "canonicalMarket": "DRAW_NO_BET",
+          "rawName": "Vainqueur (remboursé si match nul)",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "EON Alicante",
+              "odds": 2.85,
+              "isActive": true,
+              "selectionId": "2180410512"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Granollers",
+              "odds": 1.24,
+              "isActive": true,
+              "selectionId": "2180410513"
+            }
+          ],
+          "marketId": "11|"
+        },
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "EON Alicante",
+              "odds": 3.25,
+              "isActive": true,
+              "selectionId": "2180410514"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 8.5,
+              "isActive": true,
+              "selectionId": "2180410515"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Granollers",
+              "odds": 1.36,
+              "isActive": true,
+              "selectionId": "2180410516"
+            }
+          ],
+          "marketId": "1|"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/72982538",
+        "tournamentId": 157,
+        "srTournamentId": "sr:tournament:248",
+        "round": "J3"
+      },
+      "slug": "/paris-sportifs/match/72982538",
+      "sport": "handball",
+      "startTime": "2026-09-26T18:30:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "handball",
+      "_last_updated": "2026-09-21T23:16:25.303861+00:00"
     },
     {
       "eventId": "73945132",
@@ -138284,6 +139964,111 @@
       "_last_updated": "2026-09-20T18:47:02.372617+00:00"
     },
     {
+      "eventId": "72982534",
+      "away": "Puerto Sagunto",
+      "country": "Espagne",
+      "home": "Recoletas Atletico Valladolid",
+      "league": "Liga Asobal",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "DOUBLE_CHANCE",
+          "rawName": "Double chance",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME_DRAW",
+              "rawName": "Recoletas At. Vallad ou match nul",
+              "odds": 1.08,
+              "isActive": true,
+              "selectionId": "2180405354"
+            },
+            {
+              "canonicalOutcome": "HOME_AWAY",
+              "rawName": "Recoletas At. Vallad ou Puerto Sagunto",
+              "odds": 1.02,
+              "isActive": true,
+              "selectionId": "2180405355"
+            },
+            {
+              "canonicalOutcome": "DRAW_AWAY",
+              "rawName": "Puerto Sagunto ou match nul",
+              "odds": 3.85,
+              "isActive": true,
+              "selectionId": "2180405356"
+            }
+          ],
+          "marketId": "10|"
+        },
+        {
+          "canonicalMarket": "DRAW_NO_BET",
+          "rawName": "Vainqueur (remboursé si match nul)",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Recoletas At. Vallad",
+              "odds": 1.09,
+              "isActive": true,
+              "selectionId": "2180405357"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Puerto Sagunto",
+              "odds": 4.2,
+              "isActive": true,
+              "selectionId": "2180405358"
+            }
+          ],
+          "marketId": "11|"
+        },
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Recoletas At. Vallad",
+              "odds": 1.17,
+              "isActive": true,
+              "selectionId": "2180405359"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 9.5,
+              "isActive": true,
+              "selectionId": "2180405360"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Puerto Sagunto",
+              "odds": 5.1,
+              "isActive": true,
+              "selectionId": "2180405361"
+            }
+          ],
+          "marketId": "1|"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/72982534",
+        "tournamentId": 157,
+        "srTournamentId": "sr:tournament:248",
+        "round": "J3"
+      },
+      "slug": "/paris-sportifs/match/72982534",
+      "sport": "handball",
+      "startTime": "2026-09-27T10:00:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "handball",
+      "_last_updated": "2026-09-21T23:16:25.303861+00:00"
+    },
+    {
       "eventId": "73140794",
       "away": "Tenshin Nasukawa",
       "country": "International",
@@ -138327,6 +140112,426 @@
       "_source": "Winamax",
       "_pulscore_sport": "boxing",
       "_last_updated": "2026-09-18T11:13:19.141923+00:00"
+    },
+    {
+      "eventId": "72473156",
+      "away": "Goppingen",
+      "country": "Allemagne",
+      "home": "Hanovre Burgdorf",
+      "league": "Bundesliga",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "DOUBLE_CHANCE",
+          "rawName": "Double chance",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME_DRAW",
+              "rawName": "Hanovre Burgdorf ou match nul",
+              "odds": 1.1,
+              "isActive": true,
+              "selectionId": "2180375955"
+            },
+            {
+              "canonicalOutcome": "HOME_AWAY",
+              "rawName": "Hanovre Burgdorf ou Goppingen",
+              "odds": 1.03,
+              "isActive": true,
+              "selectionId": "2180375956"
+            },
+            {
+              "canonicalOutcome": "DRAW_AWAY",
+              "rawName": "Goppingen ou match nul",
+              "odds": 3.4,
+              "isActive": true,
+              "selectionId": "2180375957"
+            }
+          ],
+          "marketId": "10|"
+        },
+        {
+          "canonicalMarket": "DRAW_NO_BET",
+          "rawName": "Vainqueur (remboursé si match nul)",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Hanovre Burgdorf",
+              "odds": 1.11,
+              "isActive": true,
+              "selectionId": "2180375958"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Goppingen",
+              "odds": 3.95,
+              "isActive": true,
+              "selectionId": "2180375959"
+            }
+          ],
+          "marketId": "11|"
+        },
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Hanovre Burgdorf",
+              "odds": 1.21,
+              "isActive": true,
+              "selectionId": "2180375960"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 8,
+              "isActive": true,
+              "selectionId": "2180375961"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Goppingen",
+              "odds": 4.8,
+              "isActive": true,
+              "selectionId": "2180375962"
+            }
+          ],
+          "marketId": "1|"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/72473156",
+        "tournamentId": 95,
+        "srTournamentId": "sr:tournament:149",
+        "round": "J6"
+      },
+      "slug": "/paris-sportifs/match/72473156",
+      "sport": "handball",
+      "startTime": "2026-09-27T13:00:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "handball",
+      "_last_updated": "2026-09-21T23:16:25.303861+00:00"
+    },
+    {
+      "eventId": "72473160",
+      "away": "Bergischer HC",
+      "country": "Allemagne",
+      "home": "Gummersbach",
+      "league": "Bundesliga",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "DOUBLE_CHANCE",
+          "rawName": "Double chance",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME_DRAW",
+              "rawName": "Gummersbach ou match nul",
+              "odds": 1.03,
+              "isActive": true,
+              "selectionId": "2180375710"
+            },
+            {
+              "canonicalOutcome": "HOME_AWAY",
+              "rawName": "Gummersbach ou Bergischer HC",
+              "odds": 1.02,
+              "isActive": true,
+              "selectionId": "2180375711"
+            },
+            {
+              "canonicalOutcome": "DRAW_AWAY",
+              "rawName": "Bergischer HC ou match nul",
+              "odds": 5.1,
+              "isActive": true,
+              "selectionId": "2180375712"
+            }
+          ],
+          "marketId": "10|"
+        },
+        {
+          "canonicalMarket": "DRAW_NO_BET",
+          "rawName": "Vainqueur (remboursé si match nul)",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Gummersbach",
+              "odds": 1.04,
+              "isActive": true,
+              "selectionId": "2180375713"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Bergischer HC",
+              "odds": 5.1,
+              "isActive": true,
+              "selectionId": "2180375714"
+            }
+          ],
+          "marketId": "11|"
+        },
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Gummersbach",
+              "odds": 1.09,
+              "isActive": true,
+              "selectionId": "2180375715"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 11,
+              "isActive": true,
+              "selectionId": "2180375716"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Bergischer HC",
+              "odds": 6.5,
+              "isActive": true,
+              "selectionId": "2180375717"
+            }
+          ],
+          "marketId": "1|"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/72473160",
+        "tournamentId": 95,
+        "srTournamentId": "sr:tournament:149",
+        "round": "J6"
+      },
+      "slug": "/paris-sportifs/match/72473160",
+      "sport": "handball",
+      "startTime": "2026-09-27T14:30:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "handball",
+      "_last_updated": "2026-09-21T23:16:25.303861+00:00"
+    },
+    {
+      "eventId": "72748910",
+      "away": "Toulouse",
+      "country": "France",
+      "home": "Nantes",
+      "league": "Daikin Starligue",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "DOUBLE_CHANCE",
+          "rawName": "Double chance",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME_DRAW",
+              "rawName": "Nantes ou match nul",
+              "odds": 1.03,
+              "isActive": true,
+              "selectionId": "2180359774"
+            },
+            {
+              "canonicalOutcome": "HOME_AWAY",
+              "rawName": "Nantes ou Toulouse",
+              "odds": 1.02,
+              "isActive": true,
+              "selectionId": "2180359775"
+            },
+            {
+              "canonicalOutcome": "DRAW_AWAY",
+              "rawName": "Toulouse ou match nul",
+              "odds": 5.1,
+              "isActive": true,
+              "selectionId": "2180359776"
+            }
+          ],
+          "marketId": "10|"
+        },
+        {
+          "canonicalMarket": "DRAW_NO_BET",
+          "rawName": "Vainqueur (remboursé si match nul)",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Nantes",
+              "odds": 1.04,
+              "isActive": true,
+              "selectionId": "2180359777"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Toulouse",
+              "odds": 5.1,
+              "isActive": true,
+              "selectionId": "2180359778"
+            }
+          ],
+          "marketId": "11|"
+        },
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Nantes",
+              "odds": 1.09,
+              "isActive": true,
+              "selectionId": "2180359779"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 11,
+              "isActive": true,
+              "selectionId": "2180359780"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Toulouse",
+              "odds": 6.5,
+              "isActive": true,
+              "selectionId": "2180359781"
+            }
+          ],
+          "marketId": "1|"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/72748910",
+        "tournamentId": 2583,
+        "srTournamentId": "sr:tournament:159",
+        "round": "J4"
+      },
+      "slug": "/paris-sportifs/match/72748910",
+      "sport": "handball",
+      "startTime": "2026-09-27T15:00:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "handball",
+      "_last_updated": "2026-09-21T23:16:25.303861+00:00"
+    },
+    {
+      "eventId": "72473154",
+      "away": "HSG Wetzlar",
+      "country": "Allemagne",
+      "home": "Hambourg",
+      "league": "Bundesliga",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "DOUBLE_CHANCE",
+          "rawName": "Double chance",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME_DRAW",
+              "rawName": "Hambourg ou match nul",
+              "odds": 1.31,
+              "isActive": true,
+              "selectionId": "2180375618"
+            },
+            {
+              "canonicalOutcome": "HOME_AWAY",
+              "rawName": "Hambourg ou Wetzlar",
+              "odds": 1.05,
+              "isActive": true,
+              "selectionId": "2180375619"
+            },
+            {
+              "canonicalOutcome": "DRAW_AWAY",
+              "rawName": "Wetzlar ou match nul",
+              "odds": 2.05,
+              "isActive": true,
+              "selectionId": "2180375620"
+            }
+          ],
+          "marketId": "10|"
+        },
+        {
+          "canonicalMarket": "DRAW_NO_BET",
+          "rawName": "Vainqueur (remboursé si match nul)",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Hambourg",
+              "odds": 1.37,
+              "isActive": true,
+              "selectionId": "2180375621"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Wetzlar",
+              "odds": 2.35,
+              "isActive": true,
+              "selectionId": "2180375622"
+            }
+          ],
+          "marketId": "11|"
+        },
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Hambourg",
+              "odds": 1.54,
+              "isActive": true,
+              "selectionId": "2180375623"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 7.25,
+              "isActive": true,
+              "selectionId": "2180375624"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Wetzlar",
+              "odds": 2.7,
+              "isActive": true,
+              "selectionId": "2180375625"
+            }
+          ],
+          "marketId": "1|"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/72473154",
+        "tournamentId": 95,
+        "srTournamentId": "sr:tournament:149",
+        "round": "J6"
+      },
+      "slug": "/paris-sportifs/match/72473154",
+      "sport": "handball",
+      "startTime": "2026-09-27T16:00:00.000Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "handball",
+      "_last_updated": "2026-09-21T23:16:25.303861+00:00"
     },
     {
       "eventId": "71515812",
