@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-27T01:28:27.892349+00:00",
+  "generatedAt": "2026-10-27T07:50:56.592511+00:00",
   "source": "PulseScore / Winamax",
   "refreshStrategy": "weighted rotation every 2 hours; 32-slot/64-hour cycle; priority to soccer, tennis and basketball",
-  "currentSportRefreshed": "soccer",
-  "eventCount": 126,
+  "currentSportRefreshed": "baseball",
+  "eventCount": 129,
   "sportsRequested": [
     "soccer",
     "tennis",
@@ -64,7 +64,7 @@
     "soccer": "2026-10-27T01:28:27.892349+00:00",
     "basketball": "2026-10-24T22:27:57.776981+00:00",
     "rugby-union": "2026-10-26T21:00:16.568885+00:00",
-    "baseball": "2026-10-24T15:56:14.779344+00:00",
+    "baseball": "2026-10-27T07:50:56.592511+00:00",
     "ice-hockey": "2026-10-23T18:20:24.003690+00:00",
     "volleyball": "2026-10-22T17:09:23.417947+00:00",
     "badminton": "2026-10-17T15:38:19.095511+00:00",
@@ -75,6 +75,1161 @@
   },
   "errors": [],
   "events": [
+    {
+      "eventId": "75719578",
+      "away": "Yokohama DeNA BayStars",
+      "country": "Japon",
+      "home": "Fukuoka SoftBank Hawks",
+      "league": "NPB",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Vainqueur",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Fukuoka Hawks",
+              "odds": 1.38,
+              "isActive": true,
+              "selectionId": "2257542885"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Yokohama BayStars",
+              "odds": 2.5,
+              "isActive": true,
+              "selectionId": "2257542886"
+            }
+          ],
+          "marketId": "251|"
+        },
+        {
+          "canonicalMarket": "AWAY_OVER_UNDER",
+          "rawName": "Nombre de runs de Yokohama BayStars",
+          "period": "FULL_TIME",
+          "line": 1.5,
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OVER",
+              "rawName": "Plus de 1,5",
+              "odds": 1.5,
+              "isActive": true,
+              "selectionId": "2258891851",
+              "line": 1.5
+            },
+            {
+              "canonicalOutcome": "UNDER",
+              "rawName": "Moins de 1,5",
+              "odds": 2.05,
+              "isActive": true,
+              "selectionId": "2258891852",
+              "line": 1.5
+            }
+          ],
+          "marketId": "261|total=1.5"
+        },
+        {
+          "canonicalMarket": "AWAY_OVER_UNDER",
+          "rawName": "Nombre de runs de Yokohama BayStars",
+          "period": "FULL_TIME",
+          "line": 2.5,
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OVER",
+              "rawName": "Plus de 2,5",
+              "odds": 2.05,
+              "isActive": true,
+              "selectionId": "2258891853",
+              "line": 2.5
+            },
+            {
+              "canonicalOutcome": "UNDER",
+              "rawName": "Moins de 2,5",
+              "odds": 1.5,
+              "isActive": true,
+              "selectionId": "2258891854",
+              "line": 2.5
+            }
+          ],
+          "marketId": "261|total=2.5"
+        },
+        {
+          "canonicalMarket": "AWAY_OVER_UNDER",
+          "rawName": "Nombre de runs de Yokohama BayStars",
+          "period": "FULL_TIME",
+          "line": 3.5,
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OVER",
+              "rawName": "Plus de 3,5",
+              "odds": 2.95,
+              "isActive": true,
+              "selectionId": "2258891855",
+              "line": 3.5
+            },
+            {
+              "canonicalOutcome": "UNDER",
+              "rawName": "Moins de 3,5",
+              "odds": 1.26,
+              "isActive": true,
+              "selectionId": "2258891856",
+              "line": 3.5
+            }
+          ],
+          "marketId": "261|total=3.5"
+        },
+        {
+          "canonicalMarket": "HOME_OVER_UNDER",
+          "rawName": "Nombre de runs de Fukuoka Hawks",
+          "period": "FULL_TIME",
+          "line": 2.5,
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OVER",
+              "rawName": "Plus de 2,5",
+              "odds": 1.42,
+              "isActive": true,
+              "selectionId": "2258891860",
+              "line": 2.5
+            },
+            {
+              "canonicalOutcome": "UNDER",
+              "rawName": "Moins de 2,5",
+              "odds": 2.25,
+              "isActive": true,
+              "selectionId": "2258891861",
+              "line": 2.5
+            }
+          ],
+          "marketId": "260|total=2.5"
+        },
+        {
+          "canonicalMarket": "HOME_OVER_UNDER",
+          "rawName": "Nombre de runs de Fukuoka Hawks",
+          "period": "FULL_TIME",
+          "line": 3.5,
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OVER",
+              "rawName": "Plus de 3,5",
+              "odds": 1.84,
+              "isActive": true,
+              "selectionId": "2258891862",
+              "line": 3.5
+            },
+            {
+              "canonicalOutcome": "UNDER",
+              "rawName": "Moins de 3,5",
+              "odds": 1.64,
+              "isActive": true,
+              "selectionId": "2258891863",
+              "line": 3.5
+            }
+          ],
+          "marketId": "260|total=3.5"
+        },
+        {
+          "canonicalMarket": "HOME_OVER_UNDER",
+          "rawName": "Nombre de runs de Fukuoka Hawks",
+          "period": "FULL_TIME",
+          "line": 4.5,
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OVER",
+              "rawName": "Plus de 4,5",
+              "odds": 2.5,
+              "isActive": true,
+              "selectionId": "2258891864",
+              "line": 4.5
+            },
+            {
+              "canonicalOutcome": "UNDER",
+              "rawName": "Moins de 4,5",
+              "odds": 1.35,
+              "isActive": true,
+              "selectionId": "2258891865",
+              "line": 4.5
+            }
+          ],
+          "marketId": "260|total=4.5"
+        },
+        {
+          "canonicalMarket": "ASIAN_HANDICAP",
+          "rawName": "Écart de runs (handicap)",
+          "period": "FULL_TIME",
+          "line": -3.5,
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Fukuoka Hawks -3.5",
+              "odds": 3.4,
+              "isActive": true,
+              "selectionId": "2258891866",
+              "line": -3.5
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Yokohama BayStars +3.5",
+              "odds": 1.2,
+              "isActive": true,
+              "selectionId": "2258891867",
+              "line": -3.5
+            }
+          ],
+          "marketId": "256|hcp=-3.5"
+        },
+        {
+          "canonicalMarket": "ASIAN_HANDICAP",
+          "rawName": "Écart de runs (handicap)",
+          "period": "FULL_TIME",
+          "line": -2.5,
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Fukuoka Hawks -2.5",
+              "odds": 2.5,
+              "isActive": true,
+              "selectionId": "2258891868",
+              "line": -2.5
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Yokohama BayStars +2.5",
+              "odds": 1.34,
+              "isActive": true,
+              "selectionId": "2258891869",
+              "line": -2.5
+            }
+          ],
+          "marketId": "256|hcp=-2.5"
+        },
+        {
+          "canonicalMarket": "ASIAN_HANDICAP",
+          "rawName": "Écart de runs (handicap)",
+          "period": "FULL_TIME",
+          "line": -1.5,
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Fukuoka Hawks -1.5",
+              "odds": 1.9,
+              "isActive": true,
+              "selectionId": "2258891870",
+              "line": -1.5
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Yokohama BayStars +1.5",
+              "odds": 1.6,
+              "isActive": true,
+              "selectionId": "2258891871",
+              "line": -1.5
+            }
+          ],
+          "marketId": "256|hcp=-1.5"
+        },
+        {
+          "canonicalMarket": "OVER_UNDER",
+          "rawName": "Nombre de runs",
+          "period": "FULL_TIME",
+          "line": 4.5,
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OVER",
+              "rawName": "Plus de 4,5",
+              "odds": 1.34,
+              "isActive": true,
+              "selectionId": "2258891872",
+              "line": 4.5
+            },
+            {
+              "canonicalOutcome": "UNDER",
+              "rawName": "Moins de 4,5",
+              "odds": 2.5,
+              "isActive": true,
+              "selectionId": "2258891873",
+              "line": 4.5
+            }
+          ],
+          "marketId": "258|total=4.5"
+        },
+        {
+          "canonicalMarket": "OVER_UNDER",
+          "rawName": "Nombre de runs",
+          "period": "FULL_TIME",
+          "line": 5.5,
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OVER",
+              "rawName": "Plus de 5,5",
+              "odds": 1.66,
+              "isActive": true,
+              "selectionId": "2258891874",
+              "line": 5.5
+            },
+            {
+              "canonicalOutcome": "UNDER",
+              "rawName": "Moins de 5,5",
+              "odds": 1.82,
+              "isActive": true,
+              "selectionId": "2258891875",
+              "line": 5.5
+            }
+          ],
+          "marketId": "258|total=5.5"
+        },
+        {
+          "canonicalMarket": "OVER_UNDER",
+          "rawName": "Nombre de runs",
+          "period": "FULL_TIME",
+          "line": 6.5,
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OVER",
+              "rawName": "Plus de 6,5",
+              "odds": 1.96,
+              "isActive": true,
+              "selectionId": "2258891876",
+              "line": 6.5
+            },
+            {
+              "canonicalOutcome": "UNDER",
+              "rawName": "Moins de 6,5",
+              "odds": 1.56,
+              "isActive": true,
+              "selectionId": "2258891877",
+              "line": 6.5
+            }
+          ],
+          "marketId": "258|total=6.5"
+        },
+        {
+          "canonicalMarket": "OVER_UNDER",
+          "rawName": "Nombre de runs",
+          "period": "FULL_TIME",
+          "line": 7.5,
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OVER",
+              "rawName": "Plus de 7,5",
+              "odds": 2.6,
+              "isActive": true,
+              "selectionId": "2258891878",
+              "line": 7.5
+            },
+            {
+              "canonicalOutcome": "UNDER",
+              "rawName": "Moins de 7,5",
+              "odds": 1.33,
+              "isActive": true,
+              "selectionId": "2258891879",
+              "line": 7.5
+            }
+          ],
+          "marketId": "258|total=7.5"
+        },
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "1er manche - Résultat",
+          "period": "FIRST_INNING",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Fukuoka Hawks",
+              "odds": 3.3,
+              "isActive": true,
+              "selectionId": "2258891882"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 1.43,
+              "isActive": true,
+              "selectionId": "2258891883"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Yokohama BayStars",
+              "odds": 5.6,
+              "isActive": true,
+              "selectionId": "2258891884"
+            }
+          ],
+          "marketId": "287|inningnr=1"
+        },
+        {
+          "canonicalMarket": "OVER_UNDER",
+          "rawName": "1er manche - Nombre de runs",
+          "period": "FIRST_INNING",
+          "line": 0.5,
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OVER",
+              "rawName": "Plus de 0,5",
+              "odds": 2.15,
+              "isActive": true,
+              "selectionId": "2258891891",
+              "line": 0.5
+            },
+            {
+              "canonicalOutcome": "UNDER",
+              "rawName": "Moins de 0,5",
+              "odds": 1.47,
+              "isActive": true,
+              "selectionId": "2258891892",
+              "line": 0.5
+            }
+          ],
+          "marketId": "288|inningnr=1|total=0.5"
+        },
+        {
+          "canonicalMarket": "OVER_UNDER",
+          "rawName": "1er manche - Nombre de runs",
+          "period": "FIRST_INNING",
+          "line": 1.5,
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OVER",
+              "rawName": "Plus de 1,5",
+              "odds": 3.95,
+              "isActive": true,
+              "selectionId": "2258891893",
+              "line": 1.5
+            },
+            {
+              "canonicalOutcome": "UNDER",
+              "rawName": "Moins de 1,5",
+              "odds": 1.15,
+              "isActive": true,
+              "selectionId": "2258891894",
+              "line": 1.5
+            }
+          ],
+          "marketId": "288|inningnr=1|total=1.5"
+        },
+        {
+          "canonicalMarket": "OVER_UNDER",
+          "rawName": "1er manche - Nombre de runs",
+          "period": "FIRST_INNING",
+          "line": 2.5,
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OVER",
+              "rawName": "Plus de 2,5",
+              "odds": 7.25,
+              "isActive": true,
+              "selectionId": "2258891895",
+              "line": 2.5
+            },
+            {
+              "canonicalOutcome": "UNDER",
+              "rawName": "Moins de 2,5",
+              "odds": 1.04,
+              "isActive": true,
+              "selectionId": "2258891896",
+              "line": 2.5
+            }
+          ],
+          "marketId": "288|inningnr=1|total=2.5"
+        },
+        {
+          "canonicalMarket": "OTHER",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Fukuoka Hawks",
+              "odds": 1.54,
+              "isActive": true,
+              "selectionId": "2258891909"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Match nul",
+              "odds": 7,
+              "isActive": true,
+              "selectionId": "2258891910"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Yokohama BayStars",
+              "odds": 2.9,
+              "isActive": true,
+              "selectionId": "2258891911"
+            }
+          ],
+          "marketId": "1|"
+        },
+        {
+          "canonicalMarket": "OVER_UNDER",
+          "rawName": "Nombre de runs",
+          "period": "FULL_TIME",
+          "line": 3.5,
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OVER",
+              "rawName": "Plus de 3,5",
+              "odds": 1.21,
+              "isActive": true,
+              "selectionId": "2258892102",
+              "line": 3.5
+            },
+            {
+              "canonicalOutcome": "UNDER",
+              "rawName": "Moins de 3,5",
+              "odds": 3.35,
+              "isActive": true,
+              "selectionId": "2258892103",
+              "line": 3.5
+            }
+          ],
+          "marketId": "258|total=3.5"
+        },
+        {
+          "canonicalMarket": "OTHER",
+          "rawName": "Vainqueur et nombre de runs",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Fukuoka Hawks et plus de 5,5",
+              "odds": 2.4,
+              "isActive": true,
+              "selectionId": "2258892106"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Fukuoka Hawks et moins de 5,5",
+              "odds": 2.6,
+              "isActive": true,
+              "selectionId": "2258892104"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Yokohama BayStars et plus de 5,5",
+              "odds": 4.2,
+              "isActive": true,
+              "selectionId": "2258892107"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Yokohama BayStars et moins de 5,5",
+              "odds": 4.8,
+              "isActive": true,
+              "selectionId": "2258892105"
+            }
+          ],
+          "marketId": "1067|total=5.5"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/75719578",
+        "tournamentId": 20546,
+        "srTournamentId": "sr:tournament:1036",
+        "round": "Finale"
+      },
+      "slug": "/paris-sportifs/match/75719578",
+      "sport": "baseball",
+      "startTime": "2026-10-27T09:00:00.000Z",
+      "updatedAt": "2026-10-27T07:49:22.337Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "baseball",
+      "_last_updated": "2026-10-27T07:50:56.592511+00:00"
+    },
+    {
+      "eventId": "76034950",
+      "away": "KIA Tigers",
+      "country": "Corée du Sud",
+      "home": "Samsung Lions",
+      "league": "KBO",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Vainqueur",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Samsung Lions",
+              "odds": 2.2,
+              "isActive": true,
+              "selectionId": "2257135444"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "KIA Tigers",
+              "odds": 1.5,
+              "isActive": true,
+              "selectionId": "2257135445"
+            }
+          ],
+          "marketId": "251|"
+        },
+        {
+          "canonicalMarket": "AWAY_OVER_UNDER",
+          "rawName": "Nombre de runs de KIA Tigers",
+          "period": "FULL_TIME",
+          "line": 3.5,
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OVER",
+              "rawName": "Plus de 3,5",
+              "odds": 1.44,
+              "isActive": true,
+              "selectionId": "2257140026",
+              "line": 3.5
+            },
+            {
+              "canonicalOutcome": "UNDER",
+              "rawName": "Moins de 3,5",
+              "odds": 2.2,
+              "isActive": true,
+              "selectionId": "2257140027",
+              "line": 3.5
+            }
+          ],
+          "marketId": "261|total=3.5"
+        },
+        {
+          "canonicalMarket": "AWAY_OVER_UNDER",
+          "rawName": "Nombre de runs de KIA Tigers",
+          "period": "FULL_TIME",
+          "line": 4.5,
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OVER",
+              "rawName": "Plus de 4,5",
+              "odds": 1.74,
+              "isActive": true,
+              "selectionId": "2257140028",
+              "line": 4.5
+            },
+            {
+              "canonicalOutcome": "UNDER",
+              "rawName": "Moins de 4,5",
+              "odds": 1.72,
+              "isActive": true,
+              "selectionId": "2257140029",
+              "line": 4.5
+            }
+          ],
+          "marketId": "261|total=4.5"
+        },
+        {
+          "canonicalMarket": "AWAY_OVER_UNDER",
+          "rawName": "Nombre de runs de KIA Tigers",
+          "period": "FULL_TIME",
+          "line": 5.5,
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OVER",
+              "rawName": "Plus de 5,5",
+              "odds": 2.2,
+              "isActive": true,
+              "selectionId": "2257140030",
+              "line": 5.5
+            },
+            {
+              "canonicalOutcome": "UNDER",
+              "rawName": "Moins de 5,5",
+              "odds": 1.44,
+              "isActive": true,
+              "selectionId": "2257140031",
+              "line": 5.5
+            }
+          ],
+          "marketId": "261|total=5.5"
+        },
+        {
+          "canonicalMarket": "HOME_OVER_UNDER",
+          "rawName": "Nombre de runs de Samsung Lions",
+          "period": "FULL_TIME",
+          "line": 2.5,
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OVER",
+              "rawName": "Plus de 2,5",
+              "odds": 1.47,
+              "isActive": true,
+              "selectionId": "2257140035",
+              "line": 2.5
+            },
+            {
+              "canonicalOutcome": "UNDER",
+              "rawName": "Moins de 2,5",
+              "odds": 2.15,
+              "isActive": true,
+              "selectionId": "2257140036",
+              "line": 2.5
+            }
+          ],
+          "marketId": "260|total=2.5"
+        },
+        {
+          "canonicalMarket": "HOME_OVER_UNDER",
+          "rawName": "Nombre de runs de Samsung Lions",
+          "period": "FULL_TIME",
+          "line": 3.5,
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OVER",
+              "rawName": "Plus de 3,5",
+              "odds": 1.9,
+              "isActive": true,
+              "selectionId": "2257140037",
+              "line": 3.5
+            },
+            {
+              "canonicalOutcome": "UNDER",
+              "rawName": "Moins de 3,5",
+              "odds": 1.6,
+              "isActive": true,
+              "selectionId": "2257140038",
+              "line": 3.5
+            }
+          ],
+          "marketId": "260|total=3.5"
+        },
+        {
+          "canonicalMarket": "HOME_OVER_UNDER",
+          "rawName": "Nombre de runs de Samsung Lions",
+          "period": "FULL_TIME",
+          "line": 4.5,
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OVER",
+              "rawName": "Plus de 4,5",
+              "odds": 2.6,
+              "isActive": true,
+              "selectionId": "2257140039",
+              "line": 4.5
+            },
+            {
+              "canonicalOutcome": "UNDER",
+              "rawName": "Moins de 4,5",
+              "odds": 1.32,
+              "isActive": true,
+              "selectionId": "2257140040",
+              "line": 4.5
+            }
+          ],
+          "marketId": "260|total=4.5"
+        },
+        {
+          "canonicalMarket": "ASIAN_HANDICAP",
+          "rawName": "Écart de runs (handicap)",
+          "period": "FULL_TIME",
+          "line": 1.5,
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Samsung Lions +1.5",
+              "odds": 1.66,
+              "isActive": true,
+              "selectionId": "2257140041",
+              "line": 1.5
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "KIA Tigers -1.5",
+              "odds": 1.82,
+              "isActive": true,
+              "selectionId": "2257140042",
+              "line": 1.5
+            }
+          ],
+          "marketId": "256|hcp=1.5"
+        },
+        {
+          "canonicalMarket": "ASIAN_HANDICAP",
+          "rawName": "Écart de runs (handicap)",
+          "period": "FULL_TIME",
+          "line": 2.5,
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Samsung Lions +2.5",
+              "odds": 1.42,
+              "isActive": true,
+              "selectionId": "2257140043",
+              "line": 2.5
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "KIA Tigers -2.5",
+              "odds": 2.25,
+              "isActive": true,
+              "selectionId": "2257140044",
+              "line": 2.5
+            }
+          ],
+          "marketId": "256|hcp=2.5"
+        },
+        {
+          "canonicalMarket": "ASIAN_HANDICAP",
+          "rawName": "Écart de runs (handicap)",
+          "period": "FULL_TIME",
+          "line": 3.5,
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Samsung Lions +3.5",
+              "odds": 1.27,
+              "isActive": true,
+              "selectionId": "2257140045",
+              "line": 3.5
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "KIA Tigers -3.5",
+              "odds": 2.9,
+              "isActive": true,
+              "selectionId": "2257140046",
+              "line": 3.5
+            }
+          ],
+          "marketId": "256|hcp=3.5"
+        },
+        {
+          "canonicalMarket": "OVER_UNDER",
+          "rawName": "Nombre de runs",
+          "period": "FULL_TIME",
+          "line": 9.5,
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OVER",
+              "rawName": "Plus de 9,5",
+              "odds": 2.3,
+              "isActive": true,
+              "selectionId": "2257140047",
+              "line": 9.5
+            },
+            {
+              "canonicalOutcome": "UNDER",
+              "rawName": "Moins de 9,5",
+              "odds": 1.41,
+              "isActive": true,
+              "selectionId": "2257140048",
+              "line": 9.5
+            }
+          ],
+          "marketId": "258|total=9.5"
+        },
+        {
+          "canonicalMarket": "OVER_UNDER",
+          "rawName": "Nombre de runs",
+          "period": "FULL_TIME",
+          "line": 10.5,
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OVER",
+              "rawName": "Plus de 10,5",
+              "odds": 2.75,
+              "isActive": true,
+              "selectionId": "2257140049",
+              "line": 10.5
+            },
+            {
+              "canonicalOutcome": "UNDER",
+              "rawName": "Moins de 10,5",
+              "odds": 1.29,
+              "isActive": true,
+              "selectionId": "2257140050",
+              "line": 10.5
+            }
+          ],
+          "marketId": "258|total=10.5"
+        },
+        {
+          "canonicalMarket": "OVER_UNDER",
+          "rawName": "Nombre de runs",
+          "period": "FULL_TIME",
+          "line": 6.5,
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OVER",
+              "rawName": "Plus de 6,5",
+              "odds": 1.35,
+              "isActive": true,
+              "selectionId": "2257140051",
+              "line": 6.5
+            },
+            {
+              "canonicalOutcome": "UNDER",
+              "rawName": "Moins de 6,5",
+              "odds": 2.45,
+              "isActive": true,
+              "selectionId": "2257140052",
+              "line": 6.5
+            }
+          ],
+          "marketId": "258|total=6.5"
+        },
+        {
+          "canonicalMarket": "OVER_UNDER",
+          "rawName": "Nombre de runs",
+          "period": "FULL_TIME",
+          "line": 7.5,
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OVER",
+              "rawName": "Plus de 7,5",
+              "odds": 1.6,
+              "isActive": true,
+              "selectionId": "2257140053",
+              "line": 7.5
+            },
+            {
+              "canonicalOutcome": "UNDER",
+              "rawName": "Moins de 7,5",
+              "odds": 1.9,
+              "isActive": true,
+              "selectionId": "2257140054",
+              "line": 7.5
+            }
+          ],
+          "marketId": "258|total=7.5"
+        },
+        {
+          "canonicalMarket": "OVER_UNDER",
+          "rawName": "Nombre de runs",
+          "period": "FULL_TIME",
+          "line": 8.5,
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OVER",
+              "rawName": "Plus de 8,5",
+              "odds": 1.84,
+              "isActive": true,
+              "selectionId": "2257140055",
+              "line": 8.5
+            },
+            {
+              "canonicalOutcome": "UNDER",
+              "rawName": "Moins de 8,5",
+              "odds": 1.64,
+              "isActive": true,
+              "selectionId": "2257140056",
+              "line": 8.5
+            }
+          ],
+          "marketId": "258|total=8.5"
+        },
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "1er manche - Résultat",
+          "period": "FIRST_INNING",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Samsung Lions",
+              "odds": 4.1,
+              "isActive": true,
+              "selectionId": "2257140057"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 1.6,
+              "isActive": true,
+              "selectionId": "2257140058"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "KIA Tigers",
+              "odds": 3.15,
+              "isActive": true,
+              "selectionId": "2257140059"
+            }
+          ],
+          "marketId": "287|inningnr=1"
+        },
+        {
+          "canonicalMarket": "OVER_UNDER",
+          "rawName": "1er manche - Nombre de runs",
+          "period": "FIRST_INNING",
+          "line": 0.5,
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OVER",
+              "rawName": "Plus de 0,5",
+              "odds": 1.8,
+              "isActive": true,
+              "selectionId": "2257140062",
+              "line": 0.5
+            },
+            {
+              "canonicalOutcome": "UNDER",
+              "rawName": "Moins de 0,5",
+              "odds": 1.66,
+              "isActive": true,
+              "selectionId": "2257140063",
+              "line": 0.5
+            }
+          ],
+          "marketId": "288|inningnr=1|total=0.5"
+        },
+        {
+          "canonicalMarket": "OVER_UNDER",
+          "rawName": "1er manche - Nombre de runs",
+          "period": "FIRST_INNING",
+          "line": 1.5,
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OVER",
+              "rawName": "Plus de 1,5",
+              "odds": 3.05,
+              "isActive": true,
+              "selectionId": "2257140064",
+              "line": 1.5
+            },
+            {
+              "canonicalOutcome": "UNDER",
+              "rawName": "Moins de 1,5",
+              "odds": 1.25,
+              "isActive": true,
+              "selectionId": "2257140065",
+              "line": 1.5
+            }
+          ],
+          "marketId": "288|inningnr=1|total=1.5"
+        },
+        {
+          "canonicalMarket": "OVER_UNDER",
+          "rawName": "1er manche - Nombre de runs",
+          "period": "FIRST_INNING",
+          "line": 2.5,
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OVER",
+              "rawName": "Plus de 2,5",
+              "odds": 5.4,
+              "isActive": true,
+              "selectionId": "2257140066",
+              "line": 2.5
+            },
+            {
+              "canonicalOutcome": "UNDER",
+              "rawName": "Moins de 2,5",
+              "odds": 1.08,
+              "isActive": true,
+              "selectionId": "2257140067",
+              "line": 2.5
+            }
+          ],
+          "marketId": "288|inningnr=1|total=2.5"
+        },
+        {
+          "canonicalMarket": "OTHER",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Samsung Lions",
+              "odds": 2.45,
+              "isActive": true,
+              "selectionId": "2257140080"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Match nul",
+              "odds": 8.5,
+              "isActive": true,
+              "selectionId": "2257140081"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "KIA Tigers",
+              "odds": 1.64,
+              "isActive": true,
+              "selectionId": "2257140082"
+            }
+          ],
+          "marketId": "1|"
+        },
+        {
+          "canonicalMarket": "OTHER",
+          "rawName": "Y aura-t-il une manche supplémentaire ?",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "YES",
+              "rawName": "Oui",
+              "odds": 7.5,
+              "isActive": true,
+              "selectionId": "2257140083"
+            },
+            {
+              "canonicalOutcome": "NO",
+              "rawName": "Non",
+              "odds": 1.04,
+              "isActive": true,
+              "selectionId": "2257140084"
+            }
+          ],
+          "marketId": "268|"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/76034950",
+        "tournamentId": 50994,
+        "srTournamentId": "sr:tournament:2541"
+      },
+      "slug": "/paris-sportifs/match/76034950",
+      "sport": "baseball",
+      "startTime": "2026-10-27T09:30:00.000Z",
+      "updatedAt": "2026-10-27T07:49:21.419Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "baseball",
+      "_last_updated": "2026-10-27T07:50:56.592511+00:00"
+    },
     {
       "eventId": "75508966",
       "away": "Al-Faisaly",
@@ -429087,6 +430242,1616 @@
       "_source": "Winamax",
       "_pulscore_sport": "soccer",
       "_last_updated": "2026-10-27T01:28:27.892349+00:00"
+    },
+    {
+      "eventId": "75060812",
+      "away": "Milwaukee Brewers",
+      "country": "États-Unis",
+      "home": "Tampa Bay Rays",
+      "league": "MLB",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Vainqueur",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Tampa Bay Rays",
+              "odds": 2.05,
+              "isActive": true,
+              "selectionId": "2258431614"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Milwaukee Brewers",
+              "odds": 1.66,
+              "isActive": true,
+              "selectionId": "2258431615"
+            }
+          ],
+          "marketId": "251|"
+        },
+        {
+          "canonicalMarket": "ASIAN_HANDICAP",
+          "rawName": "Écart de runs (handicap)",
+          "period": "FULL_TIME",
+          "line": 1.5,
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Tampa Bay Rays +1.5",
+              "odds": 1.5,
+              "isActive": true,
+              "selectionId": "2258431812",
+              "line": 1.5
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Milwaukee Brewers -1.5",
+              "odds": 2.05,
+              "isActive": true,
+              "selectionId": "2258431813",
+              "line": 1.5
+            }
+          ],
+          "marketId": "256|hcp=1.5"
+        },
+        {
+          "canonicalMarket": "ASIAN_HANDICAP",
+          "rawName": "Écart de runs (handicap)",
+          "period": "FULL_TIME",
+          "line": 2.5,
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Tampa Bay Rays +2.5",
+              "odds": 1.3,
+              "isActive": true,
+              "selectionId": "2258431814",
+              "line": 2.5
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Milwaukee Brewers -2.5",
+              "odds": 2.7,
+              "isActive": true,
+              "selectionId": "2258431815",
+              "line": 2.5
+            }
+          ],
+          "marketId": "256|hcp=2.5"
+        },
+        {
+          "canonicalMarket": "ASIAN_HANDICAP",
+          "rawName": "Écart de runs (handicap)",
+          "period": "FULL_TIME",
+          "line": 3.5,
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Tampa Bay Rays +3.5",
+              "odds": 1.18,
+              "isActive": true,
+              "selectionId": "2258431816",
+              "line": 3.5
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Milwaukee Brewers -3.5",
+              "odds": 3.6,
+              "isActive": true,
+              "selectionId": "2258431817",
+              "line": 3.5
+            }
+          ],
+          "marketId": "256|hcp=3.5"
+        },
+        {
+          "canonicalMarket": "OVER_UNDER",
+          "rawName": "Nombre de runs",
+          "period": "FULL_TIME",
+          "line": 5.5,
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OVER",
+              "rawName": "Plus de 5,5",
+              "odds": 1.44,
+              "isActive": true,
+              "selectionId": "2258431820",
+              "line": 5.5
+            },
+            {
+              "canonicalOutcome": "UNDER",
+              "rawName": "Moins de 5,5",
+              "odds": 2.35,
+              "isActive": true,
+              "selectionId": "2258431821",
+              "line": 5.5
+            }
+          ],
+          "marketId": "258|total=5.5"
+        },
+        {
+          "canonicalMarket": "OVER_UNDER",
+          "rawName": "Nombre de runs",
+          "period": "FULL_TIME",
+          "line": 6.5,
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OVER",
+              "rawName": "Plus de 6,5",
+              "odds": 1.64,
+              "isActive": true,
+              "selectionId": "2258431822",
+              "line": 6.5
+            },
+            {
+              "canonicalOutcome": "UNDER",
+              "rawName": "Moins de 6,5",
+              "odds": 1.96,
+              "isActive": true,
+              "selectionId": "2258431823",
+              "line": 6.5
+            }
+          ],
+          "marketId": "258|total=6.5"
+        },
+        {
+          "canonicalMarket": "OVER_UNDER",
+          "rawName": "Nombre de runs",
+          "period": "FULL_TIME",
+          "line": 7.5,
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OVER",
+              "rawName": "Plus de 7,5",
+              "odds": 2.05,
+              "isActive": true,
+              "selectionId": "2258431824",
+              "line": 7.5
+            },
+            {
+              "canonicalOutcome": "UNDER",
+              "rawName": "Moins de 7,5",
+              "odds": 1.58,
+              "isActive": true,
+              "selectionId": "2258431825",
+              "line": 7.5
+            }
+          ],
+          "marketId": "258|total=7.5"
+        },
+        {
+          "canonicalMarket": "OVER_UNDER",
+          "rawName": "Nombre de runs",
+          "period": "FULL_TIME",
+          "line": 8.5,
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OVER",
+              "rawName": "Plus de 8,5",
+              "odds": 2.45,
+              "isActive": true,
+              "selectionId": "2258431826",
+              "line": 8.5
+            },
+            {
+              "canonicalOutcome": "UNDER",
+              "rawName": "Moins de 8,5",
+              "odds": 1.42,
+              "isActive": true,
+              "selectionId": "2258431827",
+              "line": 8.5
+            }
+          ],
+          "marketId": "258|total=8.5"
+        },
+        {
+          "canonicalMarket": "OTHER",
+          "rawName": "Y aura-t-il une manche supplémentaire ?",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "YES",
+              "rawName": "Oui",
+              "odds": 6.5,
+              "isActive": true,
+              "selectionId": "2258431834"
+            },
+            {
+              "canonicalOutcome": "NO",
+              "rawName": "Non",
+              "odds": 1.05,
+              "isActive": true,
+              "selectionId": "2258431835"
+            }
+          ],
+          "marketId": "268|"
+        },
+        {
+          "canonicalMarket": "AWAY_OVER_UNDER",
+          "rawName": "Nombre de runs de Milwaukee Brewers",
+          "period": "FULL_TIME",
+          "line": 2.5,
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OVER",
+              "rawName": "Plus de 2,5",
+              "odds": 1.38,
+              "isActive": true,
+              "selectionId": "2258431836",
+              "line": 2.5
+            },
+            {
+              "canonicalOutcome": "UNDER",
+              "rawName": "Moins de 2,5",
+              "odds": 2.35,
+              "isActive": true,
+              "selectionId": "2258431837",
+              "line": 2.5
+            }
+          ],
+          "marketId": "261|total=2.5"
+        },
+        {
+          "canonicalMarket": "AWAY_OVER_UNDER",
+          "rawName": "Nombre de runs de Milwaukee Brewers",
+          "period": "FULL_TIME",
+          "line": 3.5,
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OVER",
+              "rawName": "Plus de 3,5",
+              "odds": 1.72,
+              "isActive": true,
+              "selectionId": "2258431838",
+              "line": 3.5
+            },
+            {
+              "canonicalOutcome": "UNDER",
+              "rawName": "Moins de 3,5",
+              "odds": 1.74,
+              "isActive": true,
+              "selectionId": "2258431839",
+              "line": 3.5
+            }
+          ],
+          "marketId": "261|total=3.5"
+        },
+        {
+          "canonicalMarket": "AWAY_OVER_UNDER",
+          "rawName": "Nombre de runs de Milwaukee Brewers",
+          "period": "FULL_TIME",
+          "line": 4.5,
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OVER",
+              "rawName": "Plus de 4,5",
+              "odds": 2.2,
+              "isActive": true,
+              "selectionId": "2258431840",
+              "line": 4.5
+            },
+            {
+              "canonicalOutcome": "UNDER",
+              "rawName": "Moins de 4,5",
+              "odds": 1.43,
+              "isActive": true,
+              "selectionId": "2258431841",
+              "line": 4.5
+            }
+          ],
+          "marketId": "261|total=4.5"
+        },
+        {
+          "canonicalMarket": "HOME_OVER_UNDER",
+          "rawName": "Nombre de runs de Tampa Bay Rays",
+          "period": "FULL_TIME",
+          "line": 2.5,
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OVER",
+              "rawName": "Plus de 2,5",
+              "odds": 1.56,
+              "isActive": true,
+              "selectionId": "2258431842",
+              "line": 2.5
+            },
+            {
+              "canonicalOutcome": "UNDER",
+              "rawName": "Moins de 2,5",
+              "odds": 1.94,
+              "isActive": true,
+              "selectionId": "2258431843",
+              "line": 2.5
+            }
+          ],
+          "marketId": "260|total=2.5"
+        },
+        {
+          "canonicalMarket": "HOME_OVER_UNDER",
+          "rawName": "Nombre de runs de Tampa Bay Rays",
+          "period": "FULL_TIME",
+          "line": 3.5,
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OVER",
+              "rawName": "Plus de 3,5",
+              "odds": 2.1,
+              "isActive": true,
+              "selectionId": "2258431844",
+              "line": 3.5
+            },
+            {
+              "canonicalOutcome": "UNDER",
+              "rawName": "Moins de 3,5",
+              "odds": 1.49,
+              "isActive": true,
+              "selectionId": "2258431845",
+              "line": 3.5
+            }
+          ],
+          "marketId": "260|total=3.5"
+        },
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "1er manche - Résultat",
+          "period": "FIRST_INNING",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Tampa Bay Rays",
+              "odds": 4,
+              "isActive": true,
+              "selectionId": "2258431848"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 1.5,
+              "isActive": true,
+              "selectionId": "2258431849"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Milwaukee Brewers",
+              "odds": 3.75,
+              "isActive": true,
+              "selectionId": "2258431850"
+            }
+          ],
+          "marketId": "287|inningnr=1"
+        },
+        {
+          "canonicalMarket": "OVER_UNDER",
+          "rawName": "1er manche - Nombre de runs",
+          "period": "FIRST_INNING",
+          "line": 0.5,
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OVER",
+              "rawName": "Plus de 0,5",
+              "odds": 1.98,
+              "isActive": true,
+              "selectionId": "2258431851",
+              "line": 0.5
+            },
+            {
+              "canonicalOutcome": "UNDER",
+              "rawName": "Moins de 0,5",
+              "odds": 1.54,
+              "isActive": true,
+              "selectionId": "2258431852",
+              "line": 0.5
+            }
+          ],
+          "marketId": "288|inningnr=1|total=0.5"
+        },
+        {
+          "canonicalMarket": "OVER_UNDER",
+          "rawName": "1er manche - Nombre de runs",
+          "period": "FIRST_INNING",
+          "line": 1.5,
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OVER",
+              "rawName": "Plus de 1,5",
+              "odds": 3.6,
+              "isActive": true,
+              "selectionId": "2258431853",
+              "line": 1.5
+            },
+            {
+              "canonicalOutcome": "UNDER",
+              "rawName": "Moins de 1,5",
+              "odds": 1.18,
+              "isActive": true,
+              "selectionId": "2258431854",
+              "line": 1.5
+            }
+          ],
+          "marketId": "288|inningnr=1|total=1.5"
+        },
+        {
+          "canonicalMarket": "OVER_UNDER",
+          "rawName": "1er manche - Nombre de runs",
+          "period": "FIRST_INNING",
+          "line": 2.5,
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OVER",
+              "rawName": "Plus de 2,5",
+              "odds": 6.25,
+              "isActive": true,
+              "selectionId": "2258431855",
+              "line": 2.5
+            },
+            {
+              "canonicalOutcome": "UNDER",
+              "rawName": "Moins de 2,5",
+              "odds": 1.06,
+              "isActive": true,
+              "selectionId": "2258431856",
+              "line": 2.5
+            }
+          ],
+          "marketId": "288|inningnr=1|total=2.5"
+        },
+        {
+          "canonicalMarket": "OTHER",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Tampa Bay Rays",
+              "odds": 2.3,
+              "isActive": true,
+              "selectionId": "2258431869"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Match nul",
+              "odds": 7.5,
+              "isActive": true,
+              "selectionId": "2258431870"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Milwaukee Brewers",
+              "odds": 1.84,
+              "isActive": true,
+              "selectionId": "2258431871"
+            }
+          ],
+          "marketId": "1|"
+        },
+        {
+          "canonicalMarket": "OVER_UNDER",
+          "rawName": "Nombre de runs",
+          "period": "FULL_TIME",
+          "line": 4.5,
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OVER",
+              "rawName": "Plus de 4,5",
+              "odds": 1.23,
+              "isActive": true,
+              "selectionId": "2258444609",
+              "line": 4.5
+            },
+            {
+              "canonicalOutcome": "UNDER",
+              "rawName": "Moins de 4,5",
+              "odds": 3.5,
+              "isActive": true,
+              "selectionId": "2258444610",
+              "line": 4.5
+            }
+          ],
+          "marketId": "258|total=4.5"
+        },
+        {
+          "canonicalMarket": "OTHER",
+          "rawName": "Vainqueur et nombre de runs",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Milwaukee Brewers et plus de 6,5",
+              "odds": 2.6,
+              "isActive": true,
+              "selectionId": "2258444614"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Milwaukee Brewers et moins de 6,5",
+              "odds": 3.45,
+              "isActive": true,
+              "selectionId": "2258444612"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Tampa Bay Rays et plus de 6,5",
+              "odds": 3.5,
+              "isActive": true,
+              "selectionId": "2258444613"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Tampa Bay Rays et moins de 6,5",
+              "odds": 3.7,
+              "isActive": true,
+              "selectionId": "2258444611"
+            }
+          ],
+          "marketId": "1067|total=6.5"
+        },
+        {
+          "canonicalMarket": "HOME_OVER_UNDER",
+          "rawName": "Nombre de runs de Tampa Bay Rays",
+          "period": "FULL_TIME",
+          "line": 1.5,
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OVER",
+              "rawName": "Plus de 1,5",
+              "odds": 1.25,
+              "isActive": true,
+              "selectionId": "2258444615",
+              "line": 1.5
+            },
+            {
+              "canonicalOutcome": "UNDER",
+              "rawName": "Moins de 1,5",
+              "odds": 3.05,
+              "isActive": true,
+              "selectionId": "2258444616",
+              "line": 1.5
+            }
+          ],
+          "marketId": "260|total=1.5"
+        },
+        {
+          "canonicalMarket": "PLAYER_HOME_RUNS",
+          "rawName": "Marqueur de Home Run",
+          "period": "FULL_TIME",
+          "line": 1,
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Christian Yelich",
+              "odds": 10,
+              "isActive": true,
+              "selectionId": "2258922084",
+              "line": 1
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Jakob Bauers",
+              "odds": 6.25,
+              "isActive": true,
+              "selectionId": "2258922091",
+              "line": 1
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Yandy Diaz",
+              "odds": 8.5,
+              "isActive": true,
+              "selectionId": "2258922092",
+              "line": 1
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "William Contreras",
+              "odds": 6,
+              "isActive": true,
+              "selectionId": "2258922095",
+              "line": 1
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Garrett Mitchell",
+              "odds": 10,
+              "isActive": true,
+              "selectionId": "2258922100",
+              "line": 1
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Taylor Walls",
+              "odds": 17.5,
+              "isActive": true,
+              "selectionId": "2258922104",
+              "line": 1
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Liam Hicks",
+              "odds": 15,
+              "isActive": true,
+              "selectionId": "2258922112",
+              "line": 1
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Sal Frelick",
+              "odds": 15,
+              "isActive": true,
+              "selectionId": "2258922113",
+              "line": 1
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Jonathan Aranda",
+              "odds": 8,
+              "isActive": true,
+              "selectionId": "2258922120",
+              "line": 1
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Richie Palacios",
+              "odds": 13,
+              "isActive": true,
+              "selectionId": "2258922121",
+              "line": 1
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "David Hamilton",
+              "odds": 16.5,
+              "isActive": true,
+              "selectionId": "2258922126",
+              "line": 1
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Jonny Deluca",
+              "odds": 11,
+              "isActive": true,
+              "selectionId": "2258922139",
+              "line": 1
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Jackson Chourio",
+              "odds": 5.75,
+              "isActive": true,
+              "selectionId": "2258922140",
+              "line": 1
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Chandler Simpson",
+              "odds": 35,
+              "isActive": true,
+              "selectionId": "2258922142",
+              "line": 1
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Brice Turang",
+              "odds": 9.5,
+              "isActive": true,
+              "selectionId": "2258922144",
+              "line": 1
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Cooper Pratt",
+              "odds": 15,
+              "isActive": true,
+              "selectionId": "2258922153",
+              "line": 1
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Junior Caminero",
+              "odds": 6.25,
+              "isActive": true,
+              "selectionId": "2258922155",
+              "line": 1
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Victor Mesa",
+              "odds": 8.5,
+              "isActive": true,
+              "selectionId": "2258922156",
+              "line": 1
+            }
+          ],
+          "marketId": "782|type=prematch"
+        },
+        {
+          "canonicalMarket": "OTHER",
+          "rawName": "Double chance marqueur de Home Run",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "W. Contreras ou J. Chourio",
+              "odds": 3.45,
+              "isActive": true,
+              "selectionId": "2258925049"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "J. Chourio ou J. Bauers",
+              "odds": 3.5,
+              "isActive": true,
+              "selectionId": "2258925050"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "J. Chourio ou J. Caminero",
+              "odds": 3.5,
+              "isActive": true,
+              "selectionId": "2258925051"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "W. Contreras ou J. Bauers",
+              "odds": 3.6,
+              "isActive": true,
+              "selectionId": "2258925052"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "W. Contreras ou J. Caminero",
+              "odds": 3.6,
+              "isActive": true,
+              "selectionId": "2258925053"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "J. Caminero ou J. Bauers",
+              "odds": 3.65,
+              "isActive": true,
+              "selectionId": "2258925054"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "J. Chourio ou J. Aranda",
+              "odds": 3.85,
+              "isActive": true,
+              "selectionId": "2258925055"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Y. Diaz ou J. Chourio",
+              "odds": 3.95,
+              "isActive": true,
+              "selectionId": "2258925056"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "W. Contreras ou J. Aranda",
+              "odds": 3.95,
+              "isActive": true,
+              "selectionId": "2258925057"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "J. Caminero ou J. Aranda",
+              "odds": 4,
+              "isActive": true,
+              "selectionId": "2258925048"
+            }
+          ],
+          "marketId": "9348|"
+        },
+        {
+          "canonicalMarket": "OTHER",
+          "rawName": "Triple chance marqueur de Home Run",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "W. Contreras ou J. Chourio ou J. Bauers",
+              "odds": 2.55,
+              "isActive": true,
+              "selectionId": "2258925059"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "W. Contreras ou J. Chourio ou J. Caminero",
+              "odds": 2.55,
+              "isActive": true,
+              "selectionId": "2258925060"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "J. Chourio ou J. Caminero ou J. Bauers",
+              "odds": 2.6,
+              "isActive": true,
+              "selectionId": "2258925061"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "W. Contreras ou J. Caminero ou J. Bauers",
+              "odds": 2.65,
+              "isActive": true,
+              "selectionId": "2258925062"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "W. Contreras ou J. Chourio ou J. Aranda",
+              "odds": 2.75,
+              "isActive": true,
+              "selectionId": "2258925063"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "J. Chourio ou J. Aranda ou J. Bauers",
+              "odds": 2.8,
+              "isActive": true,
+              "selectionId": "2258925064"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "W. Contreras ou J. Aranda ou J. Bauers",
+              "odds": 2.85,
+              "isActive": true,
+              "selectionId": "2258925065"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Y. Diaz ou J. Caminero ou J. Aranda",
+              "odds": 3.15,
+              "isActive": true,
+              "selectionId": "2258925058"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "V. Mesa ou J. Caminero ou J. Aranda",
+              "odds": 3.15,
+              "isActive": true,
+              "selectionId": "2258925066"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Y. Diaz ou B. Turang ou V. Mesa",
+              "odds": 3.7,
+              "isActive": true,
+              "selectionId": "2258925067"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Y. Diaz ou V. Mesa ou C. Yelich",
+              "odds": 3.75,
+              "isActive": true,
+              "selectionId": "2258925068"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Y. Diaz ou G. Mitchell ou V. Mesa",
+              "odds": 3.75,
+              "isActive": true,
+              "selectionId": "2258925069"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Y. Diaz ou V. Mesa ou J. Deluca",
+              "odds": 3.85,
+              "isActive": true,
+              "selectionId": "2258925070"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "G. Mitchell ou B. Turang ou C. Yelich",
+              "odds": 4.1,
+              "isActive": true,
+              "selectionId": "2258925071"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "B. Turang ou J. Deluca ou C. Yelich",
+              "odds": 4.2,
+              "isActive": true,
+              "selectionId": "2258925072"
+            }
+          ],
+          "marketId": "9349|"
+        },
+        {
+          "canonicalMarket": "PLAYER_RUNS",
+          "rawName": "Marque 1 runs ou plus",
+          "period": "FULL_TIME",
+          "line": 1,
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Christian Yelich",
+              "odds": 2.55,
+              "isActive": true,
+              "selectionId": "2258925115",
+              "line": 1
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Jakob Bauers",
+              "odds": 2.25,
+              "isActive": true,
+              "selectionId": "2258925122",
+              "line": 1
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Yandy Diaz",
+              "odds": 2.35,
+              "isActive": true,
+              "selectionId": "2258925123",
+              "line": 1
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "William Contreras",
+              "odds": 2.35,
+              "isActive": true,
+              "selectionId": "2258925126",
+              "line": 1
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Garrett Mitchell",
+              "odds": 2.75,
+              "isActive": true,
+              "selectionId": "2258925131",
+              "line": 1
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Taylor Walls",
+              "odds": 3.6,
+              "isActive": true,
+              "selectionId": "2258925135",
+              "line": 1
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Liam Hicks",
+              "odds": 3.4,
+              "isActive": true,
+              "selectionId": "2258925143",
+              "line": 1
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Sal Frelick",
+              "odds": 3.1,
+              "isActive": true,
+              "selectionId": "2258925144",
+              "line": 1
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Jonathan Aranda",
+              "odds": 2.7,
+              "isActive": true,
+              "selectionId": "2258925151",
+              "line": 1
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Richie Palacios",
+              "odds": 3.3,
+              "isActive": true,
+              "selectionId": "2258925152",
+              "line": 1
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "David Hamilton",
+              "odds": 3.6,
+              "isActive": true,
+              "selectionId": "2258925157",
+              "line": 1
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Jonny Deluca",
+              "odds": 3.05,
+              "isActive": true,
+              "selectionId": "2258925170",
+              "line": 1
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Jackson Chourio",
+              "odds": 2,
+              "isActive": true,
+              "selectionId": "2258925171",
+              "line": 1
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Chandler Simpson",
+              "odds": 2.85,
+              "isActive": true,
+              "selectionId": "2258925173",
+              "line": 1
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Brice Turang",
+              "odds": 2.4,
+              "isActive": true,
+              "selectionId": "2258925175",
+              "line": 1
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Cooper Pratt",
+              "odds": 2.8,
+              "isActive": true,
+              "selectionId": "2258925184",
+              "line": 1
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Junior Caminero",
+              "odds": 2.5,
+              "isActive": true,
+              "selectionId": "2258925186",
+              "line": 1
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Victor Mesa",
+              "odds": 3.05,
+              "isActive": true,
+              "selectionId": "2258925187",
+              "line": 1
+            }
+          ],
+          "marketId": "784|total=1"
+        },
+        {
+          "canonicalMarket": "OTHER",
+          "rawName": "Double chance marqueur de runs",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "J. Chourio ou J. Bauers",
+              "odds": 1.39,
+              "isActive": true,
+              "selectionId": "2258926466"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Y. Diaz ou J. Chourio",
+              "odds": 1.41,
+              "isActive": true,
+              "selectionId": "2258926467"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "W. Contreras ou J. Chourio",
+              "odds": 1.41,
+              "isActive": true,
+              "selectionId": "2258926468"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "B. Turang ou J. Chourio",
+              "odds": 1.42,
+              "isActive": true,
+              "selectionId": "2258926469"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "J. Chourio ou J. Caminero",
+              "odds": 1.43,
+              "isActive": true,
+              "selectionId": "2258926470"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Y. Diaz ou J. Bauers",
+              "odds": 1.48,
+              "isActive": true,
+              "selectionId": "2258926471"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "W. Contreras ou J. Bauers",
+              "odds": 1.48,
+              "isActive": true,
+              "selectionId": "2258926472"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "B. Turang ou J. Bauers",
+              "odds": 1.49,
+              "isActive": true,
+              "selectionId": "2258926473"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Y. Diaz ou W. Contreras",
+              "odds": 1.5,
+              "isActive": true,
+              "selectionId": "2258926474"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Y. Diaz ou J. Caminero",
+              "odds": 1.54,
+              "isActive": true,
+              "selectionId": "2258926465"
+            }
+          ],
+          "marketId": "9006|"
+        },
+        {
+          "canonicalMarket": "OTHER",
+          "rawName": "Triple chance marqueur de runs",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "W. Contreras ou J. Chourio ou J. Bauers",
+              "odds": 1.19,
+              "isActive": true,
+              "selectionId": "2258926476"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Y. Diaz ou J. Chourio ou J. Bauers",
+              "odds": 1.19,
+              "isActive": true,
+              "selectionId": "2258926477"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "B. Turang ou J. Chourio ou J. Bauers",
+              "odds": 1.19,
+              "isActive": true,
+              "selectionId": "2258926478"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Y. Diaz ou W. Contreras ou J. Chourio",
+              "odds": 1.2,
+              "isActive": true,
+              "selectionId": "2258926479"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "J. Chourio ou J. Caminero ou J. Bauers",
+              "odds": 1.2,
+              "isActive": true,
+              "selectionId": "2258926480"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Y. Diaz ou W. Contreras ou J. Bauers",
+              "odds": 1.23,
+              "isActive": true,
+              "selectionId": "2258926481"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Y. Diaz ou W. Contreras ou B. Turang",
+              "odds": 1.24,
+              "isActive": true,
+              "selectionId": "2258926482"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "W. Contreras ou B. Turang ou J. Caminero",
+              "odds": 1.26,
+              "isActive": true,
+              "selectionId": "2258926483"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "B. Turang ou J. Caminero ou C. Yelich",
+              "odds": 1.28,
+              "isActive": true,
+              "selectionId": "2258926484"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Y. Diaz ou J. Caminero ou J. Aranda",
+              "odds": 1.28,
+              "isActive": true,
+              "selectionId": "2258926475"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "B. Turang ou J. Caminero ou J. Aranda",
+              "odds": 1.29,
+              "isActive": true,
+              "selectionId": "2258926485"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "G. Mitchell ou J. Aranda ou C. Yelich",
+              "odds": 1.33,
+              "isActive": true,
+              "selectionId": "2258926486"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "J. Aranda ou C. Pratt ou C. Yelich",
+              "odds": 1.33,
+              "isActive": true,
+              "selectionId": "2258926487"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "J. Aranda ou C. Simpson ou C. Yelich",
+              "odds": 1.34,
+              "isActive": true,
+              "selectionId": "2258926488"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "G. Mitchell ou C. Pratt ou C. Yelich",
+              "odds": 1.34,
+              "isActive": true,
+              "selectionId": "2258926489"
+            }
+          ],
+          "marketId": "9007|"
+        },
+        {
+          "canonicalMarket": "PLAYER_RUNS",
+          "rawName": "Marque 2 runs ou plus",
+          "period": "FULL_TIME",
+          "line": 2,
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Jackson Chourio",
+              "odds": 6.5,
+              "isActive": true,
+              "selectionId": "2258926490",
+              "line": 2
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Jakob Bauers",
+              "odds": 8,
+              "isActive": true,
+              "selectionId": "2258926491",
+              "line": 2
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Yandy Diaz",
+              "odds": 9,
+              "isActive": true,
+              "selectionId": "2258926492",
+              "line": 2
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "William Contreras",
+              "odds": 9,
+              "isActive": true,
+              "selectionId": "2258926493",
+              "line": 2
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Brice Turang",
+              "odds": 9.5,
+              "isActive": true,
+              "selectionId": "2258926494",
+              "line": 2
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Junior Caminero",
+              "odds": 10,
+              "isActive": true,
+              "selectionId": "2258926495",
+              "line": 2
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Christian Yelich",
+              "odds": 10.5,
+              "isActive": true,
+              "selectionId": "2258926496",
+              "line": 2
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Jonathan Aranda",
+              "odds": 12,
+              "isActive": true,
+              "selectionId": "2258926497",
+              "line": 2
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Garrett Mitchell",
+              "odds": 12.5,
+              "isActive": true,
+              "selectionId": "2258926498",
+              "line": 2
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Cooper Pratt",
+              "odds": 13,
+              "isActive": true,
+              "selectionId": "2258926499",
+              "line": 2
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Chandler Simpson",
+              "odds": 13.5,
+              "isActive": true,
+              "selectionId": "2258926500",
+              "line": 2
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Jonny Deluca",
+              "odds": 15,
+              "isActive": true,
+              "selectionId": "2258926501",
+              "line": 2
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Victor Mesa",
+              "odds": 15,
+              "isActive": true,
+              "selectionId": "2258926502",
+              "line": 2
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Sal Frelick",
+              "odds": 16,
+              "isActive": true,
+              "selectionId": "2258926503",
+              "line": 2
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Richie Palacios",
+              "odds": 18,
+              "isActive": true,
+              "selectionId": "2258926504",
+              "line": 2
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Liam Hicks",
+              "odds": 19,
+              "isActive": true,
+              "selectionId": "2258926505",
+              "line": 2
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Taylor Walls",
+              "odds": 22,
+              "isActive": true,
+              "selectionId": "2258926506",
+              "line": 2
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "David Hamilton",
+              "odds": 22,
+              "isActive": true,
+              "selectionId": "2258926507",
+              "line": 2
+            }
+          ],
+          "marketId": "784|total=2"
+        },
+        {
+          "canonicalMarket": "PLAYER_RUNS",
+          "rawName": "Marque 3 runs ou plus",
+          "period": "FULL_TIME",
+          "line": 3,
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Jackson Chourio",
+              "odds": 30,
+              "isActive": true,
+              "selectionId": "2258926508",
+              "line": 3
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Jakob Bauers",
+              "odds": 42,
+              "isActive": true,
+              "selectionId": "2258926509",
+              "line": 3
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Yandy Diaz",
+              "odds": 48,
+              "isActive": true,
+              "selectionId": "2258926510",
+              "line": 3
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "William Contreras",
+              "odds": 48,
+              "isActive": true,
+              "selectionId": "2258926511",
+              "line": 3
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Brice Turang",
+              "odds": 50,
+              "isActive": true,
+              "selectionId": "2258926512",
+              "line": 3
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Junior Caminero",
+              "odds": 55,
+              "isActive": true,
+              "selectionId": "2258926513",
+              "line": 3
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Christian Yelich",
+              "odds": 55,
+              "isActive": true,
+              "selectionId": "2258926514",
+              "line": 3
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Jonathan Aranda",
+              "odds": 60,
+              "isActive": true,
+              "selectionId": "2258926515",
+              "line": 3
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Garrett Mitchell",
+              "odds": 60,
+              "isActive": true,
+              "selectionId": "2258926516",
+              "line": 3
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Cooper Pratt",
+              "odds": 60,
+              "isActive": true,
+              "selectionId": "2258926517",
+              "line": 3
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Chandler Simpson",
+              "odds": 65,
+              "isActive": true,
+              "selectionId": "2258926518",
+              "line": 3
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Jonny Deluca",
+              "odds": 75,
+              "isActive": true,
+              "selectionId": "2258926519",
+              "line": 3
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Victor Mesa",
+              "odds": 75,
+              "isActive": true,
+              "selectionId": "2258926520",
+              "line": 3
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Sal Frelick",
+              "odds": 75,
+              "isActive": true,
+              "selectionId": "2258926521",
+              "line": 3
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Richie Palacios",
+              "odds": 90,
+              "isActive": true,
+              "selectionId": "2258926522",
+              "line": 3
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Liam Hicks",
+              "odds": 100,
+              "isActive": true,
+              "selectionId": "2258926523",
+              "line": 3
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Taylor Walls",
+              "odds": 100,
+              "isActive": true,
+              "selectionId": "2258926524",
+              "line": 3
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "David Hamilton",
+              "odds": 100,
+              "isActive": true,
+              "selectionId": "2258926525",
+              "line": 3
+            }
+          ],
+          "marketId": "784|total=3"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/75060812",
+        "tournamentId": 25,
+        "srTournamentId": "sr:tournament:109",
+        "round": "World Series (3/7)"
+      },
+      "slug": "/paris-sportifs/match/75060812",
+      "sport": "baseball",
+      "startTime": "2026-10-28T00:00:00.000Z",
+      "updatedAt": "2026-10-27T07:46:34.541Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "baseball",
+      "_last_updated": "2026-10-27T07:50:56.592511+00:00"
     },
     {
       "eventId": "73164554",
