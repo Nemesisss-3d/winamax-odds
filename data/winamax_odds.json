@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-23T02:44:34.050421+00:00",
+  "generatedAt": "2026-11-23T14:36:38.730523+00:00",
   "source": "PulseScore / Winamax",
   "refreshStrategy": "weighted rotation every 2 hours; 32-slot/64-hour cycle; priority to soccer, tennis and basketball",
-  "currentSportRefreshed": "handball",
+  "currentSportRefreshed": "tennis",
   "eventCount": 34,
   "sportsRequested": [
     "soccer",
@@ -68,7 +68,7 @@
     "ice-hockey": "2026-11-22T02:13:53.009396+00:00",
     "volleyball": "2026-11-15T17:09:18.119137+00:00",
     "badminton": "2026-11-15T22:47:19.792059+00:00",
-    "tennis": "2026-11-22T20:43:26.605201+00:00",
+    "tennis": "2026-11-23T14:36:38.730523+00:00",
     "american-football": "2026-11-12T18:18:40.334007+00:00",
     "boxing": "2026-10-20T11:34:53.950261+00:00",
     "australian-rules": "2026-11-16T06:26:39.541248+00:00"
@@ -1804,14 +1804,14 @@
             {
               "canonicalOutcome": "HOME",
               "rawName": "République Tchèque",
-              "odds": 1.09,
+              "odds": 1.1,
               "isActive": true,
               "selectionId": "2318508843"
             },
             {
               "canonicalOutcome": "AWAY",
               "rawName": "Canada",
-              "odds": 4.5,
+              "odds": 5,
               "isActive": true,
               "selectionId": "2318508844"
             }
@@ -1828,10 +1828,10 @@
       "slug": "/paris-sportifs/match/77031490",
       "sport": "tennis",
       "startTime": "2026-11-24T15:00:00.000Z",
-      "updatedAt": "2026-11-22T20:39:22.009Z",
+      "updatedAt": "2026-11-23T14:32:13.333Z",
       "_source": "Winamax",
       "_pulscore_sport": "tennis",
-      "_last_updated": "2026-11-22T20:43:26.605201+00:00"
+      "_last_updated": "2026-11-23T14:36:38.730523+00:00"
     },
     {
       "eventId": "73709824",
@@ -12529,14 +12529,14 @@
             {
               "canonicalOutcome": "HOME",
               "rawName": "Italie",
-              "odds": 1.06,
+              "odds": 1.05,
               "isActive": true,
               "selectionId": "2319162929"
             },
             {
               "canonicalOutcome": "AWAY",
               "rawName": "Corée du Sud",
-              "odds": 5.5,
+              "odds": 6.5,
               "isActive": true,
               "selectionId": "2319162930"
             }
@@ -12553,10 +12553,10 @@
       "slug": "/paris-sportifs/match/77031486",
       "sport": "tennis",
       "startTime": "2026-11-25T15:00:00.000Z",
-      "updatedAt": "2026-11-22T20:39:22.908Z",
+      "updatedAt": "2026-11-23T14:32:13.943Z",
       "_source": "Winamax",
       "_pulscore_sport": "tennis",
-      "_last_updated": "2026-11-22T20:43:26.605201+00:00"
+      "_last_updated": "2026-11-23T14:36:38.730523+00:00"
     },
     {
       "eventId": "76225236",
@@ -12790,14 +12790,14 @@
             {
               "canonicalOutcome": "HOME",
               "rawName": "Grande-Bretagne",
-              "odds": 3,
+              "odds": 2.6,
               "isActive": true,
               "selectionId": "2319162943"
             },
             {
               "canonicalOutcome": "AWAY",
               "rawName": "Allemagne",
-              "odds": 1.21,
+              "odds": 1.38,
               "isActive": true,
               "selectionId": "2319162944"
             }
@@ -12814,10 +12814,10 @@
       "slug": "/paris-sportifs/match/77031496",
       "sport": "tennis",
       "startTime": "2026-11-26T09:00:00.000Z",
-      "updatedAt": "2026-11-22T20:27:18.751Z",
+      "updatedAt": "2026-11-23T14:32:13.333Z",
       "_source": "Winamax",
       "_pulscore_sport": "tennis",
-      "_last_updated": "2026-11-22T20:43:26.605201+00:00"
+      "_last_updated": "2026-11-23T14:36:38.730523+00:00"
     },
     {
       "eventId": "77031498",
@@ -12837,7 +12837,7 @@
             {
               "canonicalOutcome": "HOME",
               "rawName": "Autriche",
-              "odds": 9.5,
+              "odds": 8,
               "isActive": true,
               "selectionId": "2319169581"
             },
@@ -12861,10 +12861,10 @@
       "slug": "/paris-sportifs/match/77031498",
       "sport": "tennis",
       "startTime": "2026-11-26T16:00:00.000Z",
-      "updatedAt": "2026-11-22T20:34:34.115Z",
+      "updatedAt": "2026-11-23T14:32:14.449Z",
       "_source": "Winamax",
       "_pulscore_sport": "tennis",
-      "_last_updated": "2026-11-22T20:43:26.605201+00:00"
+      "_last_updated": "2026-11-23T14:36:38.730523+00:00"
     },
     {
       "eventId": "76225246",
