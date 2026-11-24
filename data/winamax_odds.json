@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-23T14:36:38.730523+00:00",
+  "generatedAt": "2026-11-24T02:53:37.812970+00:00",
   "source": "PulseScore / Winamax",
   "refreshStrategy": "weighted rotation every 2 hours; 32-slot/64-hour cycle; priority to soccer, tennis and basketball",
-  "currentSportRefreshed": "tennis",
-  "eventCount": 34,
+  "currentSportRefreshed": "boxing",
+  "eventCount": 49,
   "sportsRequested": [
     "soccer",
     "tennis",
@@ -70,1722 +70,11 @@
     "badminton": "2026-11-15T22:47:19.792059+00:00",
     "tennis": "2026-11-23T14:36:38.730523+00:00",
     "american-football": "2026-11-12T18:18:40.334007+00:00",
-    "boxing": "2026-10-20T11:34:53.950261+00:00",
+    "boxing": "2026-11-24T02:53:37.812970+00:00",
     "australian-rules": "2026-11-16T06:26:39.541248+00:00"
   },
   "errors": [],
   "events": [
-    {
-      "eventId": "71516056",
-      "away": "Cincinnati Bengals",
-      "betradarId": "71516056",
-      "country": "États-Unis",
-      "home": "Washington Commanders",
-      "league": "NFL ",
-      "live": false,
-      "markets": [
-        {
-          "canonicalMarket": "MATCH_RESULT",
-          "rawName": "Vainqueur",
-          "period": "FULL_TIME",
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Washington Commanders",
-              "odds": 2.3,
-              "isActive": true,
-              "selectionId": "2293455891"
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Cincinnati Bengals",
-              "odds": 1.38,
-              "isActive": true,
-              "selectionId": "2293455892"
-            }
-          ],
-          "marketId": "219|type=prematch"
-        },
-        {
-          "canonicalMarket": "ASIAN_HANDICAP",
-          "rawName": "Écart de points",
-          "period": "FULL_TIME",
-          "line": 10.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Washington Commanders +10.5",
-              "odds": 1.33,
-              "isActive": true,
-              "selectionId": "2293455893",
-              "line": 10.5
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Cincinnati Bengals -10.5",
-              "odds": 2.6,
-              "isActive": true,
-              "selectionId": "2293455894",
-              "line": 10.5
-            }
-          ],
-          "marketId": "223|hcp=10.5"
-        },
-        {
-          "canonicalMarket": "ASIAN_HANDICAP",
-          "rawName": "Écart de points",
-          "period": "FULL_TIME",
-          "line": 1.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Washington Commanders +1.5",
-              "odds": 2.25,
-              "isActive": true,
-              "selectionId": "2293455895",
-              "line": 1.5
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Cincinnati Bengals -1.5",
-              "odds": 1.43,
-              "isActive": true,
-              "selectionId": "2293455896",
-              "line": 1.5
-            }
-          ],
-          "marketId": "223|hcp=1.5"
-        },
-        {
-          "canonicalMarket": "ASIAN_HANDICAP",
-          "rawName": "Écart de points",
-          "period": "FULL_TIME",
-          "line": 4.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Washington Commanders +4.5",
-              "odds": 1.72,
-              "isActive": true,
-              "selectionId": "2293455897",
-              "line": 4.5
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Cincinnati Bengals -4.5",
-              "odds": 1.74,
-              "isActive": true,
-              "selectionId": "2293455898",
-              "line": 4.5
-            }
-          ],
-          "marketId": "223|hcp=4.5"
-        },
-        {
-          "canonicalMarket": "ASIAN_HANDICAP",
-          "rawName": "Écart de points",
-          "period": "FULL_TIME",
-          "line": -1.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Washington Commanders -1.5",
-              "odds": 2.5,
-              "isActive": true,
-              "selectionId": "2293455899",
-              "line": -1.5
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Cincinnati Bengals +1.5",
-              "odds": 1.34,
-              "isActive": true,
-              "selectionId": "2293455900",
-              "line": -1.5
-            }
-          ],
-          "marketId": "223|hcp=-1.5"
-        },
-        {
-          "canonicalMarket": "ASIAN_HANDICAP",
-          "rawName": "Écart de points",
-          "period": "FULL_TIME",
-          "line": 7.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Washington Commanders +7.5",
-              "odds": 1.46,
-              "isActive": true,
-              "selectionId": "2293455901",
-              "line": 7.5
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Cincinnati Bengals -7.5",
-              "odds": 2.15,
-              "isActive": true,
-              "selectionId": "2293455902",
-              "line": 7.5
-            }
-          ],
-          "marketId": "223|hcp=7.5"
-        },
-        {
-          "canonicalMarket": "ASIAN_HANDICAP",
-          "rawName": "Écart de points",
-          "period": "FULL_TIME",
-          "line": 9.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Washington Commanders +9.5",
-              "odds": 1.39,
-              "isActive": true,
-              "selectionId": "2293620305",
-              "line": 9.5
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Cincinnati Bengals -9.5",
-              "odds": 2.35,
-              "isActive": true,
-              "selectionId": "2293620306",
-              "line": 9.5
-            }
-          ],
-          "marketId": "223|hcp=9.5"
-        },
-        {
-          "canonicalMarket": "ASIAN_HANDICAP",
-          "rawName": "Écart de points",
-          "period": "FULL_TIME",
-          "line": -10.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Washington Commanders -10.5",
-              "odds": 6,
-              "isActive": true,
-              "selectionId": "2293620307",
-              "line": -10.5
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Cincinnati Bengals +10.5",
-              "odds": 1.07,
-              "isActive": true,
-              "selectionId": "2293620308",
-              "line": -10.5
-            }
-          ],
-          "marketId": "223|hcp=-10.5"
-        },
-        {
-          "canonicalMarket": "ASIAN_HANDICAP",
-          "rawName": "Écart de points",
-          "period": "FULL_TIME",
-          "line": -7.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Washington Commanders -7.5",
-              "odds": 4.6,
-              "isActive": true,
-              "selectionId": "2293620309",
-              "line": -7.5
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Cincinnati Bengals +7.5",
-              "odds": 1.11,
-              "isActive": true,
-              "selectionId": "2293620310",
-              "line": -7.5
-            }
-          ],
-          "marketId": "223|hcp=-7.5"
-        },
-        {
-          "canonicalMarket": "ASIAN_HANDICAP",
-          "rawName": "Écart de points",
-          "period": "FULL_TIME",
-          "line": -6.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Washington Commanders -6.5",
-              "odds": 3.9,
-              "isActive": true,
-              "selectionId": "2293620311",
-              "line": -6.5
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Cincinnati Bengals +6.5",
-              "odds": 1.16,
-              "isActive": true,
-              "selectionId": "2293620312",
-              "line": -6.5
-            }
-          ],
-          "marketId": "223|hcp=-6.5"
-        },
-        {
-          "canonicalMarket": "ASIAN_HANDICAP",
-          "rawName": "Écart de points",
-          "period": "FULL_TIME",
-          "line": -9.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Washington Commanders -9.5",
-              "odds": 5.2,
-              "isActive": true,
-              "selectionId": "2293620313",
-              "line": -9.5
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Cincinnati Bengals +9.5",
-              "odds": 1.09,
-              "isActive": true,
-              "selectionId": "2293620314",
-              "line": -9.5
-            }
-          ],
-          "marketId": "223|hcp=-9.5"
-        },
-        {
-          "canonicalMarket": "ASIAN_HANDICAP",
-          "rawName": "Écart de points",
-          "period": "FULL_TIME",
-          "line": -8.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Washington Commanders -8.5",
-              "odds": 5,
-              "isActive": true,
-              "selectionId": "2293620315",
-              "line": -8.5
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Cincinnati Bengals +8.5",
-              "odds": 1.1,
-              "isActive": true,
-              "selectionId": "2293620316",
-              "line": -8.5
-            }
-          ],
-          "marketId": "223|hcp=-8.5"
-        },
-        {
-          "canonicalMarket": "ASIAN_HANDICAP",
-          "rawName": "Écart de points",
-          "period": "FULL_TIME",
-          "line": 11.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Washington Commanders +11.5",
-              "odds": 1.3,
-              "isActive": true,
-              "selectionId": "2293620317",
-              "line": 11.5
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Cincinnati Bengals -11.5",
-              "odds": 2.75,
-              "isActive": true,
-              "selectionId": "2293620318",
-              "line": 11.5
-            }
-          ],
-          "marketId": "223|hcp=11.5"
-        },
-        {
-          "canonicalMarket": "ASIAN_HANDICAP",
-          "rawName": "Écart de points",
-          "period": "FULL_TIME",
-          "line": 0.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Washington Commanders +0.5",
-              "odds": 2.4,
-              "isActive": true,
-              "selectionId": "2293620319",
-              "line": 0.5
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Cincinnati Bengals -0.5",
-              "odds": 1.38,
-              "isActive": true,
-              "selectionId": "2293620320",
-              "line": 0.5
-            }
-          ],
-          "marketId": "223|hcp=0.5"
-        },
-        {
-          "canonicalMarket": "ASIAN_HANDICAP",
-          "rawName": "Écart de points",
-          "period": "FULL_TIME",
-          "line": 19.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Washington Commanders +19.5",
-              "odds": 1.09,
-              "isActive": true,
-              "selectionId": "2293620321",
-              "line": 19.5
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Cincinnati Bengals -19.5",
-              "odds": 5,
-              "isActive": true,
-              "selectionId": "2293620322",
-              "line": 19.5
-            }
-          ],
-          "marketId": "223|hcp=19.5"
-        },
-        {
-          "canonicalMarket": "ASIAN_HANDICAP",
-          "rawName": "Écart de points",
-          "period": "FULL_TIME",
-          "line": -3.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Washington Commanders -3.5",
-              "odds": 3.15,
-              "isActive": true,
-              "selectionId": "2293620323",
-              "line": -3.5
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Cincinnati Bengals +3.5",
-              "odds": 1.23,
-              "isActive": true,
-              "selectionId": "2293620324",
-              "line": -3.5
-            }
-          ],
-          "marketId": "223|hcp=-3.5"
-        },
-        {
-          "canonicalMarket": "ASIAN_HANDICAP",
-          "rawName": "Écart de points",
-          "period": "FULL_TIME",
-          "line": 18.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Washington Commanders +18.5",
-              "odds": 1.11,
-              "isActive": true,
-              "selectionId": "2293620325",
-              "line": 18.5
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Cincinnati Bengals -18.5",
-              "odds": 4.7,
-              "isActive": true,
-              "selectionId": "2293620326",
-              "line": 18.5
-            }
-          ],
-          "marketId": "223|hcp=18.5"
-        },
-        {
-          "canonicalMarket": "ASIAN_HANDICAP",
-          "rawName": "Écart de points",
-          "period": "FULL_TIME",
-          "line": -2.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Washington Commanders -2.5",
-              "odds": 2.65,
-              "isActive": true,
-              "selectionId": "2293620327",
-              "line": -2.5
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Cincinnati Bengals +2.5",
-              "odds": 1.31,
-              "isActive": true,
-              "selectionId": "2293620328",
-              "line": -2.5
-            }
-          ],
-          "marketId": "223|hcp=-2.5"
-        },
-        {
-          "canonicalMarket": "ASIAN_HANDICAP",
-          "rawName": "Écart de points",
-          "period": "FULL_TIME",
-          "line": 2.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Washington Commanders +2.5",
-              "odds": 2.15,
-              "isActive": true,
-              "selectionId": "2293620329",
-              "line": 2.5
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Cincinnati Bengals -2.5",
-              "odds": 1.47,
-              "isActive": true,
-              "selectionId": "2293620330",
-              "line": 2.5
-            }
-          ],
-          "marketId": "223|hcp=2.5"
-        },
-        {
-          "canonicalMarket": "ASIAN_HANDICAP",
-          "rawName": "Écart de points",
-          "period": "FULL_TIME",
-          "line": 3.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Washington Commanders +3.5",
-              "odds": 1.8,
-              "isActive": true,
-              "selectionId": "2293620331",
-              "line": 3.5
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Cincinnati Bengals -3.5",
-              "odds": 1.66,
-              "isActive": true,
-              "selectionId": "2293620332",
-              "line": 3.5
-            }
-          ],
-          "marketId": "223|hcp=3.5"
-        },
-        {
-          "canonicalMarket": "ASIAN_HANDICAP",
-          "rawName": "Écart de points",
-          "period": "FULL_TIME",
-          "line": 17.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Washington Commanders +17.5",
-              "odds": 1.13,
-              "isActive": true,
-              "selectionId": "2293620333",
-              "line": 17.5
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Cincinnati Bengals -17.5",
-              "odds": 4.3,
-              "isActive": true,
-              "selectionId": "2293620334",
-              "line": 17.5
-            }
-          ],
-          "marketId": "223|hcp=17.5"
-        },
-        {
-          "canonicalMarket": "ASIAN_HANDICAP",
-          "rawName": "Écart de points",
-          "period": "FULL_TIME",
-          "line": -5.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Washington Commanders -5.5",
-              "odds": 3.6,
-              "isActive": true,
-              "selectionId": "2293620335",
-              "line": -5.5
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Cincinnati Bengals +5.5",
-              "odds": 1.18,
-              "isActive": true,
-              "selectionId": "2293620336",
-              "line": -5.5
-            }
-          ],
-          "marketId": "223|hcp=-5.5"
-        },
-        {
-          "canonicalMarket": "ASIAN_HANDICAP",
-          "rawName": "Écart de points",
-          "period": "FULL_TIME",
-          "line": 16.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Washington Commanders +16.5",
-              "odds": 1.15,
-              "isActive": true,
-              "selectionId": "2293620337",
-              "line": 16.5
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Cincinnati Bengals -16.5",
-              "odds": 3.95,
-              "isActive": true,
-              "selectionId": "2293620338",
-              "line": 16.5
-            }
-          ],
-          "marketId": "223|hcp=16.5"
-        },
-        {
-          "canonicalMarket": "ASIAN_HANDICAP",
-          "rawName": "Écart de points",
-          "period": "FULL_TIME",
-          "line": -4.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Washington Commanders -4.5",
-              "odds": 3.4,
-              "isActive": true,
-              "selectionId": "2293620339",
-              "line": -4.5
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Cincinnati Bengals +4.5",
-              "odds": 1.2,
-              "isActive": true,
-              "selectionId": "2293620340",
-              "line": -4.5
-            }
-          ],
-          "marketId": "223|hcp=-4.5"
-        },
-        {
-          "canonicalMarket": "ASIAN_HANDICAP",
-          "rawName": "Écart de points",
-          "period": "FULL_TIME",
-          "line": 5.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Washington Commanders +5.5",
-              "odds": 1.66,
-              "isActive": true,
-              "selectionId": "2293620341",
-              "line": 5.5
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Cincinnati Bengals -5.5",
-              "odds": 1.8,
-              "isActive": true,
-              "selectionId": "2293620342",
-              "line": 5.5
-            }
-          ],
-          "marketId": "223|hcp=5.5"
-        },
-        {
-          "canonicalMarket": "ASIAN_HANDICAP",
-          "rawName": "Écart de points",
-          "period": "FULL_TIME",
-          "line": 15.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Washington Commanders +15.5",
-              "odds": 1.17,
-              "isActive": true,
-              "selectionId": "2293620343",
-              "line": 15.5
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Cincinnati Bengals -15.5",
-              "odds": 3.7,
-              "isActive": true,
-              "selectionId": "2293620344",
-              "line": 15.5
-            }
-          ],
-          "marketId": "223|hcp=15.5"
-        },
-        {
-          "canonicalMarket": "ASIAN_HANDICAP",
-          "rawName": "Écart de points",
-          "period": "FULL_TIME",
-          "line": 14.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Washington Commanders +14.5",
-              "odds": 1.2,
-              "isActive": true,
-              "selectionId": "2293620345",
-              "line": 14.5
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Cincinnati Bengals -14.5",
-              "odds": 3.5,
-              "isActive": true,
-              "selectionId": "2293620346",
-              "line": 14.5
-            }
-          ],
-          "marketId": "223|hcp=14.5"
-        },
-        {
-          "canonicalMarket": "ASIAN_HANDICAP",
-          "rawName": "Écart de points",
-          "period": "FULL_TIME",
-          "line": 6.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Washington Commanders +6.5",
-              "odds": 1.56,
-              "isActive": true,
-              "selectionId": "2293620347",
-              "line": 6.5
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Cincinnati Bengals -6.5",
-              "odds": 1.94,
-              "isActive": true,
-              "selectionId": "2293620348",
-              "line": 6.5
-            }
-          ],
-          "marketId": "223|hcp=6.5"
-        },
-        {
-          "canonicalMarket": "ASIAN_HANDICAP",
-          "rawName": "Écart de points",
-          "period": "FULL_TIME",
-          "line": 13.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Washington Commanders +13.5",
-              "odds": 1.24,
-              "isActive": true,
-              "selectionId": "2293620349",
-              "line": 13.5
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Cincinnati Bengals -13.5",
-              "odds": 3.1,
-              "isActive": true,
-              "selectionId": "2293620350",
-              "line": 13.5
-            }
-          ],
-          "marketId": "223|hcp=13.5"
-        },
-        {
-          "canonicalMarket": "ASIAN_HANDICAP",
-          "rawName": "Écart de points",
-          "period": "FULL_TIME",
-          "line": 12.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Washington Commanders +12.5",
-              "odds": 1.27,
-              "isActive": true,
-              "selectionId": "2293620351",
-              "line": 12.5
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Cincinnati Bengals -12.5",
-              "odds": 2.9,
-              "isActive": true,
-              "selectionId": "2293620352",
-              "line": 12.5
-            }
-          ],
-          "marketId": "223|hcp=12.5"
-        },
-        {
-          "canonicalMarket": "ASIAN_HANDICAP",
-          "rawName": "Écart de points",
-          "period": "FULL_TIME",
-          "line": -0.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Washington Commanders -0.5",
-              "odds": 2.4,
-              "isActive": true,
-              "selectionId": "2293620353",
-              "line": -0.5
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Cincinnati Bengals +0.5",
-              "odds": 1.37,
-              "isActive": true,
-              "selectionId": "2293620354",
-              "line": -0.5
-            }
-          ],
-          "marketId": "223|hcp=-0.5"
-        },
-        {
-          "canonicalMarket": "ASIAN_HANDICAP",
-          "rawName": "Écart de points",
-          "period": "FULL_TIME",
-          "line": 8.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Washington Commanders +8.5",
-              "odds": 1.41,
-              "isActive": true,
-              "selectionId": "2293620355",
-              "line": 8.5
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "Cincinnati Bengals -8.5",
-              "odds": 2.3,
-              "isActive": true,
-              "selectionId": "2293620356",
-              "line": 8.5
-            }
-          ],
-          "marketId": "223|hcp=8.5"
-        },
-        {
-          "canonicalMarket": "AWAY_OVER_UNDER",
-          "rawName": "Nombre de points de Cincinnati Bengals",
-          "period": "FULL_TIME",
-          "line": 27.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 27,5",
-              "odds": 1.7,
-              "isActive": true,
-              "selectionId": "2293620910",
-              "line": 27.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 27,5",
-              "odds": 1.76,
-              "isActive": true,
-              "selectionId": "2293620911",
-              "line": 27.5
-            }
-          ],
-          "marketId": "228|total=27.5"
-        },
-        {
-          "canonicalMarket": "OVER_UNDER",
-          "rawName": "Nombre de points",
-          "period": "FULL_TIME",
-          "line": 45.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 45,5",
-              "odds": 1.35,
-              "isActive": true,
-              "selectionId": "2293620918",
-              "line": 45.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 45,5",
-              "odds": 2.5,
-              "isActive": true,
-              "selectionId": "2293620919",
-              "line": 45.5
-            }
-          ],
-          "marketId": "225|total=45.5"
-        },
-        {
-          "canonicalMarket": "OVER_UNDER",
-          "rawName": "Nombre de points",
-          "period": "FULL_TIME",
-          "line": 46.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 46,5",
-              "odds": 1.39,
-              "isActive": true,
-              "selectionId": "2293620920",
-              "line": 46.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 46,5",
-              "odds": 2.35,
-              "isActive": true,
-              "selectionId": "2293620921",
-              "line": 46.5
-            }
-          ],
-          "marketId": "225|total=46.5"
-        },
-        {
-          "canonicalMarket": "OVER_UNDER",
-          "rawName": "Nombre de points",
-          "period": "FULL_TIME",
-          "line": 47.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 47,5",
-              "odds": 1.45,
-              "isActive": true,
-              "selectionId": "2293620922",
-              "line": 47.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 47,5",
-              "odds": 2.15,
-              "isActive": true,
-              "selectionId": "2293620923",
-              "line": 47.5
-            }
-          ],
-          "marketId": "225|total=47.5"
-        },
-        {
-          "canonicalMarket": "OVER_UNDER",
-          "rawName": "Nombre de points",
-          "period": "FULL_TIME",
-          "line": 48.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 48,5",
-              "odds": 1.5,
-              "isActive": true,
-              "selectionId": "2293620924",
-              "line": 48.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 48,5",
-              "odds": 2.05,
-              "isActive": true,
-              "selectionId": "2293620925",
-              "line": 48.5
-            }
-          ],
-          "marketId": "225|total=48.5"
-        },
-        {
-          "canonicalMarket": "OVER_UNDER",
-          "rawName": "Nombre de points",
-          "period": "FULL_TIME",
-          "line": 49.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 49,5",
-              "odds": 1.56,
-              "isActive": true,
-              "selectionId": "2293620926",
-              "line": 49.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 49,5",
-              "odds": 1.96,
-              "isActive": true,
-              "selectionId": "2293620927",
-              "line": 49.5
-            }
-          ],
-          "marketId": "225|total=49.5"
-        },
-        {
-          "canonicalMarket": "OVER_UNDER",
-          "rawName": "Nombre de points",
-          "period": "FULL_TIME",
-          "line": 60.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 60,5",
-              "odds": 2.95,
-              "isActive": true,
-              "selectionId": "2293620928",
-              "line": 60.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 60,5",
-              "odds": 1.26,
-              "isActive": true,
-              "selectionId": "2293620929",
-              "line": 60.5
-            }
-          ],
-          "marketId": "225|total=60.5"
-        },
-        {
-          "canonicalMarket": "OVER_UNDER",
-          "rawName": "Nombre de points",
-          "period": "FULL_TIME",
-          "line": 62.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 62,5",
-              "odds": 3.45,
-              "isActive": true,
-              "selectionId": "2293620930",
-              "line": 62.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 62,5",
-              "odds": 1.2,
-              "isActive": true,
-              "selectionId": "2293620931",
-              "line": 62.5
-            }
-          ],
-          "marketId": "225|total=62.5"
-        },
-        {
-          "canonicalMarket": "OVER_UNDER",
-          "rawName": "Nombre de points",
-          "period": "FULL_TIME",
-          "line": 61.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 61,5",
-              "odds": 3.2,
-              "isActive": true,
-              "selectionId": "2293620932",
-              "line": 61.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 61,5",
-              "odds": 1.23,
-              "isActive": true,
-              "selectionId": "2293620933",
-              "line": 61.5
-            }
-          ],
-          "marketId": "225|total=61.5"
-        },
-        {
-          "canonicalMarket": "OVER_UNDER",
-          "rawName": "Nombre de points",
-          "period": "FULL_TIME",
-          "line": 40.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 40,5",
-              "odds": 1.17,
-              "isActive": true,
-              "selectionId": "2293620934",
-              "line": 40.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 40,5",
-              "odds": 3.75,
-              "isActive": true,
-              "selectionId": "2293620935",
-              "line": 40.5
-            }
-          ],
-          "marketId": "225|total=40.5"
-        },
-        {
-          "canonicalMarket": "OVER_UNDER",
-          "rawName": "Nombre de points",
-          "period": "FULL_TIME",
-          "line": 64.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 64,5",
-              "odds": 3.95,
-              "isActive": true,
-              "selectionId": "2293620936",
-              "line": 64.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 64,5",
-              "odds": 1.15,
-              "isActive": true,
-              "selectionId": "2293620937",
-              "line": 64.5
-            }
-          ],
-          "marketId": "225|total=64.5"
-        },
-        {
-          "canonicalMarket": "OVER_UNDER",
-          "rawName": "Nombre de points",
-          "period": "FULL_TIME",
-          "line": 41.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 41,5",
-              "odds": 1.2,
-              "isActive": true,
-              "selectionId": "2293620938",
-              "line": 41.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 41,5",
-              "odds": 3.4,
-              "isActive": true,
-              "selectionId": "2293620939",
-              "line": 41.5
-            }
-          ],
-          "marketId": "225|total=41.5"
-        },
-        {
-          "canonicalMarket": "OVER_UNDER",
-          "rawName": "Nombre de points",
-          "period": "FULL_TIME",
-          "line": 63.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 63,5",
-              "odds": 3.65,
-              "isActive": true,
-              "selectionId": "2293620940",
-              "line": 63.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 63,5",
-              "odds": 1.18,
-              "isActive": true,
-              "selectionId": "2293620941",
-              "line": 63.5
-            }
-          ],
-          "marketId": "225|total=63.5"
-        },
-        {
-          "canonicalMarket": "OVER_UNDER",
-          "rawName": "Nombre de points",
-          "period": "FULL_TIME",
-          "line": 42.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 42,5",
-              "odds": 1.22,
-              "isActive": true,
-              "selectionId": "2293620942",
-              "line": 42.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 42,5",
-              "odds": 3.25,
-              "isActive": true,
-              "selectionId": "2293620943",
-              "line": 42.5
-            }
-          ],
-          "marketId": "225|total=42.5"
-        },
-        {
-          "canonicalMarket": "OVER_UNDER",
-          "rawName": "Nombre de points",
-          "period": "FULL_TIME",
-          "line": 43.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 43,5",
-              "odds": 1.27,
-              "isActive": true,
-              "selectionId": "2293620944",
-              "line": 43.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 43,5",
-              "odds": 2.95,
-              "isActive": true,
-              "selectionId": "2293620945",
-              "line": 43.5
-            }
-          ],
-          "marketId": "225|total=43.5"
-        },
-        {
-          "canonicalMarket": "OVER_UNDER",
-          "rawName": "Nombre de points",
-          "period": "FULL_TIME",
-          "line": 65.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 65,5",
-              "odds": 4.3,
-              "isActive": true,
-              "selectionId": "2293620946",
-              "line": 65.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 65,5",
-              "odds": 1.13,
-              "isActive": true,
-              "selectionId": "2293620947",
-              "line": 65.5
-            }
-          ],
-          "marketId": "225|total=65.5"
-        },
-        {
-          "canonicalMarket": "OVER_UNDER",
-          "rawName": "Nombre de points",
-          "period": "FULL_TIME",
-          "line": 44.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 44,5",
-              "odds": 1.31,
-              "isActive": true,
-              "selectionId": "2293620948",
-              "line": 44.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 44,5",
-              "odds": 2.65,
-              "isActive": true,
-              "selectionId": "2293620949",
-              "line": 44.5
-            }
-          ],
-          "marketId": "225|total=44.5"
-        },
-        {
-          "canonicalMarket": "OVER_UNDER",
-          "rawName": "Nombre de points",
-          "period": "FULL_TIME",
-          "line": 56.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 56,5",
-              "odds": 2.25,
-              "isActive": true,
-              "selectionId": "2293620950",
-              "line": 56.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 56,5",
-              "odds": 1.43,
-              "isActive": true,
-              "selectionId": "2293620951",
-              "line": 56.5
-            }
-          ],
-          "marketId": "225|total=56.5"
-        },
-        {
-          "canonicalMarket": "OVER_UNDER",
-          "rawName": "Nombre de points",
-          "period": "FULL_TIME",
-          "line": 57.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 57,5",
-              "odds": 2.4,
-              "isActive": true,
-              "selectionId": "2293620952",
-              "line": 57.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 57,5",
-              "odds": 1.37,
-              "isActive": true,
-              "selectionId": "2293620953",
-              "line": 57.5
-            }
-          ],
-          "marketId": "225|total=57.5"
-        },
-        {
-          "canonicalMarket": "OVER_UNDER",
-          "rawName": "Nombre de points",
-          "period": "FULL_TIME",
-          "line": 58.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 58,5",
-              "odds": 2.6,
-              "isActive": true,
-              "selectionId": "2293620954",
-              "line": 58.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 58,5",
-              "odds": 1.33,
-              "isActive": true,
-              "selectionId": "2293620955",
-              "line": 58.5
-            }
-          ],
-          "marketId": "225|total=58.5"
-        },
-        {
-          "canonicalMarket": "OVER_UNDER",
-          "rawName": "Nombre de points",
-          "period": "FULL_TIME",
-          "line": 37.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 37,5",
-              "odds": 1.11,
-              "isActive": true,
-              "selectionId": "2293620956",
-              "line": 37.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 37,5",
-              "odds": 4.7,
-              "isActive": true,
-              "selectionId": "2293620957",
-              "line": 37.5
-            }
-          ],
-          "marketId": "225|total=37.5"
-        },
-        {
-          "canonicalMarket": "OVER_UNDER",
-          "rawName": "Nombre de points",
-          "period": "FULL_TIME",
-          "line": 59.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 59,5",
-              "odds": 2.75,
-              "isActive": true,
-              "selectionId": "2293620958",
-              "line": 59.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 59,5",
-              "odds": 1.29,
-              "isActive": true,
-              "selectionId": "2293620959",
-              "line": 59.5
-            }
-          ],
-          "marketId": "225|total=59.5"
-        },
-        {
-          "canonicalMarket": "OVER_UNDER",
-          "rawName": "Nombre de points",
-          "period": "FULL_TIME",
-          "line": 38.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 38,5",
-              "odds": 1.12,
-              "isActive": true,
-              "selectionId": "2293620960",
-              "line": 38.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 38,5",
-              "odds": 4.4,
-              "isActive": true,
-              "selectionId": "2293620961",
-              "line": 38.5
-            }
-          ],
-          "marketId": "225|total=38.5"
-        },
-        {
-          "canonicalMarket": "OVER_UNDER",
-          "rawName": "Nombre de points",
-          "period": "FULL_TIME",
-          "line": 39.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 39,5",
-              "odds": 1.14,
-              "isActive": true,
-              "selectionId": "2293620962",
-              "line": 39.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 39,5",
-              "odds": 4.1,
-              "isActive": true,
-              "selectionId": "2293620963",
-              "line": 39.5
-            }
-          ],
-          "marketId": "225|total=39.5"
-        },
-        {
-          "canonicalMarket": "OVER_UNDER",
-          "rawName": "Nombre de points",
-          "period": "FULL_TIME",
-          "line": 50.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 50,5",
-              "odds": 1.62,
-              "isActive": true,
-              "selectionId": "2293620964",
-              "line": 50.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 50,5",
-              "odds": 1.86,
-              "isActive": true,
-              "selectionId": "2293620965",
-              "line": 50.5
-            }
-          ],
-          "marketId": "225|total=50.5"
-        },
-        {
-          "canonicalMarket": "OVER_UNDER",
-          "rawName": "Nombre de points",
-          "period": "FULL_TIME",
-          "line": 51.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 51,5",
-              "odds": 1.72,
-              "isActive": true,
-              "selectionId": "2293620966",
-              "line": 51.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 51,5",
-              "odds": 1.72,
-              "isActive": true,
-              "selectionId": "2293620967",
-              "line": 51.5
-            }
-          ],
-          "marketId": "225|total=51.5"
-        },
-        {
-          "canonicalMarket": "OVER_UNDER",
-          "rawName": "Nombre de points",
-          "period": "FULL_TIME",
-          "line": 52.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 52,5",
-              "odds": 1.8,
-              "isActive": true,
-              "selectionId": "2293620968",
-              "line": 52.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 52,5",
-              "odds": 1.66,
-              "isActive": true,
-              "selectionId": "2293620969",
-              "line": 52.5
-            }
-          ],
-          "marketId": "225|total=52.5"
-        },
-        {
-          "canonicalMarket": "OVER_UNDER",
-          "rawName": "Nombre de points",
-          "period": "FULL_TIME",
-          "line": 36.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 36,5",
-              "odds": 1.08,
-              "isActive": true,
-              "selectionId": "2293620970",
-              "line": 36.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 36,5",
-              "odds": 5.5,
-              "isActive": true,
-              "selectionId": "2293620971",
-              "line": 36.5
-            }
-          ],
-          "marketId": "225|total=36.5"
-        },
-        {
-          "canonicalMarket": "OVER_UNDER",
-          "rawName": "Nombre de points",
-          "period": "FULL_TIME",
-          "line": 53.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 53,5",
-              "odds": 1.9,
-              "isActive": true,
-              "selectionId": "2293620972",
-              "line": 53.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 53,5",
-              "odds": 1.6,
-              "isActive": true,
-              "selectionId": "2293620973",
-              "line": 53.5
-            }
-          ],
-          "marketId": "225|total=53.5"
-        },
-        {
-          "canonicalMarket": "OVER_UNDER",
-          "rawName": "Nombre de points",
-          "period": "FULL_TIME",
-          "line": 54.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 54,5",
-              "odds": 2,
-              "isActive": true,
-              "selectionId": "2293620974",
-              "line": 54.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 54,5",
-              "odds": 1.52,
-              "isActive": true,
-              "selectionId": "2293620975",
-              "line": 54.5
-            }
-          ],
-          "marketId": "225|total=54.5"
-        },
-        {
-          "canonicalMarket": "OVER_UNDER",
-          "rawName": "Nombre de points",
-          "period": "FULL_TIME",
-          "line": 55.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 55,5",
-              "odds": 2.15,
-              "isActive": true,
-              "selectionId": "2293620978",
-              "line": 55.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 55,5",
-              "odds": 1.47,
-              "isActive": true,
-              "selectionId": "2293620979",
-              "line": 55.5
-            }
-          ],
-          "marketId": "225|total=55.5"
-        },
-        {
-          "canonicalMarket": "HOME_OVER_UNDER",
-          "rawName": "Nombre de points de Washington Commanders",
-          "period": "FULL_TIME",
-          "line": 23.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 23,5",
-              "odds": 1.78,
-              "isActive": true,
-              "selectionId": "2293644188",
-              "line": 23.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 23,5",
-              "odds": 1.68,
-              "isActive": true,
-              "selectionId": "2293644189",
-              "line": 23.5
-            }
-          ],
-          "marketId": "227|total=23.5"
-        },
-        {
-          "canonicalMarket": "OVER_UNDER",
-          "rawName": "Nombre de points",
-          "period": "FULL_TIME",
-          "line": 66.5,
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "OVER",
-              "rawName": "Plus de 66,5",
-              "odds": 4.6,
-              "isActive": true,
-              "selectionId": "2293644190",
-              "line": 66.5
-            },
-            {
-              "canonicalOutcome": "UNDER",
-              "rawName": "Moins de 66,5",
-              "odds": 1.11,
-              "isActive": true,
-              "selectionId": "2293644191",
-              "line": 66.5
-            }
-          ],
-          "marketId": "225|total=66.5"
-        }
-      ],
-      "moreInfo": {
-        "site": "/paris-sportifs/match/71516056",
-        "tournamentId": 47,
-        "srTournamentId": "sr:tournament:31",
-        "round": "J11"
-      },
-      "slug": "/paris-sportifs/match/71516056",
-      "sport": "american_football",
-      "startTime": "2026-11-24T01:15:00.000Z",
-      "updatedAt": "2026-11-12T18:04:10.354Z",
-      "_source": "Winamax",
-      "_pulscore_sport": "american-football",
-      "_last_updated": "2026-11-12T18:18:40.334007+00:00"
-    },
     {
       "eventId": "77031490",
       "away": "Canada",
@@ -12773,6 +11062,53 @@
       "_last_updated": "2026-11-23T02:44:34.050421+00:00"
     },
     {
+      "eventId": "75834436",
+      "away": "Miel Fajardo",
+      "betradarId": "75834436",
+      "country": "International",
+      "home": "Masamichi Yabuki",
+      "league": "Combats",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Vainqueur",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "M. Yabuki",
+              "odds": 1.17,
+              "isActive": true,
+              "selectionId": "2243462129"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "M. Fajardo",
+              "odds": 3.4,
+              "isActive": true,
+              "selectionId": "2243462130"
+            }
+          ],
+          "marketId": "186|"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/75834436",
+        "tournamentId": 46,
+        "srTournamentId": "sr:tournament:24327",
+        "round": "Titre mondial IBF des poids mouches"
+      },
+      "slug": "/paris-sportifs/match/75834436",
+      "sport": "boxing",
+      "startTime": "2026-11-26T04:00:00.000Z",
+      "updatedAt": "2026-11-24T02:39:13.659Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "boxing",
+      "_last_updated": "2026-11-24T02:53:37.812970+00:00"
+    },
+    {
       "eventId": "77031496",
       "away": "Allemagne",
       "betradarId": "77031496",
@@ -12818,6 +11154,52 @@
       "_source": "Winamax",
       "_pulscore_sport": "tennis",
       "_last_updated": "2026-11-23T14:36:38.730523+00:00"
+    },
+    {
+      "eventId": "76424910",
+      "away": "Zyvyr John Medecilo",
+      "betradarId": "76424910",
+      "country": "International",
+      "home": "Takeshi Ishii",
+      "league": "Combats",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Vainqueur",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "T. Ishii",
+              "odds": 1.14,
+              "isActive": true,
+              "selectionId": "2280123432"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Z. Medecilo",
+              "odds": 3.75,
+              "isActive": true,
+              "selectionId": "2280123433"
+            }
+          ],
+          "marketId": "186|"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/76424910",
+        "tournamentId": 46,
+        "srTournamentId": "sr:tournament:24327"
+      },
+      "slug": "/paris-sportifs/match/76424910",
+      "sport": "boxing",
+      "startTime": "2026-11-26T12:00:00.000Z",
+      "updatedAt": "2026-11-24T02:39:19.269Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "boxing",
+      "_last_updated": "2026-11-24T02:53:37.812970+00:00"
     },
     {
       "eventId": "77031498",
@@ -12976,6 +11358,7 @@
     {
       "eventId": "75415408",
       "away": "Nelson Hysa",
+      "betradarId": "75415408",
       "country": "International",
       "home": "Agit Kabayel",
       "league": "Combats",
@@ -13014,10 +11397,150 @@
       "slug": "/paris-sportifs/match/75415408",
       "sport": "boxing",
       "startTime": "2026-11-28T15:00:00.000Z",
-      "updatedAt": "2026-10-20T11:25:34.678Z",
+      "updatedAt": "2026-11-24T02:39:12.540Z",
       "_source": "Winamax",
       "_pulscore_sport": "boxing",
-      "_last_updated": "2026-10-20T11:34:53.950261+00:00"
+      "_last_updated": "2026-11-24T02:53:37.812970+00:00"
+    },
+    {
+      "eventId": "75834434",
+      "away": "Yuri Akui Seigo",
+      "betradarId": "75834434",
+      "country": "International",
+      "home": "David Jimenez",
+      "league": "Combats",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Vainqueur",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "D. Jimenez",
+              "odds": 1.88,
+              "isActive": true,
+              "selectionId": "2243461981"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Y. A. Seigo",
+              "odds": 1.64,
+              "isActive": true,
+              "selectionId": "2243461982"
+            }
+          ],
+          "marketId": "186|"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/75834434",
+        "tournamentId": 46,
+        "srTournamentId": "sr:tournament:24327",
+        "round": "Titre par intérim WBA des poids super-mouches"
+      },
+      "slug": "/paris-sportifs/match/75834434",
+      "sport": "boxing",
+      "startTime": "2026-11-29T03:00:00.000Z",
+      "updatedAt": "2026-11-24T02:39:17.856Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "boxing",
+      "_last_updated": "2026-11-24T02:53:37.812970+00:00"
+    },
+    {
+      "eventId": "75834446",
+      "away": "Jassiel Ramon Amador Gamez",
+      "betradarId": "75834446",
+      "country": "International",
+      "home": "Kenshiro Teraji",
+      "league": "Combats",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Vainqueur",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "K. Teraji",
+              "odds": 1.07,
+              "isActive": true,
+              "selectionId": "2243520782"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "J. Amador",
+              "odds": 4.8,
+              "isActive": true,
+              "selectionId": "2243520783"
+            }
+          ],
+          "marketId": "186|"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/75834446",
+        "tournamentId": 46,
+        "srTournamentId": "sr:tournament:24327",
+        "round": "Titre mondial WBO des poids super-mouches"
+      },
+      "slug": "/paris-sportifs/match/75834446",
+      "sport": "boxing",
+      "startTime": "2026-11-29T05:00:00.000Z",
+      "updatedAt": "2026-11-24T02:39:21.053Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "boxing",
+      "_last_updated": "2026-11-24T02:53:37.812970+00:00"
+    },
+    {
+      "eventId": "76425650",
+      "away": "Johanna Wonyou",
+      "betradarId": "76425650",
+      "country": "International",
+      "home": "Francesca Hennessy",
+      "league": "Combats",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Vainqueur",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "F. Hennessy",
+              "odds": 1.23,
+              "isActive": true,
+              "selectionId": "2284186484"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Wonyou, Johanna",
+              "odds": 3,
+              "isActive": true,
+              "selectionId": "2284186485"
+            }
+          ],
+          "marketId": "186|"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/76425650",
+        "tournamentId": 46,
+        "srTournamentId": "sr:tournament:24327"
+      },
+      "slug": "/paris-sportifs/match/76425650",
+      "sport": "boxing",
+      "startTime": "2026-12-04T23:00:00.000Z",
+      "updatedAt": "2026-11-24T02:39:11.742Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "boxing",
+      "_last_updated": "2026-11-24T02:53:37.812970+00:00"
     },
     {
       "eventId": "76673224",
@@ -13112,8 +11635,56 @@
       "_last_updated": "2026-11-18T17:14:46.588439+00:00"
     },
     {
+      "eventId": "76165056",
+      "away": "Michal Cieslak",
+      "betradarId": "76165056",
+      "country": "International",
+      "home": "David Benavidez",
+      "league": "Combats",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Vainqueur",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "D. Benavidez",
+              "odds": 1.03,
+              "isActive": true,
+              "selectionId": "2263080479"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "M. Cieslak",
+              "odds": 5.8,
+              "isActive": true,
+              "selectionId": "2263080480"
+            }
+          ],
+          "marketId": "186|"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/76165056",
+        "tournamentId": 46,
+        "srTournamentId": "sr:tournament:24327",
+        "round": "Titre mondial WBA / WBC / WBO des poids lourds-légers"
+      },
+      "slug": "/paris-sportifs/match/76165056",
+      "sport": "boxing",
+      "startTime": "2026-12-05T21:00:00.000Z",
+      "updatedAt": "2026-11-24T02:39:14.350Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "boxing",
+      "_last_updated": "2026-11-24T02:53:37.812970+00:00"
+    },
+    {
       "eventId": "71001216",
       "away": "Anthony Joshua",
+      "betradarId": "71001216",
       "country": "International",
       "home": "Tyson Fury",
       "league": "Combats",
@@ -13128,7 +11699,7 @@
             {
               "canonicalOutcome": "HOME",
               "rawName": "T. Fury",
-              "odds": 1.43,
+              "odds": 1.45,
               "isActive": true,
               "selectionId": "1945120437"
             },
@@ -13184,7 +11755,7 @@
             {
               "canonicalOutcome": "OTHER",
               "rawName": "T. Fury et 2",
-              "odds": 25,
+              "odds": 26,
               "isActive": true,
               "selectionId": "2082441356"
             },
@@ -13198,7 +11769,7 @@
             {
               "canonicalOutcome": "OTHER",
               "rawName": "T. Fury et 4",
-              "odds": 19,
+              "odds": 20,
               "isActive": true,
               "selectionId": "2082441358"
             },
@@ -13219,14 +11790,14 @@
             {
               "canonicalOutcome": "OTHER",
               "rawName": "T. Fury et 7",
-              "odds": 16,
+              "odds": 17,
               "isActive": true,
               "selectionId": "2082441361"
             },
             {
               "canonicalOutcome": "OTHER",
               "rawName": "T. Fury et 8",
-              "odds": 16,
+              "odds": 17,
               "isActive": true,
               "selectionId": "2082441362"
             },
@@ -13240,28 +11811,28 @@
             {
               "canonicalOutcome": "OTHER",
               "rawName": "T. Fury et 10",
-              "odds": 18,
+              "odds": 19,
               "isActive": true,
               "selectionId": "2082441364"
             },
             {
               "canonicalOutcome": "OTHER",
               "rawName": "T. Fury et 11",
-              "odds": 20,
+              "odds": 21,
               "isActive": true,
               "selectionId": "2082441365"
             },
             {
               "canonicalOutcome": "OTHER",
               "rawName": "T. Fury et 12 (avant décision)",
-              "odds": 23,
+              "odds": 24,
               "isActive": true,
               "selectionId": "2082441366"
             },
             {
               "canonicalOutcome": "OTHER",
               "rawName": "T. Fury et 12 (après décision)",
-              "odds": 3.6,
+              "odds": 3.65,
               "isActive": true,
               "selectionId": "2082441353"
             },
@@ -13289,14 +11860,14 @@
             {
               "canonicalOutcome": "OTHER",
               "rawName": "A. Joshua et 3",
-              "odds": 30,
+              "odds": 29,
               "isActive": true,
               "selectionId": "2082441369"
             },
             {
               "canonicalOutcome": "OTHER",
               "rawName": "A. Joshua et 4",
-              "odds": 27,
+              "odds": 26,
               "isActive": true,
               "selectionId": "2082441370"
             },
@@ -13317,7 +11888,7 @@
             {
               "canonicalOutcome": "OTHER",
               "rawName": "A. Joshua et 7",
-              "odds": 24,
+              "odds": 23,
               "isActive": true,
               "selectionId": "2082441373"
             },
@@ -13331,14 +11902,14 @@
             {
               "canonicalOutcome": "OTHER",
               "rawName": "A. Joshua et 9",
-              "odds": 26,
+              "odds": 25,
               "isActive": true,
               "selectionId": "2082441375"
             },
             {
               "canonicalOutcome": "OTHER",
               "rawName": "A. Joshua et 10",
-              "odds": 28,
+              "odds": 27,
               "isActive": true,
               "selectionId": "2082441376"
             },
@@ -13352,14 +11923,14 @@
             {
               "canonicalOutcome": "OTHER",
               "rawName": "A. Joshua et 12 (avant décision)",
-              "odds": 36,
+              "odds": 34,
               "isActive": true,
               "selectionId": "2082441378"
             },
             {
               "canonicalOutcome": "OTHER",
               "rawName": "A. Joshua et 12 (après décision)",
-              "odds": 6.75,
+              "odds": 6.5,
               "isActive": true,
               "selectionId": "2082441354"
             }
@@ -13375,21 +11946,21 @@
             {
               "canonicalOutcome": "OTHER",
               "rawName": "T. Fury et round 1-3",
-              "odds": 9,
+              "odds": 9.5,
               "isActive": true,
               "selectionId": "2082441382"
             },
             {
               "canonicalOutcome": "OTHER",
               "rawName": "T. Fury et round 4-6",
-              "odds": 6.75,
+              "odds": 7,
               "isActive": true,
               "selectionId": "2082441383"
             },
             {
               "canonicalOutcome": "OTHER",
               "rawName": "T. Fury et round 7-9",
-              "odds": 6.25,
+              "odds": 6.5,
               "isActive": true,
               "selectionId": "2082441384"
             },
@@ -13403,7 +11974,7 @@
             {
               "canonicalOutcome": "OTHER",
               "rawName": "T. Fury et décision",
-              "odds": 3.6,
+              "odds": 3.65,
               "isActive": true,
               "selectionId": "2082441380"
             },
@@ -13424,7 +11995,7 @@
             {
               "canonicalOutcome": "OTHER",
               "rawName": "A. Joshua et round 4-6",
-              "odds": 9.5,
+              "odds": 9,
               "isActive": true,
               "selectionId": "2082441387"
             },
@@ -13445,7 +12016,7 @@
             {
               "canonicalOutcome": "OTHER",
               "rawName": "A. Joshua et décision",
-              "odds": 6.75,
+              "odds": 6.5,
               "isActive": true,
               "selectionId": "2082441381"
             }
@@ -13461,28 +12032,28 @@
             {
               "canonicalOutcome": "OTHER",
               "rawName": "T. Fury gagne par KO ou KO technique",
-              "odds": 2.2,
+              "odds": 2.25,
               "isActive": true,
               "selectionId": "2082441391"
             },
             {
               "canonicalOutcome": "OTHER",
               "rawName": "A. Joshua gagne par KO ou KO technique",
-              "odds": 3.25,
+              "odds": 3.2,
               "isActive": true,
               "selectionId": "2082441392"
             },
             {
               "canonicalOutcome": "OTHER",
               "rawName": "T. Fury gagne par décision",
-              "odds": 3.6,
+              "odds": 3.65,
               "isActive": true,
               "selectionId": "2082441393"
             },
             {
               "canonicalOutcome": "OTHER",
               "rawName": "A. Joshua gagne par décision",
-              "odds": 6.75,
+              "odds": 6.5,
               "isActive": true,
               "selectionId": "2082441394"
             },
@@ -13505,7 +12076,7 @@
             {
               "canonicalOutcome": "HOME",
               "rawName": "T. Fury",
-              "odds": 1.47,
+              "odds": 1.5,
               "isActive": true,
               "selectionId": "2082441395"
             },
@@ -13519,7 +12090,7 @@
             {
               "canonicalOutcome": "AWAY",
               "rawName": "A. Joshua",
-              "odds": 2.35,
+              "odds": 2.3,
               "isActive": true,
               "selectionId": "2082441397"
             }
@@ -13559,10 +12130,510 @@
       "slug": "/paris-sportifs/match/71001216",
       "sport": "boxing",
       "startTime": "2026-12-11T06:00:00.000Z",
-      "updatedAt": "2026-10-20T11:25:39.053Z",
+      "updatedAt": "2026-11-24T02:49:34.458Z",
       "_source": "Winamax",
       "_pulscore_sport": "boxing",
-      "_last_updated": "2026-10-20T11:34:53.950261+00:00"
+      "_last_updated": "2026-11-24T02:53:37.812970+00:00"
+    },
+    {
+      "eventId": "75620050",
+      "away": "Callum Smith",
+      "betradarId": "75620050",
+      "country": "International",
+      "home": "Dmitriy Bivol",
+      "league": "Combats",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "DRAW_NO_BET",
+          "rawName": "Vainqueur",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "D. Bivol",
+              "odds": 1.05,
+              "isActive": true,
+              "selectionId": "2228688314"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "C. Smith",
+              "odds": 5.1,
+              "isActive": true,
+              "selectionId": "2228688315"
+            }
+          ],
+          "marketId": "186|"
+        },
+        {
+          "canonicalMarket": "TOTAL_ROUNDS",
+          "rawName": "Nombre de rounds",
+          "period": "FULL_TIME",
+          "line": 10.5,
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OVER",
+              "rawName": "Plus de 10,5",
+              "odds": 1.25,
+              "isActive": true,
+              "selectionId": "2314699706",
+              "line": 10.5
+            },
+            {
+              "canonicalOutcome": "UNDER",
+              "rawName": "Moins de 10,5",
+              "odds": 3,
+              "isActive": true,
+              "selectionId": "2314699707",
+              "line": 10.5
+            }
+          ],
+          "marketId": "18|total=10.5"
+        },
+        {
+          "canonicalMarket": "OTHER",
+          "rawName": "Vainqueur et nombre exact de rounds",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "D. Bivol et 1",
+              "odds": 65,
+              "isActive": true,
+              "selectionId": "2314701900"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "D. Bivol et 2",
+              "odds": 60,
+              "isActive": true,
+              "selectionId": "2314701901"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "D. Bivol et 3",
+              "odds": 50,
+              "isActive": true,
+              "selectionId": "2314701902"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "D. Bivol et 4",
+              "odds": 46,
+              "isActive": true,
+              "selectionId": "2314701903"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "D. Bivol et 5",
+              "odds": 40,
+              "isActive": true,
+              "selectionId": "2314701904"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "D. Bivol et 6",
+              "odds": 34,
+              "isActive": true,
+              "selectionId": "2314701905"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "D. Bivol et 7",
+              "odds": 27,
+              "isActive": true,
+              "selectionId": "2314701906"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "D. Bivol et 8",
+              "odds": 24,
+              "isActive": true,
+              "selectionId": "2314701907"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "D. Bivol et 9",
+              "odds": 24,
+              "isActive": true,
+              "selectionId": "2314701908"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "D. Bivol et 10",
+              "odds": 22,
+              "isActive": true,
+              "selectionId": "2314701909"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "D. Bivol et 11",
+              "odds": 24,
+              "isActive": true,
+              "selectionId": "2314701910"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "D. Bivol et 12 (avant décision)",
+              "odds": 24,
+              "isActive": true,
+              "selectionId": "2314701911"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "D. Bivol et 12 (après décision)",
+              "odds": 1.46,
+              "isActive": true,
+              "selectionId": "2314701898"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Match nul",
+              "odds": 16,
+              "isActive": true,
+              "selectionId": "2314701897"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "C. Smith et 1",
+              "odds": 65,
+              "isActive": true,
+              "selectionId": "2314701912"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "C. Smith et 2",
+              "odds": 65,
+              "isActive": true,
+              "selectionId": "2314701913"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "C. Smith et 3",
+              "odds": 65,
+              "isActive": true,
+              "selectionId": "2314701914"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "C. Smith et 4",
+              "odds": 65,
+              "isActive": true,
+              "selectionId": "2314701915"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "C. Smith et 5",
+              "odds": 60,
+              "isActive": true,
+              "selectionId": "2314701916"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "C. Smith et 6",
+              "odds": 55,
+              "isActive": true,
+              "selectionId": "2314701917"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "C. Smith et 7",
+              "odds": 55,
+              "isActive": true,
+              "selectionId": "2314701918"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "C. Smith et 8",
+              "odds": 46,
+              "isActive": true,
+              "selectionId": "2314701919"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "C. Smith et 9",
+              "odds": 46,
+              "isActive": true,
+              "selectionId": "2314701920"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "C. Smith et 10",
+              "odds": 46,
+              "isActive": true,
+              "selectionId": "2314701921"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "C. Smith et 11",
+              "odds": 46,
+              "isActive": true,
+              "selectionId": "2314701922"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "C. Smith et 12 (avant décision)",
+              "odds": 46,
+              "isActive": true,
+              "selectionId": "2314701923"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "C. Smith et 12 (après décision)",
+              "odds": 16,
+              "isActive": true,
+              "selectionId": "2314701899"
+            }
+          ],
+          "marketId": "912|variant=sr:winner_and_rounds:12"
+        },
+        {
+          "canonicalMarket": "OTHER",
+          "rawName": "Vainqueur et nombre de rounds (intervalle)",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "D. Bivol et round 1-3",
+              "odds": 30,
+              "isActive": true,
+              "selectionId": "2314701927"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "D. Bivol et round 4-6",
+              "odds": 17,
+              "isActive": true,
+              "selectionId": "2314701928"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "D. Bivol et round 7-9",
+              "odds": 10,
+              "isActive": true,
+              "selectionId": "2314701929"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "D. Bivol et round 10-12",
+              "odds": 9.5,
+              "isActive": true,
+              "selectionId": "2314701930"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "D. Bivol et décision",
+              "odds": 1.4,
+              "isActive": true,
+              "selectionId": "2314701925"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Match nul",
+              "odds": 15,
+              "isActive": true,
+              "selectionId": "2314701924"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "C. Smith et round 1-3",
+              "odds": 50,
+              "isActive": true,
+              "selectionId": "2314701931"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "C. Smith et round 4-6",
+              "odds": 30,
+              "isActive": true,
+              "selectionId": "2314701932"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "C. Smith et round 7-9",
+              "odds": 22,
+              "isActive": true,
+              "selectionId": "2314701933"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "C. Smith et round 10-12",
+              "odds": 20,
+              "isActive": true,
+              "selectionId": "2314701934"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "C. Smith et décision",
+              "odds": 15,
+              "isActive": true,
+              "selectionId": "2314701926"
+            }
+          ],
+          "marketId": "913|variant=sr:winner_and_round_range:12"
+        },
+        {
+          "canonicalMarket": "OTHER",
+          "rawName": "Vainqueur et méthode de victoire",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "D. Bivol gagne par décision",
+              "odds": 1.35,
+              "isActive": true,
+              "selectionId": "2314701938"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "D. Bivol gagne par KO ou KO technique",
+              "odds": 4.5,
+              "isActive": true,
+              "selectionId": "2314701936"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "C. Smith gagne par KO ou KO technique",
+              "odds": 10,
+              "isActive": true,
+              "selectionId": "2314701937"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "C. Smith gagne par décision",
+              "odds": 13,
+              "isActive": true,
+              "selectionId": "2314701939"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Égalité",
+              "odds": 13.5,
+              "isActive": true,
+              "selectionId": "2314701935"
+            }
+          ],
+          "marketId": "910|variant=sr:winning_method:ko_decision"
+        },
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "D. Bivol",
+              "odds": 1.08,
+              "isActive": true,
+              "selectionId": "2314701940"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 20,
+              "isActive": true,
+              "selectionId": "2314701941"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "C. Smith",
+              "odds": 6.75,
+              "isActive": true,
+              "selectionId": "2314701942"
+            }
+          ],
+          "marketId": "1|"
+        },
+        {
+          "canonicalMarket": "GO_THE_DISTANCE",
+          "rawName": "Le combat va à son terme",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "YES",
+              "rawName": "Oui",
+              "odds": 1.28,
+              "isActive": true,
+              "selectionId": "2314701943"
+            },
+            {
+              "canonicalOutcome": "NO",
+              "rawName": "Non",
+              "odds": 2.85,
+              "isActive": true,
+              "selectionId": "2314701944"
+            }
+          ],
+          "marketId": "911|"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/75620050",
+        "tournamentId": 46,
+        "srTournamentId": "sr:tournament:24327",
+        "round": "Titre mondial WBA / IBF / WBO des poids mi-lourds"
+      },
+      "slug": "/paris-sportifs/match/75620050",
+      "sport": "boxing",
+      "startTime": "2026-12-12T17:00:00.000Z",
+      "updatedAt": "2026-11-24T02:49:32.990Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "boxing",
+      "_last_updated": "2026-11-24T02:53:37.812970+00:00"
+    },
+    {
+      "eventId": "75882114",
+      "away": "Moussa Gholam",
+      "betradarId": "75882114",
+      "country": "International",
+      "home": "Josh Padley",
+      "league": "Combats",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Vainqueur",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "J. Padley",
+              "odds": 2.4,
+              "isActive": true,
+              "selectionId": "2246214167"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "M. Gholam",
+              "odds": 1.37,
+              "isActive": true,
+              "selectionId": "2246214168"
+            }
+          ],
+          "marketId": "186|"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/75882114",
+        "tournamentId": 46,
+        "srTournamentId": "sr:tournament:24327"
+      },
+      "slug": "/paris-sportifs/match/75882114",
+      "sport": "boxing",
+      "startTime": "2026-12-12T21:30:00.000Z",
+      "updatedAt": "2026-11-24T02:39:15.362Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "boxing",
+      "_last_updated": "2026-11-24T02:53:37.812970+00:00"
     },
     {
       "eventId": "75445098",
@@ -13657,10 +12728,1824 @@
       "_last_updated": "2026-11-18T17:14:46.588439+00:00"
     },
     {
+      "eventId": "76478404",
+      "away": "Liam Wilson",
+      "betradarId": "76478404",
+      "country": "International",
+      "home": "Elnur Samedov",
+      "league": "Combats",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "DRAW_NO_BET",
+          "rawName": "Vainqueur",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "E. Samedov",
+              "odds": 1.7,
+              "isActive": true,
+              "selectionId": "2281386436"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "L. Wilson",
+              "odds": 1.78,
+              "isActive": true,
+              "selectionId": "2281386437"
+            }
+          ],
+          "marketId": "186|"
+        },
+        {
+          "canonicalMarket": "TOTAL_ROUNDS",
+          "rawName": "Nombre de rounds",
+          "period": "FULL_TIME",
+          "line": 10.5,
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OVER",
+              "rawName": "Plus de 10,5",
+              "odds": 1.39,
+              "isActive": true,
+              "selectionId": "2314710053",
+              "line": 10.5
+            },
+            {
+              "canonicalOutcome": "UNDER",
+              "rawName": "Moins de 10,5",
+              "odds": 2.35,
+              "isActive": true,
+              "selectionId": "2314710054",
+              "line": 10.5
+            }
+          ],
+          "marketId": "18|total=10.5"
+        },
+        {
+          "canonicalMarket": "OTHER",
+          "rawName": "Vainqueur et nombre exact de rounds",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "E. Samedov et 1",
+              "odds": 60,
+              "isActive": true,
+              "selectionId": "2314764302"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "E. Samedov et 2",
+              "odds": 50,
+              "isActive": true,
+              "selectionId": "2314764303"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "E. Samedov et 3",
+              "odds": 44,
+              "isActive": true,
+              "selectionId": "2314764304"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "E. Samedov et 4",
+              "odds": 36,
+              "isActive": true,
+              "selectionId": "2314764305"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "E. Samedov et 5",
+              "odds": 32,
+              "isActive": true,
+              "selectionId": "2314764306"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "E. Samedov et 6",
+              "odds": 29,
+              "isActive": true,
+              "selectionId": "2314764307"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "E. Samedov et 7",
+              "odds": 26,
+              "isActive": true,
+              "selectionId": "2314764308"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "E. Samedov et 8",
+              "odds": 24,
+              "isActive": true,
+              "selectionId": "2314764309"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "E. Samedov et 9",
+              "odds": 24,
+              "isActive": true,
+              "selectionId": "2314764310"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "E. Samedov et 10",
+              "odds": 24,
+              "isActive": true,
+              "selectionId": "2314764311"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "E. Samedov et 11",
+              "odds": 24,
+              "isActive": true,
+              "selectionId": "2314764312"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "E. Samedov et 12 (avant décision)",
+              "odds": 26,
+              "isActive": true,
+              "selectionId": "2314764313"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "E. Samedov et 12 (après décision)",
+              "odds": 3.15,
+              "isActive": true,
+              "selectionId": "2314764300"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Match nul",
+              "odds": 13,
+              "isActive": true,
+              "selectionId": "2314764299"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "L. Wilson et 1",
+              "odds": 60,
+              "isActive": true,
+              "selectionId": "2314764314"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "L. Wilson et 2",
+              "odds": 50,
+              "isActive": true,
+              "selectionId": "2314764315"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "L. Wilson et 3",
+              "odds": 44,
+              "isActive": true,
+              "selectionId": "2314764316"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "L. Wilson et 4",
+              "odds": 40,
+              "isActive": true,
+              "selectionId": "2314764317"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "L. Wilson et 5",
+              "odds": 34,
+              "isActive": true,
+              "selectionId": "2314764318"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "L. Wilson et 6",
+              "odds": 32,
+              "isActive": true,
+              "selectionId": "2314764319"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "L. Wilson et 7",
+              "odds": 30,
+              "isActive": true,
+              "selectionId": "2314764320"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "L. Wilson et 8",
+              "odds": 29,
+              "isActive": true,
+              "selectionId": "2314764321"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "L. Wilson et 9",
+              "odds": 29,
+              "isActive": true,
+              "selectionId": "2314764322"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "L. Wilson et 10",
+              "odds": 30,
+              "isActive": true,
+              "selectionId": "2314764323"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "L. Wilson et 11",
+              "odds": 32,
+              "isActive": true,
+              "selectionId": "2314764324"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "L. Wilson et 12 (avant décision)",
+              "odds": 34,
+              "isActive": true,
+              "selectionId": "2314764325"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "L. Wilson et 12 (après décision)",
+              "odds": 3.05,
+              "isActive": true,
+              "selectionId": "2314764301"
+            }
+          ],
+          "marketId": "912|variant=sr:winner_and_rounds:12"
+        },
+        {
+          "canonicalMarket": "OTHER",
+          "rawName": "Vainqueur et nombre de rounds (intervalle)",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "E. Samedov et round 1-3",
+              "odds": 22,
+              "isActive": true,
+              "selectionId": "2314764329"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "E. Samedov et round 4-6",
+              "odds": 12,
+              "isActive": true,
+              "selectionId": "2314764330"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "E. Samedov et round 7-9",
+              "odds": 9,
+              "isActive": true,
+              "selectionId": "2314764331"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "E. Samedov et round 10-12",
+              "odds": 9,
+              "isActive": true,
+              "selectionId": "2314764332"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "E. Samedov et décision",
+              "odds": 3.15,
+              "isActive": true,
+              "selectionId": "2314764327"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Match nul",
+              "odds": 13,
+              "isActive": true,
+              "selectionId": "2314764326"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "L. Wilson et round 1-3",
+              "odds": 22,
+              "isActive": true,
+              "selectionId": "2314764333"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "L. Wilson et round 4-6",
+              "odds": 13.5,
+              "isActive": true,
+              "selectionId": "2314764334"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "L. Wilson et round 7-9",
+              "odds": 11,
+              "isActive": true,
+              "selectionId": "2314764335"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "L. Wilson et round 10-12",
+              "odds": 12,
+              "isActive": true,
+              "selectionId": "2314764336"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "L. Wilson et décision",
+              "odds": 3.05,
+              "isActive": true,
+              "selectionId": "2314764328"
+            }
+          ],
+          "marketId": "913|variant=sr:winner_and_round_range:12"
+        },
+        {
+          "canonicalMarket": "OTHER",
+          "rawName": "Vainqueur et méthode de victoire",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "L. Wilson gagne par décision",
+              "odds": 3.05,
+              "isActive": true,
+              "selectionId": "2314764341"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "E. Samedov gagne par décision",
+              "odds": 3.15,
+              "isActive": true,
+              "selectionId": "2314764340"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "E. Samedov gagne par KO ou KO technique",
+              "odds": 3.5,
+              "isActive": true,
+              "selectionId": "2314764338"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "L. Wilson gagne par KO ou KO technique",
+              "odds": 4.1,
+              "isActive": true,
+              "selectionId": "2314764339"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Égalité",
+              "odds": 13,
+              "isActive": true,
+              "selectionId": "2314764337"
+            }
+          ],
+          "marketId": "910|variant=sr:winning_method:ko_decision"
+        },
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "E. Samedov",
+              "odds": 1.76,
+              "isActive": true,
+              "selectionId": "2314764342"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 13,
+              "isActive": true,
+              "selectionId": "2314764343"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "L. Wilson",
+              "odds": 1.86,
+              "isActive": true,
+              "selectionId": "2314764344"
+            }
+          ],
+          "marketId": "1|"
+        },
+        {
+          "canonicalMarket": "GO_THE_DISTANCE",
+          "rawName": "Le combat va à son terme",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "YES",
+              "rawName": "Oui",
+              "odds": 1.52,
+              "isActive": true,
+              "selectionId": "2314764345"
+            },
+            {
+              "canonicalOutcome": "NO",
+              "rawName": "Non",
+              "odds": 2,
+              "isActive": true,
+              "selectionId": "2314764346"
+            }
+          ],
+          "marketId": "911|"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/76478404",
+        "tournamentId": 46,
+        "srTournamentId": "sr:tournament:24327"
+      },
+      "slug": "/paris-sportifs/match/76478404",
+      "sport": "boxing",
+      "startTime": "2026-12-13T03:30:00.000Z",
+      "updatedAt": "2026-11-24T02:49:34.458Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "boxing",
+      "_last_updated": "2026-11-24T02:53:37.812970+00:00"
+    },
+    {
+      "eventId": "76428968",
+      "away": "Tim Tszyu",
+      "betradarId": "76428968",
+      "country": "International",
+      "home": "Erislandy Lara",
+      "league": "Combats",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "DRAW_NO_BET",
+          "rawName": "Vainqueur",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "E. Lara",
+              "odds": 1.7,
+              "isActive": true,
+              "selectionId": "2279324200"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "T. Tszyu",
+              "odds": 1.8,
+              "isActive": true,
+              "selectionId": "2279324201"
+            }
+          ],
+          "marketId": "186|"
+        },
+        {
+          "canonicalMarket": "TOTAL_ROUNDS",
+          "rawName": "Nombre de rounds",
+          "period": "FULL_TIME",
+          "line": 10.5,
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OVER",
+              "rawName": "Plus de 10,5",
+              "odds": 1.33,
+              "isActive": true,
+              "selectionId": "2314721647",
+              "line": 10.5
+            },
+            {
+              "canonicalOutcome": "UNDER",
+              "rawName": "Moins de 10,5",
+              "odds": 2.55,
+              "isActive": true,
+              "selectionId": "2314721648",
+              "line": 10.5
+            }
+          ],
+          "marketId": "18|total=10.5"
+        },
+        {
+          "canonicalMarket": "OTHER",
+          "rawName": "Vainqueur et nombre exact de rounds",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "E. Lara et 1",
+              "odds": 60,
+              "isActive": true,
+              "selectionId": "2314791188"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "E. Lara et 2",
+              "odds": 55,
+              "isActive": true,
+              "selectionId": "2314791189"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "E. Lara et 3",
+              "odds": 46,
+              "isActive": true,
+              "selectionId": "2314791190"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "E. Lara et 4",
+              "odds": 38,
+              "isActive": true,
+              "selectionId": "2314791191"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "E. Lara et 5",
+              "odds": 32,
+              "isActive": true,
+              "selectionId": "2314791192"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "E. Lara et 6",
+              "odds": 29,
+              "isActive": true,
+              "selectionId": "2314791193"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "E. Lara et 7",
+              "odds": 26,
+              "isActive": true,
+              "selectionId": "2314791194"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "E. Lara et 8",
+              "odds": 24,
+              "isActive": true,
+              "selectionId": "2314791195"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "E. Lara et 9",
+              "odds": 22,
+              "isActive": true,
+              "selectionId": "2314791196"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "E. Lara et 10",
+              "odds": 22,
+              "isActive": true,
+              "selectionId": "2314791197"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "E. Lara et 11",
+              "odds": 22,
+              "isActive": true,
+              "selectionId": "2314791198"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "E. Lara et 12 (avant décision)",
+              "odds": 23,
+              "isActive": true,
+              "selectionId": "2314791199"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "E. Lara et 12 (après décision)",
+              "odds": 3.25,
+              "isActive": true,
+              "selectionId": "2314791186"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Match nul",
+              "odds": 13,
+              "isActive": true,
+              "selectionId": "2314791185"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "T. Tszyu et 1",
+              "odds": 60,
+              "isActive": true,
+              "selectionId": "2314791200"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "T. Tszyu et 2",
+              "odds": 55,
+              "isActive": true,
+              "selectionId": "2314791201"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "T. Tszyu et 3",
+              "odds": 50,
+              "isActive": true,
+              "selectionId": "2314791202"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "T. Tszyu et 4",
+              "odds": 46,
+              "isActive": true,
+              "selectionId": "2314791203"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "T. Tszyu et 5",
+              "odds": 44,
+              "isActive": true,
+              "selectionId": "2314791204"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "T. Tszyu et 6",
+              "odds": 40,
+              "isActive": true,
+              "selectionId": "2314791205"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "T. Tszyu et 7",
+              "odds": 38,
+              "isActive": true,
+              "selectionId": "2314791206"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "T. Tszyu et 8",
+              "odds": 38,
+              "isActive": true,
+              "selectionId": "2314791207"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "T. Tszyu et 9",
+              "odds": 38,
+              "isActive": true,
+              "selectionId": "2314791208"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "T. Tszyu et 10",
+              "odds": 40,
+              "isActive": true,
+              "selectionId": "2314791209"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "T. Tszyu et 11",
+              "odds": 44,
+              "isActive": true,
+              "selectionId": "2314791210"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "T. Tszyu et 12 (avant décision)",
+              "odds": 48,
+              "isActive": true,
+              "selectionId": "2314791211"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "T. Tszyu et 12 (après décision)",
+              "odds": 2.6,
+              "isActive": true,
+              "selectionId": "2314791187"
+            }
+          ],
+          "marketId": "912|variant=sr:winner_and_rounds:12"
+        },
+        {
+          "canonicalMarket": "OTHER",
+          "rawName": "Vainqueur et nombre de rounds (intervalle)",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "E. Lara et round 1-3",
+              "odds": 24,
+              "isActive": true,
+              "selectionId": "2314791215"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "E. Lara et round 4-6",
+              "odds": 12.5,
+              "isActive": true,
+              "selectionId": "2314791216"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "E. Lara et round 7-9",
+              "odds": 8.5,
+              "isActive": true,
+              "selectionId": "2314791217"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "E. Lara et round 10-12",
+              "odds": 8,
+              "isActive": true,
+              "selectionId": "2314791218"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "E. Lara et décision",
+              "odds": 3.25,
+              "isActive": true,
+              "selectionId": "2314791213"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Match nul",
+              "odds": 13,
+              "isActive": true,
+              "selectionId": "2314791212"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "T. Tszyu et round 1-3",
+              "odds": 26,
+              "isActive": true,
+              "selectionId": "2314791219"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "T. Tszyu et round 4-6",
+              "odds": 17,
+              "isActive": true,
+              "selectionId": "2314791220"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "T. Tszyu et round 7-9",
+              "odds": 15,
+              "isActive": true,
+              "selectionId": "2314791221"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "T. Tszyu et round 10-12",
+              "odds": 17,
+              "isActive": true,
+              "selectionId": "2314791222"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "T. Tszyu et décision",
+              "odds": 2.6,
+              "isActive": true,
+              "selectionId": "2314791214"
+            }
+          ],
+          "marketId": "913|variant=sr:winner_and_round_range:12"
+        },
+        {
+          "canonicalMarket": "OTHER",
+          "rawName": "Vainqueur et méthode de victoire",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "T. Tszyu gagne par décision",
+              "odds": 2.6,
+              "isActive": true,
+              "selectionId": "2314791227"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "E. Lara gagne par décision",
+              "odds": 3.25,
+              "isActive": true,
+              "selectionId": "2314791226"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "E. Lara gagne par KO ou KO technique",
+              "odds": 3.45,
+              "isActive": true,
+              "selectionId": "2314791224"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "T. Tszyu gagne par KO ou KO technique",
+              "odds": 5.4,
+              "isActive": true,
+              "selectionId": "2314791225"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Égalité",
+              "odds": 13,
+              "isActive": true,
+              "selectionId": "2314791223"
+            }
+          ],
+          "marketId": "910|variant=sr:winning_method:ko_decision"
+        },
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "E. Lara",
+              "odds": 1.76,
+              "isActive": true,
+              "selectionId": "2314791228"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 13,
+              "isActive": true,
+              "selectionId": "2314791229"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "T. Tszyu",
+              "odds": 1.88,
+              "isActive": true,
+              "selectionId": "2314791230"
+            }
+          ],
+          "marketId": "1|"
+        },
+        {
+          "canonicalMarket": "GO_THE_DISTANCE",
+          "rawName": "Le combat va à son terme",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "YES",
+              "rawName": "Oui",
+              "odds": 1.43,
+              "isActive": true,
+              "selectionId": "2314791231"
+            },
+            {
+              "canonicalOutcome": "NO",
+              "rawName": "Non",
+              "odds": 2.25,
+              "isActive": true,
+              "selectionId": "2314791232"
+            }
+          ],
+          "marketId": "911|"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/76428968",
+        "tournamentId": 46,
+        "srTournamentId": "sr:tournament:24327"
+      },
+      "slug": "/paris-sportifs/match/76428968",
+      "sport": "boxing",
+      "startTime": "2026-12-13T20:00:00.000Z",
+      "updatedAt": "2026-11-24T02:49:34.458Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "boxing",
+      "_last_updated": "2026-11-24T02:53:37.812970+00:00"
+    },
+    {
+      "eventId": "76192922",
+      "away": "Liam Paro",
+      "betradarId": "76192922",
+      "country": "International",
+      "home": "Devin Haney",
+      "league": "Combats",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "DRAW_NO_BET",
+          "rawName": "Vainqueur",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "D. Haney",
+              "odds": 1.05,
+              "isActive": true,
+              "selectionId": "2264631243"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "L. Paro",
+              "odds": 5.2,
+              "isActive": true,
+              "selectionId": "2264631244"
+            }
+          ],
+          "marketId": "186|"
+        },
+        {
+          "canonicalMarket": "TOTAL_ROUNDS",
+          "rawName": "Nombre de rounds",
+          "period": "FULL_TIME",
+          "line": 10.5,
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OVER",
+              "rawName": "Plus de 10,5",
+              "odds": 1.19,
+              "isActive": true,
+              "selectionId": "2293327930",
+              "line": 10.5
+            },
+            {
+              "canonicalOutcome": "UNDER",
+              "rawName": "Moins de 10,5",
+              "odds": 3.55,
+              "isActive": true,
+              "selectionId": "2293327931",
+              "line": 10.5
+            }
+          ],
+          "marketId": "18|total=10.5"
+        },
+        {
+          "canonicalMarket": "OTHER",
+          "rawName": "Vainqueur et nombre exact de rounds",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "D. Haney et 1",
+              "odds": 60,
+              "isActive": true,
+              "selectionId": "2293387474"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "D. Haney et 2",
+              "odds": 50,
+              "isActive": true,
+              "selectionId": "2293387475"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "D. Haney et 3",
+              "odds": 42,
+              "isActive": true,
+              "selectionId": "2293387476"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "D. Haney et 4",
+              "odds": 36,
+              "isActive": true,
+              "selectionId": "2293387477"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "D. Haney et 5",
+              "odds": 30,
+              "isActive": true,
+              "selectionId": "2293387478"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "D. Haney et 6",
+              "odds": 27,
+              "isActive": true,
+              "selectionId": "2293387479"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "D. Haney et 7",
+              "odds": 24,
+              "isActive": true,
+              "selectionId": "2293387480"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "D. Haney et 8",
+              "odds": 22,
+              "isActive": true,
+              "selectionId": "2293387481"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "D. Haney et 9",
+              "odds": 21,
+              "isActive": true,
+              "selectionId": "2293387482"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "D. Haney et 10",
+              "odds": 21,
+              "isActive": true,
+              "selectionId": "2293387483"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "D. Haney et 11",
+              "odds": 21,
+              "isActive": true,
+              "selectionId": "2293387484"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "D. Haney et 12 (avant décision)",
+              "odds": 22,
+              "isActive": true,
+              "selectionId": "2293387485"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "D. Haney et 12 (après décision)",
+              "odds": 1.45,
+              "isActive": true,
+              "selectionId": "2293387472"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Match nul",
+              "odds": 18,
+              "isActive": true,
+              "selectionId": "2293387471"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "L. Paro et 1",
+              "odds": 100,
+              "isActive": true,
+              "selectionId": "2293387486"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "L. Paro et 2",
+              "odds": 100,
+              "isActive": true,
+              "selectionId": "2293387487"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "L. Paro et 3",
+              "odds": 100,
+              "isActive": true,
+              "selectionId": "2293387488"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "L. Paro et 4",
+              "odds": 95,
+              "isActive": true,
+              "selectionId": "2293387489"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "L. Paro et 5",
+              "odds": 90,
+              "isActive": true,
+              "selectionId": "2293387490"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "L. Paro et 6",
+              "odds": 90,
+              "isActive": true,
+              "selectionId": "2293387491"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "L. Paro et 7",
+              "odds": 90,
+              "isActive": true,
+              "selectionId": "2293387492"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "L. Paro et 8",
+              "odds": 90,
+              "isActive": true,
+              "selectionId": "2293387493"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "L. Paro et 9",
+              "odds": 95,
+              "isActive": true,
+              "selectionId": "2293387494"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "L. Paro et 10",
+              "odds": 100,
+              "isActive": true,
+              "selectionId": "2293387495"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "L. Paro et 11",
+              "odds": 100,
+              "isActive": true,
+              "selectionId": "2293387496"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "L. Paro et 12 (avant décision)",
+              "odds": 100,
+              "isActive": true,
+              "selectionId": "2293387497"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "L. Paro et 12 (après décision)",
+              "odds": 10,
+              "isActive": true,
+              "selectionId": "2293387473"
+            }
+          ],
+          "marketId": "912|variant=sr:winner_and_rounds:12"
+        },
+        {
+          "canonicalMarket": "OTHER",
+          "rawName": "Vainqueur et nombre de rounds (intervalle)",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "D. Haney et round 1-3",
+              "odds": 21,
+              "isActive": true,
+              "selectionId": "2293387501"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "D. Haney et round 4-6",
+              "odds": 11.5,
+              "isActive": true,
+              "selectionId": "2293387502"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "D. Haney et round 7-9",
+              "odds": 8,
+              "isActive": true,
+              "selectionId": "2293387503"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "D. Haney et round 10-12",
+              "odds": 8,
+              "isActive": true,
+              "selectionId": "2293387504"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "D. Haney et décision",
+              "odds": 1.45,
+              "isActive": true,
+              "selectionId": "2293387499"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Match nul",
+              "odds": 18,
+              "isActive": true,
+              "selectionId": "2293387498"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "L. Paro et round 1-3",
+              "odds": 60,
+              "isActive": true,
+              "selectionId": "2293387505"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "L. Paro et round 4-6",
+              "odds": 50,
+              "isActive": true,
+              "selectionId": "2293387506"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "L. Paro et round 7-9",
+              "odds": 50,
+              "isActive": true,
+              "selectionId": "2293387507"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "L. Paro et round 10-12",
+              "odds": 60,
+              "isActive": true,
+              "selectionId": "2293387508"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "L. Paro et décision",
+              "odds": 10,
+              "isActive": true,
+              "selectionId": "2293387500"
+            }
+          ],
+          "marketId": "913|variant=sr:winner_and_round_range:12"
+        },
+        {
+          "canonicalMarket": "OTHER",
+          "rawName": "Vainqueur et méthode de victoire",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "D. Haney gagne par décision",
+              "odds": 1.45,
+              "isActive": true,
+              "selectionId": "2293387512"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "D. Haney gagne par KO ou KO technique",
+              "odds": 3.2,
+              "isActive": true,
+              "selectionId": "2293387510"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "L. Paro gagne par décision",
+              "odds": 10,
+              "isActive": true,
+              "selectionId": "2293387513"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Égalité",
+              "odds": 18,
+              "isActive": true,
+              "selectionId": "2293387509"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "L. Paro gagne par KO ou KO technique",
+              "odds": 19,
+              "isActive": true,
+              "selectionId": "2293387511"
+            }
+          ],
+          "marketId": "910|variant=sr:winning_method:ko_decision"
+        },
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "D. Haney",
+              "odds": 1.08,
+              "isActive": true,
+              "selectionId": "2293387514"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 18,
+              "isActive": true,
+              "selectionId": "2293387515"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "L. Paro",
+              "odds": 7.25,
+              "isActive": true,
+              "selectionId": "2293387516"
+            }
+          ],
+          "marketId": "1|"
+        },
+        {
+          "canonicalMarket": "GO_THE_DISTANCE",
+          "rawName": "Le combat va à son terme",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "YES",
+              "rawName": "Oui",
+              "odds": 1.27,
+              "isActive": true,
+              "selectionId": "2293387517"
+            },
+            {
+              "canonicalOutcome": "NO",
+              "rawName": "Non",
+              "odds": 2.85,
+              "isActive": true,
+              "selectionId": "2293387518"
+            }
+          ],
+          "marketId": "911|"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/76192922",
+        "tournamentId": 46,
+        "srTournamentId": "sr:tournament:24327"
+      },
+      "slug": "/paris-sportifs/match/76192922",
+      "sport": "boxing",
+      "startTime": "2026-12-19T21:00:00.000Z",
+      "updatedAt": "2026-11-24T02:49:32.990Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "boxing",
+      "_last_updated": "2026-11-24T02:53:37.812970+00:00"
+    },
+    {
       "eventId": "74297064",
       "away": "Nick Ball",
+      "betradarId": "74297064",
       "country": "International",
       "home": "Anthony Cacace",
+      "league": "Combats",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "DRAW_NO_BET",
+          "rawName": "Vainqueur",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "A. Cacace",
+              "odds": 1.43,
+              "isActive": true,
+              "selectionId": "2142581116"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "N. Ball",
+              "odds": 2.25,
+              "isActive": true,
+              "selectionId": "2142581117"
+            }
+          ],
+          "marketId": "186|"
+        },
+        {
+          "canonicalMarket": "OTHER",
+          "rawName": "Vainqueur et nombre exact de rounds",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "A. Cacace et 1",
+              "odds": 60,
+              "isActive": true,
+              "selectionId": "2314820176"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "A. Cacace et 2",
+              "odds": 50,
+              "isActive": true,
+              "selectionId": "2314820177"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "A. Cacace et 3",
+              "odds": 44,
+              "isActive": true,
+              "selectionId": "2314820178"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "A. Cacace et 4",
+              "odds": 36,
+              "isActive": true,
+              "selectionId": "2314820179"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "A. Cacace et 5",
+              "odds": 30,
+              "isActive": true,
+              "selectionId": "2314820180"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "A. Cacace et 6",
+              "odds": 27,
+              "isActive": true,
+              "selectionId": "2314820181"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "A. Cacace et 7",
+              "odds": 24,
+              "isActive": true,
+              "selectionId": "2314820182"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "A. Cacace et 8",
+              "odds": 22,
+              "isActive": true,
+              "selectionId": "2314820183"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "A. Cacace et 9",
+              "odds": 21,
+              "isActive": true,
+              "selectionId": "2314820184"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "A. Cacace et 10",
+              "odds": 20,
+              "isActive": true,
+              "selectionId": "2314820185"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "A. Cacace et 11",
+              "odds": 20,
+              "isActive": true,
+              "selectionId": "2314820186"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "A. Cacace et 12 (avant décision)",
+              "odds": 21,
+              "isActive": true,
+              "selectionId": "2314820187"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "A. Cacace et 12 (après décision)",
+              "odds": 2.45,
+              "isActive": true,
+              "selectionId": "2314820174"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Match nul",
+              "odds": 13,
+              "isActive": true,
+              "selectionId": "2314820173"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "N. Ball et 1",
+              "odds": 60,
+              "isActive": true,
+              "selectionId": "2314820188"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "N. Ball et 2",
+              "odds": 55,
+              "isActive": true,
+              "selectionId": "2314820189"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "N. Ball et 3",
+              "odds": 50,
+              "isActive": true,
+              "selectionId": "2314820190"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "N. Ball et 4",
+              "odds": 46,
+              "isActive": true,
+              "selectionId": "2314820191"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "N. Ball et 5",
+              "odds": 42,
+              "isActive": true,
+              "selectionId": "2314820192"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "N. Ball et 6",
+              "odds": 38,
+              "isActive": true,
+              "selectionId": "2314820193"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "N. Ball et 7",
+              "odds": 36,
+              "isActive": true,
+              "selectionId": "2314820194"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "N. Ball et 8",
+              "odds": 36,
+              "isActive": true,
+              "selectionId": "2314820195"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "N. Ball et 9",
+              "odds": 36,
+              "isActive": true,
+              "selectionId": "2314820196"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "N. Ball et 10",
+              "odds": 38,
+              "isActive": true,
+              "selectionId": "2314820197"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "N. Ball et 11",
+              "odds": 40,
+              "isActive": true,
+              "selectionId": "2314820198"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "N. Ball et 12 (avant décision)",
+              "odds": 42,
+              "isActive": true,
+              "selectionId": "2314820199"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "N. Ball et 12 (après décision)",
+              "odds": 3.9,
+              "isActive": true,
+              "selectionId": "2314820175"
+            }
+          ],
+          "marketId": "912|variant=sr:winner_and_rounds:12"
+        },
+        {
+          "canonicalMarket": "OTHER",
+          "rawName": "Vainqueur et nombre de rounds (intervalle)",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "A. Cacace et round 1-3",
+              "odds": 22,
+              "isActive": true,
+              "selectionId": "2314820203"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "A. Cacace et round 4-6",
+              "odds": 11.5,
+              "isActive": true,
+              "selectionId": "2314820204"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "A. Cacace et round 7-9",
+              "odds": 8,
+              "isActive": true,
+              "selectionId": "2314820205"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "A. Cacace et round 10-12",
+              "odds": 7.75,
+              "isActive": true,
+              "selectionId": "2314820206"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "A. Cacace et décision",
+              "odds": 2.45,
+              "isActive": true,
+              "selectionId": "2314820201"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Match nul",
+              "odds": 13,
+              "isActive": true,
+              "selectionId": "2314820200"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "N. Ball et round 1-3",
+              "odds": 27,
+              "isActive": true,
+              "selectionId": "2314820207"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "N. Ball et round 4-6",
+              "odds": 17,
+              "isActive": true,
+              "selectionId": "2314820208"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "N. Ball et round 7-9",
+              "odds": 14,
+              "isActive": true,
+              "selectionId": "2314820209"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "N. Ball et round 10-12",
+              "odds": 15,
+              "isActive": true,
+              "selectionId": "2314820210"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "N. Ball et décision",
+              "odds": 3.9,
+              "isActive": true,
+              "selectionId": "2314820202"
+            }
+          ],
+          "marketId": "913|variant=sr:winner_and_round_range:12"
+        },
+        {
+          "canonicalMarket": "OTHER",
+          "rawName": "Vainqueur et méthode de victoire",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "A. Cacace gagne par décision",
+              "odds": 2.45,
+              "isActive": true,
+              "selectionId": "2314820214"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "A. Cacace gagne par KO ou KO technique",
+              "odds": 3.2,
+              "isActive": true,
+              "selectionId": "2314820212"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "N. Ball gagne par décision",
+              "odds": 3.9,
+              "isActive": true,
+              "selectionId": "2314820215"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "N. Ball gagne par KO ou KO technique",
+              "odds": 5.1,
+              "isActive": true,
+              "selectionId": "2314820213"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Égalité",
+              "odds": 13,
+              "isActive": true,
+              "selectionId": "2314820211"
+            }
+          ],
+          "marketId": "910|variant=sr:winning_method:ko_decision"
+        },
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "A. Cacace",
+              "odds": 1.48,
+              "isActive": true,
+              "selectionId": "2314820216"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 13,
+              "isActive": true,
+              "selectionId": "2314820217"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "N. Ball",
+              "odds": 2.4,
+              "isActive": true,
+              "selectionId": "2314820218"
+            }
+          ],
+          "marketId": "1|"
+        },
+        {
+          "canonicalMarket": "GO_THE_DISTANCE",
+          "rawName": "Le combat va à son terme",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "YES",
+              "rawName": "Oui",
+              "odds": 1.49,
+              "isActive": true,
+              "selectionId": "2314820219"
+            },
+            {
+              "canonicalOutcome": "NO",
+              "rawName": "Non",
+              "odds": 2.1,
+              "isActive": true,
+              "selectionId": "2314820220"
+            }
+          ],
+          "marketId": "911|"
+        },
+        {
+          "canonicalMarket": "TOTAL_ROUNDS",
+          "rawName": "Nombre de rounds",
+          "period": "FULL_TIME",
+          "line": 10.5,
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OVER",
+              "rawName": "Plus de 10,5",
+              "odds": 1.37,
+              "isActive": true,
+              "selectionId": "2314866448",
+              "line": 10.5
+            },
+            {
+              "canonicalOutcome": "UNDER",
+              "rawName": "Moins de 10,5",
+              "odds": 2.4,
+              "isActive": true,
+              "selectionId": "2314866449",
+              "line": 10.5
+            }
+          ],
+          "marketId": "18|total=10.5"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/74297064",
+        "tournamentId": 46,
+        "srTournamentId": "sr:tournament:24327",
+        "round": "Titre mondial WBA des poids super-plumes"
+      },
+      "slug": "/paris-sportifs/match/74297064",
+      "sport": "boxing",
+      "startTime": "2026-12-19T23:00:00.000Z",
+      "updatedAt": "2026-11-24T02:49:32.055Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "boxing",
+      "_last_updated": "2026-11-24T02:53:37.812970+00:00"
+    },
+    {
+      "eventId": "76192924",
+      "away": "James Dickens",
+      "betradarId": "76192924",
+      "country": "International",
+      "home": "Ryan Garner",
       "league": "Combats",
       "live": false,
       "markets": [
@@ -13672,34 +14557,126 @@
           "selections": [
             {
               "canonicalOutcome": "HOME",
-              "rawName": "A. Cacace",
-              "odds": 1.4,
+              "rawName": "R. Garner",
+              "odds": 1.15,
               "isActive": true,
-              "selectionId": "2142581116"
+              "selectionId": "2264628104"
             },
             {
               "canonicalOutcome": "AWAY",
-              "rawName": "N. Ball",
-              "odds": 2.3,
+              "rawName": "J. Dickens",
+              "odds": 3.6,
               "isActive": true,
-              "selectionId": "2142581117"
+              "selectionId": "2264628105"
             }
           ],
           "marketId": "186|"
         }
       ],
       "moreInfo": {
-        "site": "/paris-sportifs/match/74297064",
+        "site": "/paris-sportifs/match/76192924",
         "tournamentId": 46,
         "srTournamentId": "sr:tournament:24327"
       },
-      "slug": "/paris-sportifs/match/74297064",
+      "slug": "/paris-sportifs/match/76192924",
       "sport": "boxing",
-      "startTime": "2026-12-19T23:00:00.000Z",
-      "updatedAt": "2026-10-20T11:25:34.678Z",
+      "startTime": "2027-01-09T15:00:00.000Z",
+      "updatedAt": "2026-11-24T02:39:22.320Z",
       "_source": "Winamax",
       "_pulscore_sport": "boxing",
-      "_last_updated": "2026-10-20T11:34:53.950261+00:00"
+      "_last_updated": "2026-11-24T02:53:37.812970+00:00"
+    },
+    {
+      "eventId": "76742314",
+      "away": "Skye Falzon",
+      "betradarId": "76742314",
+      "country": "International",
+      "home": "Amanda Serrano",
+      "league": "Combats",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Vainqueur",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "A. Serrano",
+              "odds": 1.01,
+              "isActive": true,
+              "selectionId": "2298172382"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "S. Falzon",
+              "odds": 6.5,
+              "isActive": true,
+              "selectionId": "2298172383"
+            }
+          ],
+          "marketId": "186|"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/76742314",
+        "tournamentId": 46,
+        "srTournamentId": "sr:tournament:24327"
+      },
+      "slug": "/paris-sportifs/match/76742314",
+      "sport": "boxing",
+      "startTime": "2027-01-09T20:30:00.000Z",
+      "updatedAt": "2026-11-24T02:39:16.060Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "boxing",
+      "_last_updated": "2026-11-24T02:53:37.812970+00:00"
+    },
+    {
+      "eventId": "75882118",
+      "away": "Zhanibek Alimkhanuly",
+      "betradarId": "75882118",
+      "country": "International",
+      "home": "Jacob Bank",
+      "league": "Combats",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Vainqueur",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "J. Bank",
+              "odds": 2.2,
+              "isActive": true,
+              "selectionId": "2246217583"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Z. Alimkhanuly",
+              "odds": 1.45,
+              "isActive": true,
+              "selectionId": "2246217584"
+            }
+          ],
+          "marketId": "186|"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/75882118",
+        "tournamentId": 46,
+        "srTournamentId": "sr:tournament:24327"
+      },
+      "slug": "/paris-sportifs/match/75882118",
+      "sport": "boxing",
+      "startTime": "2027-01-23T14:30:00.000Z",
+      "updatedAt": "2026-11-24T02:39:24.897Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "boxing",
+      "_last_updated": "2026-11-24T02:53:37.812970+00:00"
     },
     {
       "eventId": "76067096",
@@ -13838,6 +14815,505 @@
       "_source": "Winamax",
       "_pulscore_sport": "mma",
       "_last_updated": "2026-11-18T17:14:46.588439+00:00"
+    },
+    {
+      "eventId": "76742312",
+      "away": "Stephanie Han",
+      "betradarId": "76742312",
+      "country": "International",
+      "home": "Caroline Sara Dubois",
+      "league": "Combats",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Vainqueur",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "C. S. Dubois",
+              "odds": 1.08,
+              "isActive": true,
+              "selectionId": "2298177752"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "S. Han",
+              "odds": 4.6,
+              "isActive": true,
+              "selectionId": "2298177753"
+            }
+          ],
+          "marketId": "186|"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/76742312",
+        "tournamentId": 46,
+        "srTournamentId": "sr:tournament:24327"
+      },
+      "slug": "/paris-sportifs/match/76742312",
+      "sport": "boxing",
+      "startTime": "2027-02-20T21:00:00.000Z",
+      "updatedAt": "2026-11-24T02:39:24.125Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "boxing",
+      "_last_updated": "2026-11-24T02:53:37.812970+00:00"
+    },
+    {
+      "eventId": "76742310",
+      "away": "Josh Kelly",
+      "betradarId": "76742310",
+      "country": "International",
+      "home": "Jaron Ennis",
+      "league": "Combats",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "DRAW_NO_BET",
+          "rawName": "Vainqueur",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "J. Ennis",
+              "odds": 1.05,
+              "isActive": true,
+              "selectionId": "2298174754"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "J. Kelly",
+              "odds": 5.1,
+              "isActive": true,
+              "selectionId": "2298174755"
+            }
+          ],
+          "marketId": "186|"
+        },
+        {
+          "canonicalMarket": "TOTAL_ROUNDS",
+          "rawName": "Nombre de rounds",
+          "period": "FULL_TIME",
+          "line": 5.5,
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OVER",
+              "rawName": "Plus de 5,5",
+              "odds": 1.4,
+              "isActive": true,
+              "selectionId": "2321821842",
+              "line": 5.5
+            },
+            {
+              "canonicalOutcome": "UNDER",
+              "rawName": "Moins de 5,5",
+              "odds": 2.3,
+              "isActive": true,
+              "selectionId": "2321821843",
+              "line": 5.5
+            }
+          ],
+          "marketId": "18|total=5.5"
+        },
+        {
+          "canonicalMarket": "OTHER",
+          "rawName": "Vainqueur et nombre exact de rounds",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "J. Ennis et 1",
+              "odds": 13.5,
+              "isActive": true,
+              "selectionId": "2321834640"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "J. Ennis et 2",
+              "odds": 11.5,
+              "isActive": true,
+              "selectionId": "2321834641"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "J. Ennis et 3",
+              "odds": 10.5,
+              "isActive": true,
+              "selectionId": "2321834642"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "J. Ennis et 4",
+              "odds": 9.5,
+              "isActive": true,
+              "selectionId": "2321834643"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "J. Ennis et 5",
+              "odds": 9.5,
+              "isActive": true,
+              "selectionId": "2321834644"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "J. Ennis et 6",
+              "odds": 9,
+              "isActive": true,
+              "selectionId": "2321834645"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "J. Ennis et 7",
+              "odds": 9.5,
+              "isActive": true,
+              "selectionId": "2321834646"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "J. Ennis et 8",
+              "odds": 9.5,
+              "isActive": true,
+              "selectionId": "2321834647"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "J. Ennis et 9",
+              "odds": 10.5,
+              "isActive": true,
+              "selectionId": "2321834648"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "J. Ennis et 10",
+              "odds": 11.5,
+              "isActive": true,
+              "selectionId": "2321834649"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "J. Ennis et 11",
+              "odds": 13.5,
+              "isActive": true,
+              "selectionId": "2321834650"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "J. Ennis et 12 (avant décision)",
+              "odds": 16,
+              "isActive": true,
+              "selectionId": "2321834651"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "J. Ennis et 12 (après décision)",
+              "odds": 4.8,
+              "isActive": true,
+              "selectionId": "2321834638"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Match nul",
+              "odds": 30,
+              "isActive": true,
+              "selectionId": "2321834637"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "J. Kelly et 1",
+              "odds": 100,
+              "isActive": true,
+              "selectionId": "2321834652"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "J. Kelly et 2",
+              "odds": 95,
+              "isActive": true,
+              "selectionId": "2321834653"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "J. Kelly et 3",
+              "odds": 85,
+              "isActive": true,
+              "selectionId": "2321834654"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "J. Kelly et 4",
+              "odds": 80,
+              "isActive": true,
+              "selectionId": "2321834655"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "J. Kelly et 5",
+              "odds": 75,
+              "isActive": true,
+              "selectionId": "2321834656"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "J. Kelly et 6",
+              "odds": 75,
+              "isActive": true,
+              "selectionId": "2321834657"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "J. Kelly et 7",
+              "odds": 75,
+              "isActive": true,
+              "selectionId": "2321834658"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "J. Kelly et 8",
+              "odds": 75,
+              "isActive": true,
+              "selectionId": "2321834659"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "J. Kelly et 9",
+              "odds": 80,
+              "isActive": true,
+              "selectionId": "2321834660"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "J. Kelly et 10",
+              "odds": 85,
+              "isActive": true,
+              "selectionId": "2321834661"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "J. Kelly et 11",
+              "odds": 95,
+              "isActive": true,
+              "selectionId": "2321834662"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "J. Kelly et 12 (avant décision)",
+              "odds": 100,
+              "isActive": true,
+              "selectionId": "2321834663"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "J. Kelly et 12 (après décision)",
+              "odds": 10.5,
+              "isActive": true,
+              "selectionId": "2321834639"
+            }
+          ],
+          "marketId": "912|variant=sr:winner_and_rounds:12"
+        },
+        {
+          "canonicalMarket": "OTHER",
+          "rawName": "Vainqueur et nombre de rounds (intervalle)",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "J. Ennis et round 1-3",
+              "odds": 4.5,
+              "isActive": true,
+              "selectionId": "2321834667"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "J. Ennis et round 4-6",
+              "odds": 3.8,
+              "isActive": true,
+              "selectionId": "2321834668"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "J. Ennis et round 7-9",
+              "odds": 3.9,
+              "isActive": true,
+              "selectionId": "2321834669"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "J. Ennis et round 10-12",
+              "odds": 5.2,
+              "isActive": true,
+              "selectionId": "2321834670"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "J. Ennis et décision",
+              "odds": 4.8,
+              "isActive": true,
+              "selectionId": "2321834665"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Match nul",
+              "odds": 30,
+              "isActive": true,
+              "selectionId": "2321834664"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "J. Kelly et round 1-3",
+              "odds": 50,
+              "isActive": true,
+              "selectionId": "2321834671"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "J. Kelly et round 4-6",
+              "odds": 44,
+              "isActive": true,
+              "selectionId": "2321834672"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "J. Kelly et round 7-9",
+              "odds": 42,
+              "isActive": true,
+              "selectionId": "2321834673"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "J. Kelly et round 10-12",
+              "odds": 50,
+              "isActive": true,
+              "selectionId": "2321834674"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "J. Kelly et décision",
+              "odds": 10.5,
+              "isActive": true,
+              "selectionId": "2321834666"
+            }
+          ],
+          "marketId": "913|variant=sr:winner_and_round_range:12"
+        },
+        {
+          "canonicalMarket": "OTHER",
+          "rawName": "Vainqueur et méthode de victoire",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "J. Ennis gagne par KO ou KO technique",
+              "odds": 1.26,
+              "isActive": true,
+              "selectionId": "2321834676"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "J. Ennis gagne par décision",
+              "odds": 4.8,
+              "isActive": true,
+              "selectionId": "2321834678"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "J. Kelly gagne par décision",
+              "odds": 10.5,
+              "isActive": true,
+              "selectionId": "2321834679"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "J. Kelly gagne par KO ou KO technique",
+              "odds": 15,
+              "isActive": true,
+              "selectionId": "2321834677"
+            },
+            {
+              "canonicalOutcome": "OTHER",
+              "rawName": "Égalité",
+              "odds": 30,
+              "isActive": true,
+              "selectionId": "2321834675"
+            }
+          ],
+          "marketId": "910|variant=sr:winning_method:ko_decision"
+        },
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Résultat",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "J. Ennis",
+              "odds": 1.07,
+              "isActive": true,
+              "selectionId": "2321834680"
+            },
+            {
+              "canonicalOutcome": "DRAW",
+              "rawName": "Match nul",
+              "odds": 30,
+              "isActive": true,
+              "selectionId": "2321834681"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "J. Kelly",
+              "odds": 6.75,
+              "isActive": true,
+              "selectionId": "2321834682"
+            }
+          ],
+          "marketId": "1|"
+        },
+        {
+          "canonicalMarket": "GO_THE_DISTANCE",
+          "rawName": "Le combat va à son terme",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "YES",
+              "rawName": "Oui",
+              "odds": 3.45,
+              "isActive": true,
+              "selectionId": "2321834683"
+            },
+            {
+              "canonicalOutcome": "NO",
+              "rawName": "Non",
+              "odds": 1.2,
+              "isActive": true,
+              "selectionId": "2321834684"
+            }
+          ],
+          "marketId": "911|"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/76742310",
+        "tournamentId": 46,
+        "srTournamentId": "sr:tournament:24327"
+      },
+      "slug": "/paris-sportifs/match/76742310",
+      "sport": "boxing",
+      "startTime": "2027-02-27T21:00:00.000Z",
+      "updatedAt": "2026-11-24T02:49:34.458Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "boxing",
+      "_last_updated": "2026-11-24T02:53:37.812970+00:00"
     }
   ]
 }
