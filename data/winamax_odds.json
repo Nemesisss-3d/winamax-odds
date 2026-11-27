@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-27T08:29:25.590086+00:00",
+  "generatedAt": "2026-11-27T19:27:47.105041+00:00",
   "source": "PulseScore / Winamax",
   "refreshStrategy": "weighted rotation every 2 hours; 32-slot/64-hour cycle; priority to soccer, tennis and basketball",
   "currentSportRefreshed": "tennis",
-  "eventCount": 35,
+  "eventCount": 36,
   "sportsRequested": [
     "soccer",
     "tennis",
@@ -68,60 +68,13 @@
     "ice-hockey": "2026-11-25T21:40:15.846597+00:00",
     "volleyball": "2026-11-15T17:09:18.119137+00:00",
     "badminton": "2026-11-15T22:47:19.792059+00:00",
-    "tennis": "2026-11-27T08:29:25.590086+00:00",
+    "tennis": "2026-11-27T19:27:47.105041+00:00",
     "american-football": "2026-11-12T18:18:40.334007+00:00",
     "boxing": "2026-11-24T02:53:37.812970+00:00",
     "australian-rules": "2026-11-26T22:58:57.003226+00:00"
   },
   "errors": [],
   "events": [
-    {
-      "eventId": "77189342",
-      "away": "République Tchèque",
-      "betradarId": "77189342",
-      "country": "Coupe Davis",
-      "home": "Italie",
-      "league": "Finals",
-      "live": false,
-      "markets": [
-        {
-          "canonicalMarket": "MATCH_RESULT",
-          "rawName": "Vainqueur",
-          "period": "FULL_TIME",
-          "isActive": true,
-          "selections": [
-            {
-              "canonicalOutcome": "HOME",
-              "rawName": "Italie",
-              "odds": 2,
-              "isActive": true,
-              "selectionId": "2327794933"
-            },
-            {
-              "canonicalOutcome": "AWAY",
-              "rawName": "République Tchèque",
-              "odds": 1.68,
-              "isActive": true,
-              "selectionId": "2327794934"
-            }
-          ],
-          "marketId": "186|type=prematch"
-        }
-      ],
-      "moreInfo": {
-        "site": "/paris-sportifs/match/77189342",
-        "tournamentId": 294,
-        "srTournamentId": "sr:tournament:2100",
-        "round": "Demi-finale"
-      },
-      "slug": "/paris-sportifs/match/77189342",
-      "sport": "tennis",
-      "startTime": "2026-11-27T15:00:00.000Z",
-      "updatedAt": "2026-11-27T08:23:53.540Z",
-      "_source": "Winamax",
-      "_pulscore_sport": "tennis",
-      "_last_updated": "2026-11-27T08:29:25.590086+00:00"
-    },
     {
       "eventId": "77225736",
       "away": "Espagne",
@@ -140,14 +93,14 @@
             {
               "canonicalOutcome": "HOME",
               "rawName": "Grande-Bretagne",
-              "odds": 3.55,
+              "odds": 3.65,
               "isActive": true,
               "selectionId": "2329407507"
             },
             {
               "canonicalOutcome": "AWAY",
               "rawName": "Espagne",
-              "odds": 1.23,
+              "odds": 1.22,
               "isActive": true,
               "selectionId": "2329407508"
             }
@@ -164,10 +117,100 @@
       "slug": "/paris-sportifs/match/77225736",
       "sport": "tennis",
       "startTime": "2026-11-28T11:00:00.000Z",
-      "updatedAt": "2026-11-27T08:20:44.820Z",
+      "updatedAt": "2026-11-27T19:17:40.196Z",
       "_source": "Winamax",
       "_pulscore_sport": "tennis",
-      "_last_updated": "2026-11-27T08:29:25.590086+00:00"
+      "_last_updated": "2026-11-27T19:27:47.105041+00:00"
+    },
+    {
+      "eventId": "1000333772",
+      "away": "Rafael Jodar",
+      "country": "Coupe Davis",
+      "home": "Cameron Norrie",
+      "league": "Finals",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Vainqueur",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "C. Norrie",
+              "odds": 2.85,
+              "isActive": true,
+              "selectionId": "2330713892"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "R. Jodar",
+              "odds": 1.3,
+              "isActive": true,
+              "selectionId": "2330713893"
+            }
+          ],
+          "marketId": "186|type=prematch"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/1000333772",
+        "tournamentId": 294,
+        "round": "Grande-Bretagne - Espagne (1/3)"
+      },
+      "slug": "/paris-sportifs/match/1000333772",
+      "sport": "tennis",
+      "startTime": "2026-11-28T11:00:00.000Z",
+      "updatedAt": "2026-11-27T19:27:07.146Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "tennis",
+      "_last_updated": "2026-11-27T19:27:47.105041+00:00"
+    },
+    {
+      "eventId": "1000333978",
+      "away": "Carlos Alcaraz",
+      "country": "Coupe Davis",
+      "home": "Arthur Fery",
+      "league": "Finals",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Vainqueur",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "A. Fery",
+              "odds": 7,
+              "isActive": true,
+              "selectionId": "2330747591"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "C. Alcaraz ",
+              "odds": 1.02,
+              "isActive": true,
+              "selectionId": "2330747592"
+            }
+          ],
+          "marketId": "186|type=prematch"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/1000333978",
+        "tournamentId": 294,
+        "round": "Grande-Bretagne - Espagne (2/3)"
+      },
+      "slug": "/paris-sportifs/match/1000333978",
+      "sport": "tennis",
+      "startTime": "2026-11-28T12:30:00.000Z",
+      "updatedAt": "2026-11-27T19:27:10.809Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "tennis",
+      "_last_updated": "2026-11-27T19:27:47.105041+00:00"
     },
     {
       "eventId": "75415408",
