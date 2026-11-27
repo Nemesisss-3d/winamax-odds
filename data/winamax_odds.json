@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-26T22:58:57.003226+00:00",
+  "generatedAt": "2026-11-27T08:29:25.590086+00:00",
   "source": "PulseScore / Winamax",
   "refreshStrategy": "weighted rotation every 2 hours; 32-slot/64-hour cycle; priority to soccer, tennis and basketball",
-  "currentSportRefreshed": "australian-rules",
-  "eventCount": 33,
+  "currentSportRefreshed": "tennis",
+  "eventCount": 35,
   "sportsRequested": [
     "soccer",
     "tennis",
@@ -68,13 +68,107 @@
     "ice-hockey": "2026-11-25T21:40:15.846597+00:00",
     "volleyball": "2026-11-15T17:09:18.119137+00:00",
     "badminton": "2026-11-15T22:47:19.792059+00:00",
-    "tennis": "2026-11-23T14:36:38.730523+00:00",
+    "tennis": "2026-11-27T08:29:25.590086+00:00",
     "american-football": "2026-11-12T18:18:40.334007+00:00",
     "boxing": "2026-11-24T02:53:37.812970+00:00",
     "australian-rules": "2026-11-26T22:58:57.003226+00:00"
   },
   "errors": [],
   "events": [
+    {
+      "eventId": "77189342",
+      "away": "République Tchèque",
+      "betradarId": "77189342",
+      "country": "Coupe Davis",
+      "home": "Italie",
+      "league": "Finals",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Vainqueur",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Italie",
+              "odds": 2,
+              "isActive": true,
+              "selectionId": "2327794933"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "République Tchèque",
+              "odds": 1.68,
+              "isActive": true,
+              "selectionId": "2327794934"
+            }
+          ],
+          "marketId": "186|type=prematch"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/77189342",
+        "tournamentId": 294,
+        "srTournamentId": "sr:tournament:2100",
+        "round": "Demi-finale"
+      },
+      "slug": "/paris-sportifs/match/77189342",
+      "sport": "tennis",
+      "startTime": "2026-11-27T15:00:00.000Z",
+      "updatedAt": "2026-11-27T08:23:53.540Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "tennis",
+      "_last_updated": "2026-11-27T08:29:25.590086+00:00"
+    },
+    {
+      "eventId": "77225736",
+      "away": "Espagne",
+      "betradarId": "77225736",
+      "country": "Coupe Davis",
+      "home": "Grande-Bretagne",
+      "league": "Finals",
+      "live": false,
+      "markets": [
+        {
+          "canonicalMarket": "MATCH_RESULT",
+          "rawName": "Vainqueur",
+          "period": "FULL_TIME",
+          "isActive": true,
+          "selections": [
+            {
+              "canonicalOutcome": "HOME",
+              "rawName": "Grande-Bretagne",
+              "odds": 3.55,
+              "isActive": true,
+              "selectionId": "2329407507"
+            },
+            {
+              "canonicalOutcome": "AWAY",
+              "rawName": "Espagne",
+              "odds": 1.23,
+              "isActive": true,
+              "selectionId": "2329407508"
+            }
+          ],
+          "marketId": "186|type=prematch"
+        }
+      ],
+      "moreInfo": {
+        "site": "/paris-sportifs/match/77225736",
+        "tournamentId": 294,
+        "srTournamentId": "sr:tournament:2100",
+        "round": "Demi-finale"
+      },
+      "slug": "/paris-sportifs/match/77225736",
+      "sport": "tennis",
+      "startTime": "2026-11-28T11:00:00.000Z",
+      "updatedAt": "2026-11-27T08:20:44.820Z",
+      "_source": "Winamax",
+      "_pulscore_sport": "tennis",
+      "_last_updated": "2026-11-27T08:29:25.590086+00:00"
+    },
     {
       "eventId": "75415408",
       "away": "Nelson Hysa",
